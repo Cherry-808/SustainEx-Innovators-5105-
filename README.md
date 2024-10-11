@@ -9,3 +9,4 @@ This project aims to develop an innovative system that automates the extraction 
 4.搭前端
 5.回归分析
 6.呈现所有ppt+录video
+![1728649628686](https://github.com/user-attachments/assets/0c570879-c5d6-4d48-a52a-b9f4e4e106c0)
