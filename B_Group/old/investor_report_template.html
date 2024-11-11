@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ESG Analytics Report - Investor</title>
+</head>
+<body>
+    <header>
+        <h1>ESG Analytics Report - Investor</h1>
+        <h2>Company: {{ company_name }}</h2>
+        <p>Report Date: {{ report_upload_date }} | Analysis Date: {{ analysis_date }}</p>
+    </header>
+    
+    <section>
+        <h2>1. Background</h2>
+        <p>{{ company_profile }}</p>
+        <h3>Model Overview</h3>
+        <p>{{ model_overview }}</p>
+        <h3>ESG Development Overview</h3>
+        <p>{{ esg_background }}</p>
+        <h3>Industry-Specific Benchmarks</h3>
+        <p>{{ industry_benchmarks }}</p>
+    </section>
+    
+    <section>
+        <h2>2. Report Highlights</h2>
+        <h3>Overall Sustainability Strategy</h3>
+        <p>{{ sustainability_strategy }}</p>
+        
+        <h3>ESG Performance</h3>
+        <p>Environmental Score: {{ environmental_score }}</p>
+        <p>Social Score: {{ social_score }}</p>
+        <p>Governance Score: {{ governance_score }}</p>
+        
+        <h4>Industry Comparison</h4>
+        <p>{{ industry_comparison }}</p>
+    </section>
+    
+    <section>
+        <h2>3. Achievements and Outlook</h2>
+        <p>{{ achievements_outlook }}</p>
+    </section>
+
+    <section>
+        <h2>4. Summary</h2>
+        <p>{{ investor_summary }}</p>
+    </section>
+</body>
+</html>

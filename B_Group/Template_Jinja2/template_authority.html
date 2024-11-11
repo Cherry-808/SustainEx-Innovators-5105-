@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ESG Analytics Report for Regulatory Authorities</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: #0056b3;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        .header, .footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+        .score-table th {
+            background-color: #f0f0f0;
+        }
+    </style>
+</head>
+<body>
+
+<div class="header">
+    <h1>ESG Analytics Report for Regulatory Authorities</h1>
+    <p><strong>Company Name:</strong> {{ data.company_name }}</p>
+    <p><strong>Report Upload Date:</strong> {{ data.upload_date }}</p>
+    <p><strong>Analysis Generation Date:</strong> {{ data.analysis_date }}</p>
+</div>
+
+<div class="container">
+    <!-- 1. Background -->
+    <div class="section">
+        <h2>1. Background</h2>
+        <h3>1) Company Introduction</h3>
+        <p>
+            This report provides an overview of {{ data.company_name }}’s profile, focusing on ESG-related operations. Key highlights 
+            in the company’s approach include {{ data.background.introduction }}.
+        </p>
+        
+        <h3>2) Model Introduction</h3>
+        <p>
+            Our model assesses {{ data.company_name }}’s ESG compliance and performance across key dimensions, including Environmental 
+            Impact, Social Responsibility, and Governance Structures. Each dimension is evaluated using industry-aligned indicators, 
+            offering a comprehensive view of compliance and sustainability efforts.
+        </p>
+        
+        <h3>3) Trends in Regulatory Requirements</h3>
+        <p>
+            ESG-related regulations are evolving with a focus on strengthening compliance requirements across environmental, social, 
+            and governance aspects. Climate action policies in the environmental sector encourage companies to invest in emissions 
+            reduction and sustainable production. Social regulations increasingly emphasize supply chain transparency and labor rights, 
+            while governance regulations promote anti-corruption measures and data protection. These regulatory shifts present compliance 
+            challenges and competitive opportunities, and {{ data.company_name }} remains vigilant in tracking both global and domestic policy changes 
+            to enhance its ESG strategy and meet the heightened expectations of industry and society.
+        </p>
+        
+        <h3>4) Standardized ESG Performance Benchmarks</h3>
+        <p>
+            To enhance transparency and ensure fair comparisons within the industry, {{ data.company_name }} has established standardized ESG 
+            benchmarks. These benchmarks, created using advanced data processing techniques to address data inconsistencies, 
+            enable consistent comparisons and guide strategic improvements. This approach strengthens {{ data.company_name }}'s competitiveness in 
+            the ESG arena and supports sustainable decision-making.
+        </p>
+    </div>
+
+    <!-- 2. Report Highlights -->
+    <div class="section">
+        <h2>2. Report Highlights</h2>
+        <h3>1) Sustainability Approach Strategy</h3>
+        <p>{{ data.highlights.strategy }}</p>
+        
+        <h3>2) ESG Scores and Industry Comparison</h3>
+        <table class="score-table">
+            <thead>
+                <tr>
+                    <th>Dimension</th>
+                    <th>Score (10=High, 5 or below=Low)</th>
+                    <th>Industry Position</th>
+                    <th>Performance Summary</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Environmental</td>
+                    <td>{{ data.scores.environmental }}</td>
+                    <td>{{ data.scores.industry_position_env }}</td>
+                    <td>{{ data.scores.environmental_summary }}</td>
+                </tr>
+                <tr>
+                    <td>Social</td>
+                    <td>{{ data.scores.social }}</td>
+                    <td>{{ data.scores.industry_position_soc }}</td>
+                    <td>{{ data.scores.social_summary }}</td>
+                </tr>
+                <tr>
+                    <td>Governance</td>
+                    <td>{{ data.scores.governance }}</td>
+                    <td>{{ data.scores.industry_position_gov }}</td>
+                    <td>{{ data.scores.governance_summary }}</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <h3>3) Detailed Indicator Comparison</h3>
+        <p>Key indicators compared to industry standards:</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Indicator</th>
+                    <th>Company Value</th>
+                    <th>Industry Average</th>
+                    <th>Performance Summary</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for indicator in data.highlights.goals %}
+                    <tr>
+                        <td>{{ indicator.indicator }}</td>
+                        <td>{{ indicator.value }}</td>
+                        <td>{{ indicator.industry_avg }}</td>
+                        <td>{{ indicator.summary }}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    <!-- 3. Achievements and Outlook -->
+    <div class="section">
+        <h2>3. Achievements and Outlook</h2>
+        <p>{{ data.achievements_outlook }}</p>
+    </div>
+
+    <!-- 4. Summary -->
+    <div class="section">
+        <h2>4. Summary</h2>
+        <p>
+            <strong>High Score:</strong> In conclusion, {{ data.company_name }} has made significant progress in meeting ESG compliance 
+            standards, especially excelling in {{ data.highest_rated_dimension }}, aligning closely with industry benchmarks. Areas for 
+            improvement include {{ data.lowest_rated_dimension }}, where further resources may be needed to fully meet compliance expectations. 
+            Moving forward, {{ data.company_name }} is committed to increasing investments in environmental protection, social responsibility, and 
+            governance to ensure alignment with evolving regulatory standards and support long-term sustainability.
+        </p>
+        
+        <p>
+            <strong>Low Score:</strong> In summary, {{ data.company_name }} has shown steady progress in {{ data.highest_rated_dimension }}, 
+            but faces challenges in {{ data.lowest_rated_dimension }}, where performance does not yet meet industry benchmarks. Enhancing 
+            compliance efforts in this area is critical to reduce regulatory risk. Looking ahead, increased allocation of resources to 
+            environmental, social, and governance initiatives will help ensure that {{ data.company_name }} meets or exceeds evolving standards 
+            and strengthens its ESG performance overall.
+        </p>
+    </div>
+</div>
+
+<div class="footer">
+    <p>Generated by SustainEx Innovators | {{ data.contact_info }}</p>
+</div>
+
+</body>
+</html>
