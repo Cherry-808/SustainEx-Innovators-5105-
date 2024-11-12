@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import './App.css';
 
 function Feedback() {
   const [feedback, setFeedback] = useState('');
@@ -13,7 +14,7 @@ function Feedback() {
   };
 
   return (
-    <div>
+    <div className="feedback-container">
       <h2>Feedback</h2>
       <textarea value={feedback} onChange={handleFeedbackChange} />
       <button onClick={submitFeedback}>Submit Feedback</button>
