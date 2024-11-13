@@ -1,0 +1,85 @@
+﻿,index_name,index_value,Company Report Name,Year,Predicted_label,Score
+0,Social.Our people,7,DRAX-ESG--Supplement,2023,Development & Training,7
+1,Assurance statements.Assurance statements,10,DRAX-ESG--Supplement,2023,Assurance of Sustainability Report,7
+2,GenerationCO2eEmissions.2023,141,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),8
+3,GenerationCO2eEmissions.2022,310,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),4
+4,GenerationCO2eEmissions.2021,525,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),7
+5,ProportionOfGroupEmissionsWithinUK.2023,34,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),3
+6,ProportionOfGroupEmissionsWithinUK.2022,51,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),5
+7,ProportionOfGroupEmissionsWithinUK.2021,78,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),8
+8,BiogenicCO2Emissions.2023,11463,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),7
+9,BiogenicCO2Emissions.2021,13415,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),4
+10,GenerationEmissionsPerGWh.2023,11,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),7
+11,GenerationEmissionsPerGWh.2022,23,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),4
+12,GenerationEmissionsPerGWh.2021,33,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),7
+13,GroupEmissionsPerGWh.2022,49,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),8
+14,WasteGeneratedInOperations.2023,1477,DRAX-ESG--Supplement,2023,Waste Generation,7
+15,WasteGeneratedInOperations.2022,3601,DRAX-ESG--Supplement,2023,Waste Generation,7
+16,WasteGeneratedInOperations.2021,3150,DRAX-ESG--Supplement,2023,Waste Generation,7
+17,Group total energy consumption.2023,34113,DRAX-ESG--Supplement,2023,Energy Consumption(GJ),7
+18,Group total energy consumption.2022,38341,DRAX-ESG--Supplement,2023,Energy Consumption(GJ),7
+19,Group total energy consumption.2021,44113,DRAX-ESG--Supplement,2023,Energy Consumption(GJ),7
+20,Group total energy consumption within the UK.2023,30125,DRAX-ESG--Supplement,2023,Energy Consumption(GJ),6
+21,Group total energy consumption within the UK.2022,33789,DRAX-ESG--Supplement,2023,Energy Consumption(GJ),8
+22,Group total energy consumption within the UK.2021,40112,DRAX-ESG--Supplement,2023,Energy Consumption(GJ),7
+23,Scope 1 and 2 emissions reduction from electricity generation by 2030.Base Year 2020,100,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),6
+24,Scope 1 and 2 emissions reduction from electricity generation by 2030.2022,23,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),7
+25,Scope 1 and 2 emissions reduction from electricity generation by 2030.2023,11,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),7
+26,"Scope 1, 2, and 3 emissions reduction from all sold electricity by 2030.Base Year 2020",103,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),8
+27,"Scope 1, 2, and 3 emissions reduction from all sold electricity by 2030.2022",34,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),6
+28,"Scope 1, 2, and 3 emissions reduction from all sold electricity by 2030.2023",22,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),7
+29,Non-generation Scope 1 and 2 emissions reduction by 2030.Base Year 2020,282926,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),7
+30,Non-generation Scope 1 and 2 emissions reduction by 2030.2022,357994,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),7
+31,Non-generation Scope 1 and 2 emissions reduction by 2030.2023,345051,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),7
+32,Scope 3 emissions reduction by 2030.Base Year 2020,3557561,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),7
+33,Scope 3 emissions reduction by 2030.2022,3123388,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),7
+34,Scope 3 emissions reduction by 2030.2023,3554369,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),7
+35,Sulphur hexafluoride.2023,0.1,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),4
+36,Nitrogen oxides.2022,836,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),3
+37,Water withdrawn/abstracted from areas of water stress.2023,0,DRAX-ESG--Supplement,2023,Water Consumption,8
+38,Water consumed from areas of water stress.2023,347,DRAX-ESG--Supplement,2023,Water Consumption,6
+39,Total water abstracted - Power Generation.2023,45058529,DRAX-ESG--Supplement,2023,Water Consumption,7
+40,Total water abstracted - Power Generation.2022,51899818,DRAX-ESG--Supplement,2023,Water Consumption,5
+41,Total water returned - Power Generation.2023,41223516,DRAX-ESG--Supplement,2023,Water Consumption,7
+42,Total water returned - Power Generation.2022,47187916,DRAX-ESG--Supplement,2023,Water Consumption,5
+43,Total water abstracted and returned - Hydro Generation.2023,3515581216,DRAX-ESG--Supplement,2023,Water Consumption,7
+44,Total water abstracted and returned - Hydro Generation.2022,3389452345,DRAX-ESG--Supplement,2023,Water Consumption,7
+45,Total water abstracted from reservoir - Pumped Storage.2023,465042239,DRAX-ESG--Supplement,2023,Water Consumption,7
+46,Total water abstracted from reservoir - Pumped Storage.2022,361145582,DRAX-ESG--Supplement,2023,Water Consumption,8
+47,Total water abstracted from Loch Awe - Pumped Storage.2023,451360634,DRAX-ESG--Supplement,2023,Water Consumption,5
+48,Total water abstracted from Loch Awe - Pumped Storage.2022,325844996,DRAX-ESG--Supplement,2023,Water Consumption,5
+49,Total waste generated.2023,47322,DRAX-ESG--Supplement,2023,Waste Generation,5
+50,Total hazardous waste generated.2023,3281,DRAX-ESG--Supplement,2023,Waste Generation,3
+51,Average biomass supply chain GHG emissions.2023,97,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),6
+52,Average biomass supply chain GHG emissions.2022,96,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),8
+53,US.Sawmill and other wood industry residues,1698041,DRAX-ESG--Supplement,2023,Waste Generation,3
+54,Estonia.Sawmill and other wood industry residues,17992,DRAX-ESG--Supplement,2023,Waste Generation,7
+55,Brazil.Sawmill and other wood industry residues,1202,DRAX-ESG--Supplement,2023,Waste Generation,5
+56,Portugal.Sawmill and other wood industry residues,45,DRAX-ESG--Supplement,2023,Waste Generation,5
+57,Lithuania.Sawmill and other wood industry residues,9883,DRAX-ESG--Supplement,2023,Waste Generation,6
+58,UK.Sawmill and other wood industry residues,0,DRAX-ESG--Supplement,2023,Waste Generation,1
+59,Bulgaria.Sawmill and other wood industry residues,0,DRAX-ESG--Supplement,2023,Waste Generation,1
+60,Other European.Sawmill and other wood industry residues,5217,DRAX-ESG--Supplement,2023,Waste Generation,7
+61,Total.Sawmill and other wood industry residues,3550630,DRAX-ESG--Supplement,2023,Waste Generation,7
+62,Total.End-of-life trees,28656,DRAX-ESG--Supplement,2023,Waste Generation,4
+63,Total.Agricultural residues,176397,DRAX-ESG--Supplement,2023,Waste Generation,4
+64,Canada.Sawmill and other wood industry residues,1467578,DRAX-ESG--Supplement,2023,Waste Generation,4
+65,US.Sawmill and other wood industry residues,1289412,DRAX-ESG--Supplement,2023,Waste Generation,8
+66,Canada.Sawmill and other wood industry residues,406723,DRAX-ESG--Supplement,2023,Waste Generation,5
+67,Brazil.Sawmill and other wood industry residues,1202,DRAX-ESG--Supplement,2023,Waste Generation,5
+68,Portugal.Sawmill and other wood industry residues,45,DRAX-ESG--Supplement,2023,Waste Generation,7
+69,Lithuania.Sawmill and other wood industry residues,9883,DRAX-ESG--Supplement,2023,Waste Generation,7
+70,UK.Sawmill and other wood industry residues,0,DRAX-ESG--Supplement,2023,Waste Generation,5
+71,Bulgaria.Sawmill and other wood industry residues,0,DRAX-ESG--Supplement,2023,Waste Generation,5
+72,Other European.Sawmill and other wood industry residues,5217,DRAX-ESG--Supplement,2023,Waste Generation,7
+73,Total.Sawmill and other wood industry residues,1834555,DRAX-ESG--Supplement,2023,Waste Generation,7
+74,"Total Recordable Incident Rate (TRIR) per 100,000 hours.2023",0.38,DRAX-ESG--Supplement,2023,Occupational Health & Safety,8
+75,"Total Recordable Incident Rate (TRIR) per 100,000 hours.2022",0.44,DRAX-ESG--Supplement,2023,Occupational Health & Safety,8
+76,"Total Lost Time Incident Rate (LTIR) per 100,000 hours.2023",0.13,DRAX-ESG--Supplement,2023,Occupational Health & Safety,8
+77,"Total Lost Time Incident Rate (LTIR) per 100,000 hours.2022",0.13,DRAX-ESG--Supplement,2023,Occupational Health & Safety,8
+78,"Near Miss and Hazard Identification Rate (NMHIR) per 100,000 hours.2023",129.26,DRAX-ESG--Supplement,2023,Occupational Health & Safety,7
+79,Fatalities.2022,0,DRAX-ESG--Supplement,2023,Occupational Health & Safety,10
+80,Code_of_Conduct_eLearning_Completion.2023,92,DRAX-ESG--Supplement,2023,Development & Training,9
+81,Code_of_Conduct_eLearning_Completion.2022,99,DRAX-ESG--Supplement,2023,Development & Training,8
+82,Cyber_Security_Awareness_Training_Completion.2023,98,DRAX-ESG--Supplement,2023,Development & Training,8
+83,png.Biomass_Pellets_emissions_percentage_of_Scope_3,46,DRAX-ESG--Supplement,2023,Greenhouse Gas Emissions(“GHG”),7

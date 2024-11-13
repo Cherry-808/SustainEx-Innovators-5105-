@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ESG Performance Report - Management</title>
+</head>
+<body>
+    <header>
+        <h1>ESG Performance Report - Management</h1>
+        <h2>Company: {{ company_name }}</h2>
+        <p>Report Date: {{ report_upload_date }} | Analysis Date: {{ analysis_date }}</p>
+    </header>
+    
+    <section>
+        <h2>1. Background</h2>
+        <p>{{ company_profile }}</p>
+        <h3>Model Overview</h3>
+        <p>{{ model_overview }}</p>
+        <h3>ESG Evolution and Trends</h3>
+        <p>{{ esg_background }}</p>
+        <h3>Industry Benchmarking</h3>
+        <p>{{ industry_benchmarks }}</p>
+    </section>
+    
+    <section>
+        <h2>2. Key Insights and Recommendations</h2>
+        <h3>Overall Strategy</h3>
+        <p>{{ strategy_overview }}</p>
+        
+        <h3>ESG Performance Metrics</h3>
+        <p>Environmental Score: {{ environmental_score }}</p>
+        <p>Social Score: {{ social_score }}</p>
+        <p>Governance Score: {{ governance_score }}</p>
+        
+        <h4>Industry Comparison</h4>
+        <p>{{ industry_comparison }}</p>
+    </section>
+    
+    <section>
+        <h2>3. Achievements and Future Goals</h2>
+        <p>{{ achievements_goals }}</p>
+    </section>
+
+    <section>
+        <h2>4. Executive Summary</h2>
+        <p>{{ management_summary }}</p>
+    </section>
+</body>
+</html>
