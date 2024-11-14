@@ -1,0 +1,596 @@
+[
+    {
+        "page_1.png": {
+            "financial_year_ended": "31 December 2021",
+            "assets_under_management": 2.9,
+            "assets_under_management_currency": "billion USD",
+            "assets_under_management_date": "31 December 2021",
+            "CDLHT_listing_year": 2006
+        }
+    },
+    {
+        "page_2.png": {
+            "ReportingPeriod": "FY 2021",
+            "HotelManagementAgreementsEffectiveDate": "1 May 2021",
+            "PortfolioHotels": 18,
+            "ReportingFrameworkCorePillars": 5
+        }
+    },
+    {
+        "page_3.png": {
+            "Sustainable_Development_Goals": {
+                "Climate_Resilience_and_Environmental_Stewardship": 13,
+                "Responsible_Investment_and_Sustainable_Value": 8,
+                "Good_Governance_and_Ethical_Business": [
+                    12,
+                    16
+                ],
+                "Enable_Inclusiveness_Safety_Growth_and_Diversity_of_Our_People": [
+                    3,
+                    5,
+                    8,
+                    10
+                ],
+                "Engage_Local_Communities_and_Advocate_for_Positive_Impact": [
+                    10,
+                    17
+                ]
+            },
+            "Page_Number": 115,
+            "Footnote": {
+                "New_Material_Topics_Reporting_Year": 2022
+            }
+        }
+    },
+    {
+        "page_4.png": {
+            "SGX_Listing_Rules": "711B",
+            "Page_number": 116
+        }
+    },
+    {
+        "page_5.png": {}
+    },
+    {
+        "page_6.png": {}
+    },
+    {
+        "page_7.png": {
+            "FY 2021": {
+                "event": "The Lowry Hotel underwent upgrades to its BMS"
+            },
+            "2025": {
+                "goal": "Sustainability and Social Impact Goals related to W Hotel"
+            },
+            "Q3 2022": {
+                "event": "SP Mobility will complete installing hardware in two Singapore hotels"
+            },
+            "Hilton Cambridge City Centre": {
+                "LED lighting conversion": "95%"
+            }
+        }
+    },
+    {
+        "page_8.png": {
+            "Awards_and_Accolades": {
+                "BCA_Green_Mark_Award": {
+                    "Platinum": [
+                        "Copthorne King's Hotel",
+                        "Grand Copthorne Waterfront Hotel"
+                    ],
+                    "Gold_Plus": [
+                        "Orchard Hotel",
+                        "M Hotel"
+                    ],
+                    "Gold": [
+                        "Studio M Hotel"
+                    ]
+                },
+                "bizSAFE_Certification_Level_4": [
+                    "Orchard Hotel",
+                    "Studio M Hotel"
+                ],
+                "EarthCheck_Gold_Certificate": [
+                    "Angsana Velavaru"
+                ],
+                "Singapore_Green_Hotel_Award": [
+                    "Grand Copthorne Waterfront Hotel",
+                    "Studio M Hotel"
+                ]
+            },
+            "Performance": {
+                "Total_Electricity_Consumption_MWh": {
+                    "FY_2020": {
+                        "Singapore": 39239,
+                        "Overseas": 14406
+                    },
+                    "FY_2021": {
+                        "Singapore": 39427,
+                        "Overseas": 20152
+                    }
+                },
+                "Total_Energy_Intensity_MWh_per_m2": {
+                    "FY_2020": {
+                        "Singapore": 0.14,
+                        "Overseas": 0.21
+                    },
+                    "FY_2021": {
+                        "Singapore": 0.08,
+                        "Overseas": 0.2
+                    }
+                },
+                "Total_Fuel_Consumption_Megajoules": {
+                    "FY_2020": {
+                        "Singapore": 96981,
+                        "Overseas": 5274
+                    },
+                    "FY_2021": {
+                        "Singapore": 89098,
+                        "Overseas": 12276
+                    }
+                }
+            },
+            "Notes": {
+                "1": "Restatement of electricity consumption values for FY 2020.",
+                "2": "Metric for calculating energy intensity changed from kWh/m² to MWh/m² in FY 2021.",
+                "3": "Gross Floor Area (GFA) used for calculating energy intensity.",
+                "4": "Inclusion of Claymore Connect, Ibis Perth, and Mercure Perth in FY 2021 reporting.",
+                "5": "Conversion for diesel: 1 litre = 38 Megajoules."
+            }
+        }
+    },
+    {
+        "page_9.png": {
+            "Target": {
+                "Reduction": {
+                    "Minimum": 5,
+                    "Maximum": 7,
+                    "Unit": "%",
+                    "Timeframe": "5 years"
+                },
+                "Baseline": "FY 2019"
+            }
+        }
+    },
+    {
+        "page_10.png": {
+            "Total_Water_Consumption_Municipal_Water_Source": {
+                "FY_2020": {
+                    "Total": 608624,
+                    "Singapore": 372836,
+                    "Overseas": 235788
+                },
+                "FY_2021": {
+                    "Total": 503153,
+                    "Singapore": 309109,
+                    "Overseas": 194044
+                }
+            },
+            "Total_Water_Intensity": {
+                "FY_2020": {
+                    "Total": 1.62,
+                    "Singapore": 1.96,
+                    "Overseas": 1.28
+                },
+                "FY_2021": {
+                    "Total": 0.69,
+                    "Singapore": 1.56,
+                    "Overseas": 0.37
+                }
+            },
+            "Targets": {
+                "Water_Consumption_Reduction": {
+                    "Percentage_Range": {
+                        "Min": 2,
+                        "Max": 7
+                    },
+                    "Baseline_Year": "FY_2019"
+                }
+            },
+            "Footnotes": {
+                "6": "Restatement of water consumption values for FY 2020 due to some hotels being unable to furnish their consumption values.",
+                "7": "Gross Floor Area (GFA) for Singapore's Water Intensity in FY 2021 includes Claymore Connect.",
+                "8": "Gross Floor Area (GFA) for Energy Intensity in FY 2021 includes Ibis Perth and Mercure Perth."
+            }
+        }
+    },
+    {
+        "page_11.png": {
+            "Singapore": {
+                "Recycling": 64616.3,
+                "Landfill": 267.58,
+                "Others": 13.81,
+                "TotalWaste": 64897.69
+            },
+            "Overseas": {
+                "Recycling": 45.37,
+                "Landfill": 270997.87,
+                "Others": 3.96,
+                "TotalWaste": 271047.2
+            },
+            "AllHotels": {
+                "Recycling": 64661.67,
+                "Landfill": 271265.45,
+                "Others": 17.77,
+                "TotalWaste": 335944.89
+            }
+        }
+    },
+    {
+        "page_12.png": {
+            "Acquisition Growth Strategy": {
+                "Perspective": "Medium to long term",
+                "Interest Rates": "Historically low"
+            },
+            "Asset Management Strategy": {},
+            "Capital Recycling Strategy": {},
+            "Capital Management Strategy": {}
+        }
+    },
+    {
+        "page_13.png": {
+            "FY 2021": {
+                "cases_of_misconduct_and_non_compliance": 0,
+                "related_fines_or_sanctions": 0
+            }
+        }
+    },
+    {
+        "page_14.png": {
+            "FiscalYear": 2021
+        }
+    },
+    {
+        "page_15.png": {
+            "performance": {
+                "total_employees": 827,
+                "gender_distribution": {
+                    "male": 58,
+                    "female": 42
+                },
+                "employees_who_left": 673,
+                "employees_who_left_gender_distribution": {
+                    "male": 60,
+                    "female": 40
+                },
+                "new_hire_employment_rate": 16,
+                "turnover_rate": 13
+            },
+            "new_employee_hires_and_turnover": {
+                "singapore": {
+                    "new_employee_hires": {
+                        "male": 178,
+                        "female": 118
+                    },
+                    "rate_of_new_employee_hires": {
+                        "male": 3.57,
+                        "female": 2.36
+                    },
+                    "employee_turnover": {
+                        "male": 181,
+                        "female": 130
+                    },
+                    "rate_of_employee_turnover": {
+                        "male": 3.63,
+                        "female": 2.6
+                    }
+                },
+                "overseas": {
+                    "new_employee_hires": {
+                        "male": 298,
+                        "female": 233
+                    },
+                    "rate_of_new_employee_hires": {
+                        "male": 5.97,
+                        "female": 4.67
+                    },
+                    "employee_turnover": {
+                        "male": 155,
+                        "female": 221
+                    },
+                    "rate_of_employee_turnover": {
+                        "male": 3.1,
+                        "female": 4.43
+                    }
+                },
+                "all_hotels": {
+                    "new_employee_hires": {
+                        "male": 476,
+                        "female": 351
+                    },
+                    "rate_of_new_employee_hires": {
+                        "male": 9.5,
+                        "female": 7.0
+                    },
+                    "employee_turnover": {
+                        "male": 402,
+                        "female": 271
+                    },
+                    "rate_of_employee_turnover": {
+                        "male": 8.1,
+                        "female": 5.4
+                    }
+                }
+            }
+        }
+    },
+    {
+        "page_16.png": {
+            "Number of Fatalities as a result of Work-Related Injury": 0,
+            "Number of High-Consequence Work-Related Injury (excluding fatalities)": 42,
+            "Number of Recordable Work-Related Injury": 91,
+            "Total Work-Related Injury": 133,
+            "Number of Hours Worked": 2600000,
+            "Rate of Fatalities as a result of work-related injuries": 0,
+            "Rate of High-Consequence Work-Related Injury": 3.19,
+            "Rate of Recordable Work-Related Injury": 6.9
+        }
+    },
+    {
+        "page_17.png": {
+            "DiversityAndInclusionDataFY2021": {
+                "NumberOfEmployees": {
+                    "PermanentStaff": {
+                        "Singapore": {
+                            "Male": 473,
+                            "Female": 299
+                        },
+                        "Overseas": {
+                            "Male": 2913,
+                            "Female": 634
+                        },
+                        "AllHotels": {
+                            "Male": 3386,
+                            "Female": 933
+                        }
+                    },
+                    "TemporaryStaff": {
+                        "Singapore": {
+                            "Male": 62,
+                            "Female": 37
+                        },
+                        "Overseas": {
+                            "Male": 633,
+                            "Female": 157
+                        },
+                        "AllHotels": {
+                            "Male": 695,
+                            "Female": 194
+                        }
+                    }
+                },
+                "NumberOfEmployeesByAge": {
+                    "AgedUnder30Years": {
+                        "Singapore": 178,
+                        "Overseas": 342,
+                        "AllHotels": 520
+                    },
+                    "AgedBetween30And50Years": {
+                        "Singapore": 442,
+                        "Overseas": 401,
+                        "AllHotels": 843
+                    },
+                    "AgedOver50Years": {
+                        "Singapore": 163,
+                        "Overseas": 102,
+                        "AllHotels": 265
+                    }
+                },
+                "OurPerformance": {
+                    "TemporaryStaffGenderPercentage": {
+                        "Male": 78,
+                        "Female": 22
+                    },
+                    "EmployeeAgeGroupPercentage": {
+                        "AgedBetween30And50Years": 52,
+                        "AgedUnder30Years": 32
+                    }
+                }
+            }
+        }
+    },
+    {
+        "page_18.png": {
+            "total_number_of_employees": {
+                "Singapore": {
+                    "Male": 535,
+                    "Female": 336
+                },
+                "Overseas": {
+                    "Male": 3546,
+                    "Female": 791
+                },
+                "All_Hotels": {
+                    "Male": 4081,
+                    "Female": 1127
+                }
+            },
+            "total_number_of_training_hours": {
+                "Singapore": {
+                    "Male": 16420,
+                    "Female": 15435
+                },
+                "Overseas": {
+                    "Male": 306,
+                    "Female": 310
+                },
+                "All_Hotels": {
+                    "Male": 16726,
+                    "Female": 15745
+                }
+            },
+            "average_training_hours_per_employee": {
+                "Singapore": {
+                    "Male": 4.87,
+                    "Female": 4.57
+                },
+                "Overseas": {
+                    "Male": 0.06,
+                    "Female": 0.09
+                },
+                "All_Hotels": {
+                    "Male": 4.96,
+                    "Female": 4.67
+                }
+            }
+        }
+    },
+    {
+        "page_19.png": {
+            "Lowry_Hotel_Support_Duration": 7,
+            "Annual_Fundraising_Range": {
+                "Minimum": 5000,
+                "Maximum": 10000
+            },
+            "Wood_Street_Mission_Beneficiaries": 4000,
+            "Spectrum_Support_Beneficiaries": 30000,
+            "Community_Event_Target_Percentage": 60,
+            "Fiscal_Year": 2022
+        }
+    },
+    {
+        "page_20.png": {
+            "OrganisationalProfile": {
+                "2-1": 113,
+                "2-2": [
+                    114,
+                    116
+                ],
+                "2-3": 116,
+                "2-4": [
+                    120,
+                    122
+                ],
+                "2-5": null
+            },
+            "ActivitiesAndWorkers": {
+                "2-6": 114,
+                "2-7": 129,
+                "2-8": 129
+            },
+            "Governance": {
+                "2-9": [
+                    116,
+                    125
+                ],
+                "2-10": 125,
+                "2-12": 125,
+                "2-13": [
+                    116,
+                    125
+                ],
+                "2-14": 116,
+                "2-16": 116,
+                "2-17": 116,
+                "2-18": 116
+            },
+            "StrategyPoliciesAndPractices": {
+                "2-22": 114,
+                "2-26": 125,
+                "2-27": 125,
+                "2-28": null
+            },
+            "StakeholderEngagement": {
+                "2-29": 117
+            },
+            "DisclosuresOnMaterialTopics": {
+                "3-1": 118,
+                "3-2": 118
+            }
+        }
+    },
+    {
+        "page_21.png": {
+            "Energy": {
+                "GRI 3: Material Topics 2021": {
+                    "3-3 Management of material topics": [
+                        118,
+                        119,
+                        120
+                    ]
+                },
+                "GRI 302: Energy 2016": {
+                    "302-1 Energy consumption within the organisation": 120,
+                    "302-3 Energy intensity": 120,
+                    "302-4 Reduction of energy consumption": 120
+                }
+            },
+            "Water and Effluents": {
+                "GRI 3: Material Topics 2021": {
+                    "3-3 Management of material topics": [
+                        121,
+                        122
+                    ]
+                },
+                "GRI 303: Water and Effluents 2018": {
+                    "303-3 Water withdrawal": 122,
+                    "303-5 Water consumption": 122
+                }
+            },
+            "Effluents and Waste": {
+                "GRI 3: Material Topics 2021": {
+                    "3-3 Management of material topics": [
+                        122,
+                        123
+                    ]
+                },
+                "306-3 Waste by type and disposal method": 123
+            },
+            "Anti-Corruption": {
+                "GRI 3: Material Topics 2021": {
+                    "3-3 Management of material topics": [
+                        125,
+                        126
+                    ]
+                },
+                "GRI 205: Anti-corruption 2016": {
+                    "205-2 Communication and training about anti-corruption policies and procedures": [
+                        125,
+                        126
+                    ],
+                    "205-3 Confirmed incidents of corruption and actions taken": 125
+                }
+            },
+            "Anti-Competitive Behaviour": {
+                "GRI 3: Material Topics 2021": {
+                    "3-3 Management of material topics": [
+                        125,
+                        126
+                    ]
+                },
+                "GRI 206: Anti-competitive Behavior 2016": {
+                    "206-1 Legal actions for anti-competitive behavior, anti-trust, and monopoly practices": 125
+                }
+            }
+        }
+    },
+    {
+        "page_22.png": {
+            "GRI_3_Material_Topics_2021": {
+                "3-3_Management_of_material_topics": [
+                    "126-127",
+                    "127-129",
+                    "129-130",
+                    "131"
+                ]
+            },
+            "GRI_401_Employment_2016": {
+                "401-1_New_employee_hires_and_employee_turnover": "127"
+            },
+            "GRI_403_Occupational_Health_and_Safety_2018": {
+                "403-1_Occupational_health_and_safety_management_system": "127-128",
+                "403-2_Hazard_identification_risk_assessment_and_incident_investigation": "127-128",
+                "403-9_Work-related_injuries": "128"
+            },
+            "GRI_405_Diversity_and_Equal_Opportunity_2016": {
+                "405-1_Diversity_of_governance_bodies_and_employees": "129-130"
+            },
+            "GRI_404_Training_and_Education_2016": {
+                "404-1_Average_hours_of_training_per_year_per_employee": "129"
+            },
+            "GRI_413_Local_Communities_2016": {
+                "413-1_Operations_with_local_community_engagement_impact_assessments_and_development_programs": "131"
+            }
+        }
+    }
+]

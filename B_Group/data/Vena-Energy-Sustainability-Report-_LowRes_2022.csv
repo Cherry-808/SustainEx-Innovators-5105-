@@ -1,0 +1,443 @@
+﻿,index_name,index_value,Company Report Name,Year,Predicted_label,Score
+0,png.energy_supply_capability_million_homes,2.2,Vena-Energy-Sustainability-Report-_LowRes,2022,Energy Consumption(GJ),3
+1,Environment.Climate Action & Emissions,31,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),6
+2,Social.Our People,41,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,7
+3,Social.Occupational Health and Safety (OHS),50,Vena-Energy-Sustainability-Report-_LowRes,2022,Occupational Health & Safety,5
+4,Governance.Board of Directors,61,Vena-Energy-Sustainability-Report-_LowRes,2022,Board Composition,6
+5,Governance.Corporate Governance,63,Vena-Energy-Sustainability-Report-_LowRes,2022,Board Composition,6
+6,Additional Information.Independent Limited Assurance Report,74,Vena-Energy-Sustainability-Report-_LowRes,2022,Assurance of Sustainability Report,7
+7,Additional Information.Commitment to UN Global Compact,85,Vena-Energy-Sustainability-Report-_LowRes,2022,Alignment with Frameworks And Disclosure Practices,8.5
+8,Development_Pipeline.GW,36.6,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,4
+9,Operational_Generation.2021_TWh,3.1,Vena-Energy-Sustainability-Report-_LowRes,2022,Energy Consumption(GJ),2
+10,GHG_Emission_Reductions.Tonnes,6913826,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),8
+11,Water_Saved.Megalitres,8841,Vena-Energy-Sustainability-Report-_LowRes,2022,Water Consumption,7
+12,Revenue.2021_Million,385,Vena-Energy-Sustainability-Report-_LowRes,2022,Economic Performance,4
+13,EBITDA.2021_Million,282,Vena-Energy-Sustainability-Report-_LowRes,2022,Economic Performance,4
+14,Our_People.Count,827,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,5
+15,Our_People.Headcount_Growth,20,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,7
+16,vena_energy_projects.developing_capacity_GW,19,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,8
+17,png.global_carbon_emissions_percentage,92,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),4
+18,png.DevelopmentPipeline,36.6,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,7
+19,Vena Energy.under_construction,836,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,7
+20,png.global_manmade_emissions_percentage,70,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),4
+21,Greenhouse_Gas_Emission_Reductions_in_Tonnes.Total,6913826,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),9
+22,Greenhouse_Gas_Emission_Reductions_in_Tonnes.Operational_Percentage,39,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),4
+23,Greenhouse_Gas_Emission_Reductions_in_Tonnes.Construction_Contracted_Percentage,61,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),2
+24,Megalitres_of_Water_Saved.Total,8841,Vena-Energy-Sustainability-Report-_LowRes,2022,Water Consumption,4
+25,Megalitres_of_Water_Saved.Operational_Percentage,34,Vena-Energy-Sustainability-Report-_LowRes,2022,Water Consumption,7
+26,Megalitres_of_Water_Saved.Construction_Contracted_Percentage,66,Vena-Energy-Sustainability-Report-_LowRes,2022,Water Consumption,7
+27,2022.total_GHG_emissions,520796,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),8
+28,2022.scope_1_and_2_emissions_percentage,5.0,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),8
+29,2022.scope_1_and_2_emissions,25590,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),7
+30,2022.scope_1_emissions,720,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),7
+31,2022.scope_2_emissions,24870,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),5
+32,2022.scope_3_emissions,495206,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),3
+33,2021.total_emissions,610074,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),7
+34,2021.scope_2_emissions,12715,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),7
+35,2021.scope_3_emissions,596509,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),7
+36,png.fuel_consumption_liters,290804,Vena-Energy-Sustainability-Report-_LowRes,2022,Energy Consumption(GJ),7
+37,png.electricity_consumption_GWh,32.3,Vena-Energy-Sustainability-Report-_LowRes,2022,Energy Consumption(GJ),6
+38,png.GHG_emissions_avoided_tonnes,32,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),3
+39,Category 1 - Purchased Goods and Services.2021 GHG Emissions,14584,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),3
+40,Category 1 - Purchased Goods and Services.2022 GHG Emissions,14620,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),7
+41,Category 2 - Capital Goods.2021 GHG Emissions,552970,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),3
+42,Category 2 - Capital Goods.2022 GHG Emissions,467741,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),5
+43,Category 4 - Upstream Transportation & Distribution.2021 GHG Emissions,19062,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),4
+44,Category 4 - Upstream Transportation & Distribution.2022 GHG Emissions,7566,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),6
+45,Category 5 - Waste Generated in Operations.2021 GHG Emissions,8411,Vena-Energy-Sustainability-Report-_LowRes,2022,Waste Generation,3
+46,Category 5 - Waste Generated in Operations.2021 % Contribution,1.4,Vena-Energy-Sustainability-Report-_LowRes,2022,Waste Generation,7
+47,Category 5 - Waste Generated in Operations.2022 GHG Emissions,1678,Vena-Energy-Sustainability-Report-_LowRes,2022,Waste Generation,4
+48,Category 5 - Waste Generated in Operations.2022 % Contribution,0.3,Vena-Energy-Sustainability-Report-_LowRes,2022,Waste Generation,3
+49,Category 6 - Business Travel.2021 GHG Emissions,1482,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),7
+50,Category 6 - Business Travel.2022 GHG Emissions,3601,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),7
+51,Carbon Intensity (Scope 1 & 2) Target.2022,2.4,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),7
+52,Carbon Intensity (Scope 1 & 2) Target.2025,1.8,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),7
+53,Carbon Intensity (Scope 1 & 2) Target.2030,0.8,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),7
+54,2022.water_consumed,59139,Vena-Energy-Sustainability-Report-_LowRes,2022,Water Consumption,5
+55,2022.water_saved,8917,Vena-Energy-Sustainability-Report-_LowRes,2022,Water Consumption,6
+56,png.water_consumption_decrease_percentage,5.1,Vena-Energy-Sustainability-Report-_LowRes,2022,Water Consumption,6
+57,water_conservation_efforts.water_saved_in_India,8000,Vena-Energy-Sustainability-Report-_LowRes,2022,Water Consumption,4
+58,India.water_resources_percentage,4,Vena-Energy-Sustainability-Report-_LowRes,2022,Water Consumption,7
+59,India.people_lacking_safe_water,91000000,Vena-Energy-Sustainability-Report-_LowRes,2022,Water Consumption,7
+60,robotic_cleaning_systems.water_usage_reduction_percentage,60,Vena-Energy-Sustainability-Report-_LowRes,2022,Water Consumption,6
+61,2022.non_hazardous_waste,3731,Vena-Energy-Sustainability-Report-_LowRes,2022,Waste Generation,7
+62,2022.hazardous_waste,11,Vena-Energy-Sustainability-Report-_LowRes,2022,Waste Generation,8
+63,png.decrease_in_non_hazardous_waste,80.2,Vena-Energy-Sustainability-Report-_LowRes,2022,Waste Generation,7
+64,png.workforce_growth_2022,20,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,8
+65,employees_by_jurisdiction.Australia,33,Vena-Energy-Sustainability-Report-_LowRes,2022,Board Composition,4
+66,employees_by_jurisdiction.Japan,345,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,2
+67,Nationalities_Represented_in_Vena_Energy.Africa,2,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,5
+68,Nationalities_Represented_in_Vena_Energy.Taiwan,75,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,7
+69,Nationalities_Represented_in_Vena_Energy.South_Korea,47,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,5
+70,Nationalities_Represented_in_Vena_Energy.Philippines,123,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,2
+71,Nationalities_Represented_in_Vena_Energy.Indonesia,59,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,6
+72,Nationalities_Represented_in_Vena_Energy.Singapore,30,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,8
+73,remote_lessons.students,146,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,7
+74,learning_hours.total_hours,4947,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,7
+75,learning_hours.sessions,92,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,7
+76,linkedin_learning_access.percentage,73,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,7
+77,average_educational_content_viewed.hours,7,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,7
+78,average_training_hours.hours_per_employee,47,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,7
+79,training_hours_increase.hours,11,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,8
+80,training_hour_target.minimum_hours_per_employee,40,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,4
+81,png.learning_week_attendance,501,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,5
+82,png.LEAD_program_participants,25,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,3
+83,png.training_hours_per_participant,48,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,8
+84,2022.staff_utilized_volunteer_service_day_percentage,50,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,7
+85,png.employees_recognized_safety_reward_program,106,Vena-Energy-Sustainability-Report-_LowRes,2022,Occupational Health & Safety,7
+86,png.total_training_hours,163660,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,8
+87,png.tool_box_talks_hours,98565,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,10
+88,png.internal_hse_meetings_hours,49045,Vena-Energy-Sustainability-Report-_LowRes,2022,Occupational Health & Safety,8
+89,training_record_2022.percentage_employees_received_training,100,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,10
+90,png.internal_external_training_hours,50000,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,6
+91,png.training_hours_percentage_2022,2.0,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,1
+92,png.training_hours_percentage_2021,1.9,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,4
+93,FirstAidCasesRate.2022,0.9,Vena-Energy-Sustainability-Report-_LowRes,2022,Occupational Health & Safety,8
+94,LostTimeCases.2021,6,Vena-Energy-Sustainability-Report-_LowRes,2022,Occupational Health & Safety,8
+95,LostTimeInjuryRate.2019,0.05,Vena-Energy-Sustainability-Report-_LowRes,2022,Occupational Health & Safety,9
+96,LostTimeInjuryRate.2020,0.12,Vena-Energy-Sustainability-Report-_LowRes,2022,Occupational Health & Safety,8
+97,LostTimeInjuryRate.2021,0.16,Vena-Energy-Sustainability-Report-_LowRes,2022,Occupational Health & Safety,8
+98,LostTimeInjuryRate.2022,0.15,Vena-Energy-Sustainability-Report-_LowRes,2022,Occupational Health & Safety,7
+99,workforce_during_construction_2022.identifying_as_Aboriginal_descent,10,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,7
+100,training_program.participants,12,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,5
+101,training_program.full_certifications_achieved,8,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,8
+102,summary_of_csr_activities.hours_contributed,4940,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,7
+103,summary_of_csr_activities.beneficiaries_supported,233000,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,8
+104,Taiwan.Waste collected,200,Vena-Energy-Sustainability-Report-_LowRes,2022,Waste Generation,5
+105,png.Governance,4,Vena-Energy-Sustainability-Report-_LowRes,2022,Board Composition,7
+106,png.Board_of_Directors,4.1,Vena-Energy-Sustainability-Report-_LowRes,2022,Board Composition,8
+107,png.board_members,5,Vena-Energy-Sustainability-Report-_LowRes,2022,Board Composition,7
+108,png.board_meetings_2022,4,Vena-Energy-Sustainability-Report-_LowRes,2022,Board Composition,6
+109,Sustainability Committee.Meetings in 2022,4,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,6
+110,Remuneration Committee.Meetings in 2022,1,Vena-Energy-Sustainability-Report-_LowRes,2022,Board Composition,3
+111,2022.compliance_training_hours,3,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,6
+112,png.supplier_code_of_conduct_editions,1,Vena-Energy-Sustainability-Report-_LowRes,2022,Alignment with Frameworks And Disclosure Practices,7
+113,png.cyber_security_trainings_frequency_months,2,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,8
+114,png.cyber_security_trainings_completion_rate,97,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,9
+115,Revenue.Increase for FY2022,84,Vena-Energy-Sustainability-Report-_LowRes,2022,Economic Performance,8
+116,Renewable Energy.2021,3.1,Vena-Energy-Sustainability-Report-_LowRes,2022,Energy Consumption(GJ),5
+117,Renewable Energy.2022,3.7,Vena-Energy-Sustainability-Report-_LowRes,2022,Energy Consumption(GJ),7
+118,2021.DevelopmentExpense,-7.4,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,4
+119,Funds from Operational Assets.31 Dec 2021,140.0,Vena-Energy-Sustainability-Report-_LowRes,2022,Economic Performance,7
+120,Increase_in_FFOA.Percentage,19,Vena-Energy-Sustainability-Report-_LowRes,2022,Economic Performance,8
+121,Additional Information.Independent Limited Assurance Report,6.1,Vena-Energy-Sustainability-Report-_LowRes,2022,Assurance of Sustainability Report,8
+122,Additional Information.Commitment to UN Global Compact,6.5,Vena-Energy-Sustainability-Report-_LowRes,2022,Alignment with Frameworks And Disclosure Practices,7
+123,Total.Male,432,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,7
+124,Japan.Male,213,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,4
+125,Singapore.Total,48,Vena-Energy-Sustainability-Report-_LowRes,2022,Alignment with Frameworks And Disclosure Practices,5
+126,South Korea.Male,14,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,7
+127,Japan.Male,244,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,4
+128,Taiwan.Male,51,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,7
+129,Part-time.Total,3,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,3
+130,Headcount.Middle Management,220,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,7
+131,Headcount.Executive Management,17,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,7
+132,<30.Executive Management,0,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,2
+133,30-50.Professionals,136,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,4
+134,30-50.Executive Management,8,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,5
+135,>50.Professionals,19,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,4
+136,>50.Middle Management,39,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,8
+137,Male.Professionals,148,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,7
+138,Male.Executive Management,16,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,8
+139,Headcount.Middle Management,253,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,7
+140,Headcount.Executive Management,16,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,7
+141,<30.Executive Management,0,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,1
+142,30-50.Professionals,159,Vena-Energy-Sustainability-Report-_LowRes,2022,Age-Based Diversity(existing employees by age group),4
+143,30-50.Executive Management,7,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,7
+144,>50.Middle Management,35,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,7
+145,Male.Professionals,174,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,2
+146,Male.Executive Management,15,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,6
+147,Headcount.Professionals,349,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,6
+148,Headcount.Middle Management,283,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,6
+149,Headcount.Executive Management,16,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,8
+150,<30.Professionals,99,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,3
+151,<30.Executive Management,0,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,1
+152,30-50.Professionals,215,Vena-Energy-Sustainability-Report-_LowRes,2022,Age-Based Diversity(existing employees by age group),4
+153,30-50.Middle Management,220,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,5
+154,>50.Professionals,35,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,7
+155,>50.Middle Management,50,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,5
+156,Male.Professionals,209,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,7
+157,Male.Executive Management,14,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,6
+158,Headcount.Professionals,422,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,8
+159,Headcount.Middle Management,344,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,7
+160,Headcount.Executive Management,18,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,8
+161,<30.Executive Management,0,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,1
+162,30-50.Professionals,261,Vena-Energy-Sustainability-Report-_LowRes,2022,Age-Based Diversity(existing employees by age group),5
+163,>50.Executive Management,10,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,7
+164,Male.Professionals,245,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,7
+165,Male.Executive Management,16,Vena-Energy-Sustainability-Report-_LowRes,2022,Management Diversity,8
+166,GHG Emissions avoided (CO₂ Tonnes).2019,3775930,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),8
+167,GHG Emissions avoided (CO₂ Tonnes).2020,4898866,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),8
+168,GHG Emissions avoided (CO₂ Tonnes).2021,5611784,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),7
+169,GHG Emissions avoided (CO₂ Tonnes).2022,6913826,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),8
+170,Megalitres of water saved.2019,4865,Vena-Energy-Sustainability-Report-_LowRes,2022,Water Consumption,5
+171,Megalitres of water saved.2020,5419,Vena-Energy-Sustainability-Report-_LowRes,2022,Water Consumption,6
+172,Megalitres of water saved.2021,6160,Vena-Energy-Sustainability-Report-_LowRes,2022,Water Consumption,7
+173,Megalitres of water saved.2022,8841,Vena-Energy-Sustainability-Report-_LowRes,2022,Water Consumption,7
+174,Water Usage (m³).2021,62311,Vena-Energy-Sustainability-Report-_LowRes,2022,Water Consumption,5
+175,Water Usage (m³).2022,59139,Vena-Energy-Sustainability-Report-_LowRes,2022,Water Consumption,4
+176,Non-Hazardous Waste (MT).2021,18822,Vena-Energy-Sustainability-Report-_LowRes,2022,Waste Generation,4
+177,Non-Hazardous Waste (MT).2022,3731,Vena-Energy-Sustainability-Report-_LowRes,2022,Waste Generation,7
+178,Hazardous Waste (MT).2021,25,Vena-Energy-Sustainability-Report-_LowRes,2022,Waste Generation,5
+179,Hazardous Waste (MT).2022,11,Vena-Energy-Sustainability-Report-_LowRes,2022,Waste Generation,5
+180,Total average training hours per employee.2021,36,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,5
+181,Total average training hours per employee.2022,47,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,7
+182,% of employee participation in development & job qualification training.2021,100,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,10
+183,% of employee participation in development & job qualification training.2022,100,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,10
+184,Total health & safety training hours (Formal & Informal).2020,74276,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,8
+185,Total health & safety training hours (Formal & Informal).2021,140911,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,8
+186,Total health & safety training hours (Formal & Informal).2022,163660,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,7
+187,Total training hours as a % of total manhours worked.2020,1.5,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,7
+188,Total training hours as a % of total manhours worked.2021,1.9,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,5
+189,Total training hours as a % of total manhours worked.2022,2.0,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,4
+190,First Aid Cases Rate.2019,1.1,Vena-Energy-Sustainability-Report-_LowRes,2022,Occupational Health & Safety,7
+191,First Aid Cases Rate.2020,1.02,Vena-Energy-Sustainability-Report-_LowRes,2022,Occupational Health & Safety,8
+192,First Aid Cases Rate.2021,0.87,Vena-Energy-Sustainability-Report-_LowRes,2022,Occupational Health & Safety,8
+193,First Aid Cases Rate.2022,0.9,Vena-Energy-Sustainability-Report-_LowRes,2022,Occupational Health & Safety,8
+194,# Lost Time Cases.2021,6,Vena-Energy-Sustainability-Report-_LowRes,2022,Occupational Health & Safety,7
+195,Lost Time Injury Rate.2019,0.05,Vena-Energy-Sustainability-Report-_LowRes,2022,Occupational Health & Safety,8
+196,Lost Time Injury Rate.2020,0.12,Vena-Energy-Sustainability-Report-_LowRes,2022,Occupational Health & Safety,8
+197,Lost Time Injury Rate.2021,0.16,Vena-Energy-Sustainability-Report-_LowRes,2022,Occupational Health & Safety,8
+198,Lost Time Injury Rate.2022,0.15,Vena-Energy-Sustainability-Report-_LowRes,2022,Occupational Health & Safety,8
+199,Amount of $ spent on CSR initiatives (in '000 USD).2020,674,Vena-Energy-Sustainability-Report-_LowRes,2022,Economic Performance,6
+200,Amount of $ spent on CSR initiatives (in '000 USD).2021,1020,Vena-Energy-Sustainability-Report-_LowRes,2022,Economic Performance,7
+201,Amount of $ spent on CSR initiatives (in '000 USD).2022,1677049,Vena-Energy-Sustainability-Report-_LowRes,2022,Economic Performance,7
+202,Number of Directors.2020,6,Vena-Energy-Sustainability-Report-_LowRes,2022,Board Composition,8
+203,Number of Directors.2021,6,Vena-Energy-Sustainability-Report-_LowRes,2022,Board Composition,7
+204,Number of Directors.2022,5,Vena-Energy-Sustainability-Report-_LowRes,2022,Board Composition,6
+205,Number of nationalities represented on the Board of Directors.2020,4,Vena-Energy-Sustainability-Report-_LowRes,2022,Board Composition,6
+206,Number of nationalities represented on the Board of Directors.2021,4,Vena-Energy-Sustainability-Report-_LowRes,2022,Board Composition,6
+207,Number of nationalities represented on the Board of Directors.2022,4,Vena-Energy-Sustainability-Report-_LowRes,2022,Board Composition,6
+208,Number of Board Meetings.2020,4,Vena-Energy-Sustainability-Report-_LowRes,2022,Board Composition,3
+209,% of employees participated in compliance training.2020,100,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,7
+210,% of employees participated in compliance training.2021,98,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,8
+211,% of employees participated in compliance training.2022,99,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,6
+212,Identified human rights abuses.2020,0,Vena-Energy-Sustainability-Report-_LowRes,2022,Ethical Behaviour,10
+213,png.energy_generation_TWh,3.7,Vena-Energy-Sustainability-Report-_LowRes,2022,Energy Consumption(GJ),4
+214,Climate Action.GHG_emissions_avoided,6900000,Vena-Energy-Sustainability-Report-_LowRes,2022,Greenhouse Gas Emissions(“GHG”),7
+215,Quality Education.average_training_hours_per_employee,47,Vena-Energy-Sustainability-Report-_LowRes,2022,Development & Training,7
+216,png.CO2_emissions_avoided,3.2,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),7
+217,png.new_hires_FY2023,33.8,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,7
+218,png.CO2_concentration_1850,286,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),8
+219,png.CO2_concentration_2021,415,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),8
+220,png.increase_CO2_levels_past_two_decades,40,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),7
+221,png.global_GHG_emissions_from_CO2,70,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),7
+222,png.population_faced_severe_water_scarcity_2023,50,Vena-Energy-Sustainability-Report-_HighRes,2023,Water Consumption,5
+223,png.power_generation_sector_emissions_share,32,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),4
+224,Development.GW,38,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,5
+225,Development.Offshore_Wind_Percentage,19,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,4
+226,GHG_Emissions_Reduction.Million_tCO2,9.0,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),7
+227,Water_Saved.Megalitres,11600,Vena-Energy-Sustainability-Report-_HighRes,2023,Water Consumption,7
+228,People.Jobs_Created,2374,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,7
+229,People.Employee_Training_Hours_Per_Employee,49,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,8
+230,png.CO2EmissionsAvoidedMillionTonnes,3.1,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),8
+231,png.global_carbon_emissions_net_zero_target,90,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),8
+232,framework agreement.regional suppliers,4,Vena-Energy-Sustainability-Report-_HighRes,2023,Alignment with Frameworks And Disclosure Practices,7
+233,png.dedicated_development_professionals,115,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,6
+234,png.Employees,150,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,3
+235,subsections[1].number,2.2,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,2
+236,png.global_man_made_emissions_percentage,70,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),7
+237,Households_Powered.Construction_Contracted_Percentage,67,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,7
+238,GHG_Emission_Reductions_Tonnes.Total,8987076,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),8
+239,GHG_Emission_Reductions_Tonnes.Operational_Percentage,35,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),7
+240,GHG_Emission_Reductions_Tonnes.Construction_Contracted_Percentage,65,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),7
+241,Megalitres_of_Water_Saved.Total,11600,Vena-Energy-Sustainability-Report-_HighRes,2023,Water Consumption,7
+242,Megalitres_of_Water_Saved.Operational_Percentage,31,Vena-Energy-Sustainability-Report-_HighRes,2023,Water Consumption,3
+243,Megalitres_of_Water_Saved.Construction_Contracted_Percentage,69,Vena-Energy-Sustainability-Report-_HighRes,2023,Water Consumption,7
+244,Energy_Generation_2023.Operating_Assets_TWh,4.5,Vena-Energy-Sustainability-Report-_HighRes,2023,Energy Consumption(GJ),7
+245,png.CO2_Emissions_Avoided_Million_Tonnes,3.2,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),6
+246,fuel_consumed.2021,850,Vena-Energy-Sustainability-Report-_HighRes,2023,Energy Consumption(GJ),4
+247,fuel_consumed.2022,720,Vena-Energy-Sustainability-Report-_HighRes,2023,Energy Consumption(GJ),4
+248,fuel_consumed.2023,610,Vena-Energy-Sustainability-Report-_HighRes,2023,Energy Consumption(GJ),8
+249,purchased_electricity.2021,12,Vena-Energy-Sustainability-Report-_HighRes,2023,Energy Consumption(GJ),3
+250,purchased_electricity.2022,24,Vena-Energy-Sustainability-Report-_HighRes,2023,Energy Consumption(GJ),5
+251,purchased_electricity.2023,21,Vena-Energy-Sustainability-Report-_HighRes,2023,Energy Consumption(GJ),5
+252,capital_goods_upstream_transportation_purchased_goods_services_waste_management_business_travel.2021,596509,Vena-Energy-Sustainability-Report-_HighRes,2023,Waste Generation,4
+253,capital_goods_upstream_transportation_purchased_goods_services_waste_management_business_travel.2022,495206,Vena-Energy-Sustainability-Report-_HighRes,2023,Waste Generation,7
+254,capital_goods_upstream_transportation_purchased_goods_services_waste_management_business_travel.2023,136029,Vena-Energy-Sustainability-Report-_HighRes,2023,Waste Generation,4
+255,total_emissions.2021,610074,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),3
+256,total_emissions.2022,520796,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),8
+257,total_emissions.2023,158154,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),5
+258,additional_information.total_scope_1_2_emissions_2023,22125,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),3
+259,additional_information.total_scope_1_2_3_emissions_2023,158154,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),4
+260,additional_information.fuel_consumption_litres,235024,Vena-Energy-Sustainability-Report-_HighRes,2023,Energy Consumption(GJ),8
+261,additional_information.electricity_consumption_gwh,28.8,Vena-Energy-Sustainability-Report-_HighRes,2023,Energy Consumption(GJ),4
+262,additional_information.decrease_in_electricity_consumption_percent,10.8,Vena-Energy-Sustainability-Report-_HighRes,2023,Energy Consumption(GJ),6
+263,additional_information.total_electricity_consumed_percent_of_green_energy,0.6,Vena-Energy-Sustainability-Report-_HighRes,2023,Energy Consumption(GJ),6
+264,Purchased Goods and Services.emissions,14584,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),7
+265,Capital Goods.emissions,552970,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),4
+266,Upstream Transportation & Distribution.emissions,19062,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),4
+267,Waste Generated in Operations.emissions,8411,Vena-Energy-Sustainability-Report-_HighRes,2023,Waste Generation,7
+268,Waste Generated in Operations.percentage,1.4,Vena-Energy-Sustainability-Report-_HighRes,2023,Waste Generation,7
+269,Purchased Goods and Services.emissions,14620,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),5
+270,Capital Goods.emissions,467741,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),8
+271,Upstream Transportation & Distribution.emissions,7566,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),3
+272,Waste Generated in Operations.emissions,1678,Vena-Energy-Sustainability-Report-_HighRes,2023,Waste Generation,4
+273,Waste Generated in Operations.percentage,0.3,Vena-Energy-Sustainability-Report-_HighRes,2023,Waste Generation,4
+274,Purchased Goods and Services.emissions,5952,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),2
+275,Capital Goods.emissions,125687,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),3
+276,Upstream Transportation & Distribution.emissions,384,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),3
+277,Waste Generated in Operations.percentage,1.5,Vena-Energy-Sustainability-Report-_HighRes,2023,Waste Generation,5
+278,Reduction in Carbon Intensity.From,2.4,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),5
+279,Reduction in Carbon Intensity.To,1.6,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),7
+280,Reduction in Carbon Intensity.Improvement Percentage,33.6,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),5
+281,2023.water_consumption_increase,2.3,Vena-Energy-Sustainability-Report-_HighRes,2023,Water Consumption,7
+282,2023.non_hazardous_waste_MT,4034,Vena-Energy-Sustainability-Report-_HighRes,2023,Waste Generation,4
+283,Renewable_Energy_Awareness_and_Training_for_Women_in_Indonesia.workshops,100,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,7
+284,png.average_training_hours_per_employee_2023,49,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,8
+285,png.training_hours_increase,2,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,3
+286,png.average_learning_hours_through_vena_academy,6,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,7
+287,png.vena_academy_sessions,20,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,7
+288,png.LEAP_programme_duration_days,9,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,7
+289,png.LEAP_programme_participants,25,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,5
+290,png.LEAD_programme_2023_training_hours,40,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,6
+291,png.employee_survey_participation_rate_2023,85,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,7
+292,png.staff_utilized_volunteer_service_day,40,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,7
+293,2023.employees_recognized,170,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,6
+294,2023.unsafe_acts_reported,1190,Vena-Energy-Sustainability-Report-_HighRes,2023,Occupational Health & Safety,4
+295,Training_Hours_FY2020-23.2020,90000,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,3
+296,Training_Hours_FY2020-23.2021,135000,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,8
+297,Training_Hours_FY2020-23.2022,160000,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,7
+298,Training_Hours_FY2020-23.2023,164806,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,8
+299,Training_Hours_Percentage_of_Total_Hours_Worked.2020,1.0,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,6
+300,Training_Hours_Percentage_of_Total_Hours_Worked.2021,1.5,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,3
+301,Training_Hours_Percentage_of_Total_Hours_Worked.2022,2.0,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,3
+302,Training_Hours_Percentage_of_Total_Hours_Worked.2023,2.2,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,5
+303,2023_Training_Details.Internal_and_External_Training_Hours,47000,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,7
+304,2023_Training_Details.Informal_Discussions_Hours,110000,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,1
+305,png.Employee_Training_Completion_Rate,96,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,8
+306,First Aid Cases Rate.2020,1.02,Vena-Energy-Sustainability-Report-_HighRes,2023,Occupational Health & Safety,7
+307,First Aid Cases Rate.2021,0.87,Vena-Energy-Sustainability-Report-_HighRes,2023,Occupational Health & Safety,7
+308,First Aid Cases Rate.2022,0.9,Vena-Energy-Sustainability-Report-_HighRes,2023,Occupational Health & Safety,7
+309, of Lost Time Cases.2020,3,Vena-Energy-Sustainability-Report-_HighRes,2023,Occupational Health & Safety,4
+310, of Lost Time Cases.2021,6,Vena-Energy-Sustainability-Report-_HighRes,2023,Occupational Health & Safety,8
+311, of Lost Time Cases.2022,6,Vena-Energy-Sustainability-Report-_HighRes,2023,Occupational Health & Safety,7
+312, of Lost Time Cases.2023,2,Vena-Energy-Sustainability-Report-_HighRes,2023,Occupational Health & Safety,8
+313,Lost Time Injury Rate.2019,0.05,Vena-Energy-Sustainability-Report-_HighRes,2023,Occupational Health & Safety,9
+314,Lost Time Injury Rate.2020,0.12,Vena-Energy-Sustainability-Report-_HighRes,2023,Occupational Health & Safety,8
+315,Lost Time Injury Rate.2021,0.16,Vena-Energy-Sustainability-Report-_HighRes,2023,Occupational Health & Safety,8
+316,Lost Time Injury Rate.2022,0.15,Vena-Energy-Sustainability-Report-_HighRes,2023,Occupational Health & Safety,8
+317,Lost Time Injury Rate.2023,0.05,Vena-Energy-Sustainability-Report-_HighRes,2023,Occupational Health & Safety,9
+318,on_site_workers_by_country.Australia,431,Vena-Energy-Sustainability-Report-_HighRes,2023,Board Composition,7
+319,on_site_workers_by_country.India,786,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,7
+320,Vena Energy Employees.Employees Involved,17,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,2
+321,Volunteer Hours.Hours,100,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,7
+322,presentation_screen[1].number,2,Vena-Energy-Sustainability-Report-_HighRes,2023,Alignment with Frameworks And Disclosure Practices,7
+323,board_composition.members,5,Vena-Energy-Sustainability-Report-_HighRes,2023,Board Composition,7
+324,board_composition.nationalities_represented,4,Vena-Energy-Sustainability-Report-_HighRes,2023,Board Composition,6
+325,board_meetings.meetings_held,4,Vena-Energy-Sustainability-Report-_HighRes,2023,Board Composition,4
+326,2023.employee_participation_in_compliance_training,98,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,8
+327,2023.compliance_training_hours,3,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,7
+328,2023.compliance_training_completion_rate,98,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,8
+329,png.cyber_security_trainings_completion_rate,99,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,9
+330,subsections[1].number,5.2,Vena-Energy-Sustainability-Report-_HighRes,2023,Board Composition,5
+331,31Dec2022.DevelopmentExpenses,-8.2,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,3
+332,Clean_Energy_Generation.2023,4.5,Vena-Energy-Sustainability-Report-_HighRes,2023,Energy Consumption(GJ),7
+333,India.Male,66,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,7
+334,Japan.Male,173,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,5
+335,Japan.Female,63,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,7
+336,India.Male,73,Vena-Energy-Sustainability-Report-_HighRes,2023,Board Composition,7
+337,Taiwan.Male,62,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,7
+338,Total.Male,655,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,5
+339,Part-time.Total,3,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,3
+340,Part-time.Total,1,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,3
+341,Headcount.Professionals,236,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,4
+342,Headcount.Middle Management,220,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,7
+343,Headcount.Executive Management,17,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,8
+344,<30.Professionals,81,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,3
+345,30-50.Professionals,136,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,3
+346,>50.Professionals,19,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,4
+347,Male.Professionals,148,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,7
+348,Male.Executive Management,16,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,7
+349,Headcount.Middle Management,253,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,7
+350,Headcount.Executive Management,16,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,7
+351,<30.Professionals,106,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,4
+352,<30.Executive Management,0,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,5
+353,30-50.Professionals,159,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,7
+354,30-50.Middle Management,200,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,4
+355,30-50.Executive Management,7,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,4
+356,Male.Professionals,174,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,7
+357,Male.Middle Management,199,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,7
+358,Male.Executive Management,15,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,7
+359,Headcount.Middle Management,283,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,6
+360,Headcount.Executive Management,16,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,7
+361,30-50.Professionals,215,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,4
+362,30-50.Executive Management,9,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,6
+363,>50.Professionals,35,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,7
+364,Male.Professionals,209,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,6
+365,Male.Middle Management,222,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,8
+366,Male.Executive Management,14,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,7
+367,Headcount.Middle Management,344,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,7
+368,Headcount.Executive Management,18,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,6
+369,<30.Professionals,109,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,3
+370,<30.Executive Management,0,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,5
+371,30-50.Executive Management,8,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,7
+372,>50.Professionals,52,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,6
+373,>50.Executive Management,10,Vena-Energy-Sustainability-Report-_HighRes,2023,Board Composition,7
+374,Male.Professionals,245,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,7
+375,Male.Middle Management,268,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,6
+376,Male.Executive Management,16,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,7
+377,Headcount.Middle Management,404,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,4
+378,Headcount.Executive Management,17,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,8
+379,<30.Professionals,118,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,4
+380,30-50.Professionals,322,Vena-Energy-Sustainability-Report-_HighRes,2023,Age-Based Diversity (existing employees by age group),6
+381,Male.Professionals,305,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,7
+382,Male.Middle Management,309,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,7
+383,Male.Executive Management,15,Vena-Energy-Sustainability-Report-_HighRes,2023,Management Diversity,8
+384,GHG Emissions avoided (CO₂ Tonnes).2019,3775930,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),8
+385,GHG Emissions avoided (CO₂ Tonnes).2020,4898866,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),7
+386,GHG Emissions avoided (CO₂ Tonnes).2021,5611784,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),8
+387,GHG Emissions avoided (CO₂ Tonnes).2022,6913826,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),8
+388,GHG Emissions avoided (CO₂ Tonnes).2023,8987076,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),8
+389,Megalitres of water saved.2019,4865,Vena-Energy-Sustainability-Report-_HighRes,2023,Water Consumption,9
+390,Megalitres of water saved.2020,5419,Vena-Energy-Sustainability-Report-_HighRes,2023,Water Consumption,7
+391,Megalitres of water saved.2021,6160,Vena-Energy-Sustainability-Report-_HighRes,2023,Water Consumption,8
+392,Megalitres of water saved.2022,8841,Vena-Energy-Sustainability-Report-_HighRes,2023,Water Consumption,4
+393,Megalitres of water saved.2023,11600,Vena-Energy-Sustainability-Report-_HighRes,2023,Water Consumption,7
+394,Water Usage (m³).2021,62311,Vena-Energy-Sustainability-Report-_HighRes,2023,Water Consumption,7
+395,Water Usage (m³).2022,59139,Vena-Energy-Sustainability-Report-_HighRes,2023,Water Consumption,4
+396,Water Usage (m³).2023,134095,Vena-Energy-Sustainability-Report-_HighRes,2023,Water Consumption,7
+397,Non-Hazardous Waste (MT).2021,18822,Vena-Energy-Sustainability-Report-_HighRes,2023,Waste Generation,5
+398,Non-Hazardous Waste (MT).2022,3731,Vena-Energy-Sustainability-Report-_HighRes,2023,Waste Generation,7
+399,Non-Hazardous Waste (MT).2023,4034,Vena-Energy-Sustainability-Report-_HighRes,2023,Waste Generation,6
+400,Hazardous Waste (MT).2021,25,Vena-Energy-Sustainability-Report-_HighRes,2023,Waste Generation,7
+401,Hazardous Waste (MT).2022,11,Vena-Energy-Sustainability-Report-_HighRes,2023,Waste Generation,8
+402,Hazardous Waste (MT).2023,27,Vena-Energy-Sustainability-Report-_HighRes,2023,Waste Generation,7
+403,TotalAverageTrainingHoursPerEmployee.2021,36,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,7
+404,TotalAverageTrainingHoursPerEmployee.2022,47,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,7
+405,TotalAverageTrainingHoursPerEmployee.2023,49,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,5
+406,EmployeeParticipationInDevelopmentAndJobQualificationTraining.2021,100,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,8
+407,EmployeeParticipationInDevelopmentAndJobQualificationTraining.2022,100,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,8
+408,EmployeeParticipationInDevelopmentAndJobQualificationTraining.2023,100,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,8
+409,PerformanceAppraisalCompleted.2023,100,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,10
+410,StaffReturnedAfterParentalLeave.2022,90,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,9
+411,TotalHealthAndSafetyTrainingHours.2020,74276,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,7
+412,TotalHealthAndSafetyTrainingHours.2021,140911,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,7
+413,TotalHealthAndSafetyTrainingHours.2022,163660,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,6
+414,TotalHealthAndSafetyTrainingHours.2023,164932,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,5
+415,TotalTrainingHoursAsPercentageOfTotalManhoursWorked.2020,1.5,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,6
+416,TotalTrainingHoursAsPercentageOfTotalManhoursWorked.2021,1.9,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,6
+417,TotalTrainingHoursAsPercentageOfTotalManhoursWorked.2022,2.0,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,6
+418,TotalTrainingHoursAsPercentageOfTotalManhoursWorked.2023,2.2,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,4
+419,EmployeesRecognisedThroughSafetyRewardProgram.2020,55,Vena-Energy-Sustainability-Report-_HighRes,2023,Occupational Health & Safety,7
+420,EmployeesRecognisedThroughSafetyRewardProgram.2021,133,Vena-Energy-Sustainability-Report-_HighRes,2023,Occupational Health & Safety,6
+421,EmployeesRecognisedThroughSafetyRewardProgram.2022,106,Vena-Energy-Sustainability-Report-_HighRes,2023,Occupational Health & Safety,6
+422,EmployeesRecognisedThroughSafetyRewardProgram.2023,170,Vena-Energy-Sustainability-Report-_HighRes,2023,Occupational Health & Safety,6
+423,FirstAidCasesRate.2019,1.1,Vena-Energy-Sustainability-Report-_HighRes,2023,Occupational Health & Safety,9
+424,LostTimeInjuryRate.2019,0.05,Vena-Energy-Sustainability-Report-_HighRes,2023,Occupational Health & Safety,8
+425,LostTimeInjuryRate.2020,0.12,Vena-Energy-Sustainability-Report-_HighRes,2023,Occupational Health & Safety,8
+426,LostTimeInjuryRate.2021,0.16,Vena-Energy-Sustainability-Report-_HighRes,2023,Occupational Health & Safety,8
+427,LostTimeInjuryRate.2022,0.15,Vena-Energy-Sustainability-Report-_HighRes,2023,Occupational Health & Safety,8
+428,LostTimeInjuryRate.2023,0.05,Vena-Energy-Sustainability-Report-_HighRes,2023,Occupational Health & Safety,8
+429,NumberOfHoursContributed.2021,3324,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,6
+430,NumberOfHoursContributed.2023,3026,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,8
+431,Number of Directors.2020,6,Vena-Energy-Sustainability-Report-_HighRes,2023,Board Composition,7
+432,Number of Directors.2021,6,Vena-Energy-Sustainability-Report-_HighRes,2023,Board Composition,7
+433,Number of Directors.2022,5,Vena-Energy-Sustainability-Report-_HighRes,2023,Board Composition,8
+434,Number of Board Meetings.2021,4,Vena-Energy-Sustainability-Report-_HighRes,2023,Board Composition,5
+435,Compliance training participation (%).2020,100,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,9
+436,Compliance training participation (%).2021,98,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,10
+437,Compliance training participation (%).2022,99,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,8
+438,Compliance training participation (%).2023,98,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,9
+439,2023.energy_generation_TWh,4.5,Vena-Energy-Sustainability-Report-_HighRes,2023,Energy Consumption(GJ),5
+440,png.GHG_emissions_avoided,9.0,Vena-Energy-Sustainability-Report-_HighRes,2023,Greenhouse Gas Emissions(“GHG”),5
+441,png.average_training_hours_per_employee,49,Vena-Energy-Sustainability-Report-_HighRes,2023,Development & Training,7

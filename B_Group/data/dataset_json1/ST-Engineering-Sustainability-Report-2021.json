@@ -1,0 +1,1884 @@
+[
+    {
+        "page_1.png": {
+            "number": 2021
+        }
+    },
+    {
+        "page_2.png": {
+            "FinancialYearEnded": "31 December 2021",
+            "ListingRules": [
+                "711A",
+                "711B"
+            ],
+            "PracticeNote": "7.6",
+            "PageNumbersInContents": {
+                "AboutTheReport": "01",
+                "BoardStatementOnSustainability": "02",
+                "MessageFromGroupPresidentAndCEO": "03",
+                "SustainabilityHighlights": "04",
+                "SustainabilityFramework": "06",
+                "MeasuringPerformance": "09",
+                "MaterialStakeholdersAndEngagement": "11",
+                "AssuranceAndVerification": "12",
+                "ClimateChange": "13",
+                "EnvironmentalProtection": "15",
+                "Productivity": "20",
+                "GreenProductsAndServices": "23",
+                "PeopleExcellence": "27",
+                "TotalWorkplaceSafetyAndHealth": "35",
+                "QualityProductsAndServices": "39",
+                "ResponsibleProcurement": "42",
+                "EconomicPerformance": "46",
+                "CorporateCommunityContributions": "48",
+                "EthicalBusinessAndRegulatoryCompliance": "53",
+                "CorporateGovernanceReport": "55",
+                "Awards": "80",
+                "GlobalReportingInitiative": "81",
+                "UnitedNationsGlobalCompactTenPrinciples": "86",
+                "SustainabilityAccountingStandardsBoard": "87"
+            }
+        }
+    },
+    {
+        "page_3.png": {}
+    },
+    {
+        "page_4.png": {
+            "GHG_emissions_target": {
+                "reduction_percentage": 50,
+                "target_year": 2030,
+                "baseline_year": 2018
+            },
+            "solar_PV_systems": {
+                "number_of_buildings": 39,
+                "location": "Singapore"
+            },
+            "decommissioned_laptops": {
+                "number": 1000
+            },
+            "philanthropic_contributions": {
+                "amount_in_million_dollars": 2.8
+            }
+        }
+    },
+    {
+        "page_5.png": {
+            "GHG_Emissions_Reduction": 30,
+            "GHG_Emissions_Base_Year": 2018,
+            "Green_Energy_Percentage": 8,
+            "Solar_PV_Buildings": 39,
+            "Economic_Contributions": 7.2,
+            "Corporate_Community_Contributions": 2.8,
+            "People_Managers_Male_Percentage": 15,
+            "People_Managers_Female_Percentage": 14,
+            "Continuous_Improvement_Savings": 23.5,
+            "Average_Training_Hours_Per_Employee": 21,
+            "Safety_Culture_Activities": 112,
+            "Bribery_and_Corruption_Cases": 0
+        }
+    },
+    {
+        "page_6.png": {}
+    },
+    {
+        "page_7.png": {}
+    },
+    {
+        "page_8.png": {}
+    },
+    {
+        "page_9.png": {
+            "UN_SDGs": 17,
+            "Identified_Goals": 6,
+            "Specific_SDGs": [
+                {
+                    "SDG_Number": 8,
+                    "SDG_Name": "Decent Work and Economic Growth"
+                },
+                {
+                    "SDG_Number": 9,
+                    "SDG_Name": "Industry, Innovation, and Infrastructure"
+                },
+                {
+                    "SDG_Number": 11,
+                    "SDG_Name": "Sustainable Cities and Communities"
+                },
+                {
+                    "SDG_Number": 12,
+                    "SDG_Name": "Responsible Consumption and Production"
+                },
+                {
+                    "SDG_Number": 13,
+                    "SDG_Name": "Climate Action"
+                },
+                {
+                    "SDG_Number": 16,
+                    "SDG_Name": "Peace, Justice, and Strong Institutions"
+                }
+            ]
+        }
+    },
+    {
+        "page_10.png": {}
+    },
+    {
+        "page_11.png": {}
+    },
+    {
+        "page_12.png": {
+            "Environmental": {
+                "1": "Environmental Protection",
+                "2": "Productivity",
+                "3": "Green Products & Services"
+            },
+            "Social": {
+                "4": "Economic Performance",
+                "5": "Quality Products & Services",
+                "6": "People Excellence",
+                "7": "Total Workplace Safety & Health",
+                "8": "Responsible Procurement",
+                "9": "Corporate Community Contributions"
+            },
+            "Governance": {
+                "19": "Ethical Business & Regulatory Compliance"
+            },
+            "Timeline": {
+                "2013": "First materiality assessment conducted by the Group's Risk Management Department",
+                "2015": "Review of key business risks and material factors",
+                "2019": "Reorganization of the Group's material ESG factors",
+                "2021": "Recent reorganization",
+                "2022": "Planned review of material ESG factors"
+            }
+        }
+    },
+    {
+        "page_13.png": {
+            "ISO_Standards": [
+                {
+                    "Standard": "ISO 14064-1",
+                    "Year": 2006
+                },
+                {
+                    "Standard": "ISO 14064-1",
+                    "Year": 2018
+                }
+            ],
+            "Consolidation_Year": 2021,
+            "Transition_Year": 2022
+        }
+    },
+    {
+        "page_14.png": {
+            "TCFD_recommendations": "implemented",
+            "ST_Engineering_SLCN_membership": {
+                "year": 2021,
+                "status": "inaugural member"
+            },
+            "Preliminary_Physical_Climate_Risk_Assessment": {
+                "year": 2021,
+                "scope": "major operating sites"
+            },
+            "In_depth_climate_risk_assessment": {
+                "year": 2022,
+                "scope": "key vulnerable locations"
+            }
+        }
+    },
+    {
+        "page_15.png": {
+            "certifications": [
+                {
+                    "ISO": 14001,
+                    "description": "Environmental Management Systems certification for material business units in Singapore"
+                },
+                {
+                    "ISO": 45001,
+                    "description": "Occupational Health and Safety Management Systems certification for material business units in Singapore"
+                },
+                {
+                    "ISO": 9001,
+                    "description": "Quality Management Systems certification for operations"
+                }
+            ]
+        }
+    },
+    {
+        "page_16.png": {
+            "Environmental_Protection_Achievements_2021": {
+                "GHG_Emissions_Target": {
+                    "Reduction_Percentage": 56,
+                    "Target_Year": 2030,
+                    "Base_Year": 2018
+                }
+            },
+            "Energy_Consumption": {
+                "2019": 744,
+                "2020": 739,
+                "2021": 778
+            },
+            "GHG_Emissions": {
+                "2019": {
+                    "Scope_1_2": 113,
+                    "Scope_3": 2.6
+                },
+                "2020": {
+                    "Scope_1_2": 117,
+                    "Scope_3": 1.9
+                },
+                "2021": {
+                    "Scope_1_2": 119
+                }
+            },
+            "Solar_Panel_Deployment": {
+                "2021": {
+                    "Added_Area_m2": 44808,
+                    "Total_Area_m2": 110080,
+                    "Buildings_With_Solar_Panels": 39
+                },
+                "2020": {
+                    "Buildings_With_Solar_Panels": 24
+                }
+            },
+            "Solar_PV_Systems_Singapore": {
+                "2021": {
+                    "Electricity_Generation_Percentage": 8
+                }
+            }
+        }
+    },
+    {
+        "page_17.png": {
+            "water_consumption_intensity_decrease": {
+                "percentage": 15,
+                "year": 2021,
+                "base_year": 2015
+            },
+            "waste_recycling": {
+                "percentage": 78,
+                "total_tonnes": 5900,
+                "year": 2021
+            },
+            "water_consumption": {
+                "2019": 656,
+                "2020": 717,
+                "2021": 638,
+                "unit": "000m³"
+            },
+            "waste_recycled_percentage": {
+                "metal": 73,
+                "wood": 18,
+                "batteries": 7,
+                "paper": 2
+            }
+        }
+    },
+    {
+        "page_18.png": {
+            "emissions_reduction_targets": [
+                {
+                    "percentage": 56,
+                    "scope": "Scope 1 and 2",
+                    "year": 2030,
+                    "base_year": 2010
+                },
+                {
+                    "percentage": 16,
+                    "scope": "GHG intensity",
+                    "year": 2025,
+                    "base_year": 2018,
+                    "location": "Singapore"
+                },
+                {
+                    "percentage": 36,
+                    "year": 2030,
+                    "base_year": 2018
+                }
+            ],
+            "standards": [
+                {
+                    "standard": "ISO 14064-1:2006",
+                    "description": "Greenhouse Gases"
+                }
+            ],
+            "milestones": [
+                {
+                    "year": 2014,
+                    "description": "Target set for Singapore operations"
+                },
+                {
+                    "year": 2018,
+                    "description": "Target raised to 36% by 2030"
+                },
+                {
+                    "year": 2019,
+                    "description": "Target met"
+                },
+                {
+                    "year": 2021,
+                    "description": "Commitment to 56% reduction by 2030"
+                },
+                {
+                    "year": 2021,
+                    "description": "OESC's Environment Committee formed"
+                },
+                {
+                    "year": 2024,
+                    "description": "Goal for comprehensive global GHG emissions inventory"
+                }
+            ]
+        }
+    },
+    {
+        "page_19.png": {
+            "GHG_emissions_base_year": 2018,
+            "GHG_emissions_2018_estimate": 178000,
+            "GHG_emissions_estimate_year": 2021,
+            "water_usage_intensity_reduction_target": 15,
+            "water_usage_intensity_target_year": 2025,
+            "water_usage_intensity_base_year": 2015,
+            "water_usage_intensity_target_set_year": 2016
+        }
+    },
+    {
+        "page_20.png": {
+            "Year": 2021,
+            "LaptopsDonated": 1000,
+            "EwasteRecycledMetricTons": 1.5
+        }
+    },
+    {
+        "page_21.png": {
+            "realized_productivity_savings": 23.5,
+            "additional_savings": 85.2,
+            "value_added_per_employment_cost": 1.53
+        }
+    },
+    {
+        "page_22.png": {
+            "estimated_savings_manhours_annually": 2080,
+            "key_goals_2022": {
+                "increase_productivity_savings_percentage": 5
+            }
+        }
+    },
+    {
+        "page_23.png": {
+            "5S Housekeeping": true
+        }
+    },
+    {
+        "page_24.png": {
+            "Achievements": {
+                "Year": 2021
+            },
+            "Goals": {
+                "Year": 2022
+            }
+        }
+    },
+    {
+        "page_25.png": {
+            "delivered_buses": 20,
+            "battery_capacity_kWh": {
+                "min": 150,
+                "max": 260
+            },
+            "annual_CO2_savings_tonnes": 290000,
+            "cars_removed_equivalent": 42500,
+            "HDB_flats_equivalent": 300000,
+            "footprint_savings_hectares": 2.6,
+            "footprint_savings_football_fields": 4
+        }
+    },
+    {
+        "page_26.png": {
+            "Airbus_A321_P2F_solution_gross_payload": 28,
+            "Annual_productivity_savings_manhours": 2000,
+            "EcoPower_engine_wash_service_engines_washed_annually": 9000,
+            "Estimated_emissions_avoidance_CO2_tons_annually": 508000,
+            "Recovery_and_reuse_water_liters": 2000000
+        }
+    },
+    {
+        "page_27.png": {
+            "year": 2021,
+            "page_number": 26
+        }
+    },
+    {
+        "page_28.png": {
+            "year": 2021,
+            "achievements": {
+                "global_footprint": "expanded and deepened",
+                "learning_development_framework": "strengthened",
+                "workforce_digitalisation": "accelerated",
+                "engineering_technology_innovation_capabilities": "deepened"
+            },
+            "technology_seminar": {
+                "month": "September",
+                "attendees": 400,
+                "type": "inaugural"
+            }
+        }
+    },
+    {
+        "page_29.png": {
+            "employees_utilizing_digital_learning": 6000,
+            "MOVEvent_employees_involved": 3398,
+            "collective_km_completed": 360000,
+            "MOVEvent_funds_raised": 398080
+        }
+    },
+    {
+        "page_30.png": {
+            "decommissioned_laptops_donated": 1080,
+            "women_at_st_engineering_inauguration_year": 2021,
+            "top_five_employers_recognition": 5
+        }
+    },
+    {
+        "page_31.png": {
+            "Employees": {
+                "By Clusters": {
+                    "Defence & Public Security": 49,
+                    "Commercial": 46,
+                    "Corporate": 5
+                },
+                "By Geography": {
+                    "Singapore": 63,
+                    "North America": 23,
+                    "Europe": 10,
+                    "Others": 4
+                },
+                "By Qualification": {
+                    "Degree or Higher": 41,
+                    "Diploma or equivalent": 18,
+                    "Trade certification": 20,
+                    "\"O\" or \"A\" levels or equivalent": 17,
+                    "Below \"O\" levels or equivalent": 4
+                },
+                "By Age Group": {
+                    "30 and below": 15,
+                    "30+ to 40": 26,
+                    "40+ to 50": 27,
+                    "50+ to 60": 23,
+                    "Above 60": 9
+                }
+            },
+            "Workforce Profile": {
+                "Employees": {
+                    "Male": 79,
+                    "Female": 21
+                },
+                "Supervised Workers": {
+                    "Male": 85,
+                    "Female": 15
+                }
+            },
+            "Average Training per Employee": {
+                "Total": 21,
+                "Male": 24,
+                "Female": 11
+            },
+            "Turnover Rate": {
+                "Total": 14,
+                "Male": 14,
+                "Female": 14
+            },
+            "People Managers": {
+                "Male": 15,
+                "Female": 14
+            }
+        }
+    },
+    {
+        "page_32.png": {
+            "sections": [
+                {
+                    "number": 1,
+                    "title": "Diversity and Inclusion"
+                },
+                {
+                    "number": 2,
+                    "title": "Employee Engagement"
+                }
+            ]
+        }
+    },
+    {
+        "page_33.png": {
+            "employees": 323,
+            "total_distance_km": 236000
+        }
+    },
+    {
+        "page_34.png": {
+            "learning_and_development_model": "78:20:18",
+            "reorganisation_year": 2021
+        }
+    },
+    {
+        "page_35.png": {
+            "ST Engineering": {
+                "ESG_performance_link_established": 2019,
+                "sustainability_section_incorporated": 2020
+            },
+            "Singapore_operations": {
+                "employees_covered_under_collective_agreement": 29
+            }
+        }
+    },
+    {
+        "page_36.png": {
+            "Accident_Frequency_Rate_2021": 1.1,
+            "Accident_Severity_Rate_2021": 22.0,
+            "AFR_Sub_Groups_Increase": {
+                "From": 0.8,
+                "To": 1.1
+            },
+            "ASR_Increase": {
+                "From": 17.7,
+                "To": 22.0
+            },
+            "Falls_From_Height_Incidents_Decrease": {
+                "From": 21,
+                "To": 12
+            },
+            "Occupational_Health_Performance_Indicators": {
+                "Workplace_Safety_Health_Activities_Organised": 112,
+                "Respiratory_Protection_Training_Attendance": 100,
+                "New_Occupational_Disease_Cases": 0,
+                "Audiometric_Examination_Attendance": 100,
+                "New_Advanced_Noise_Induced_Deafness_Cases": 0
+            }
+        }
+    },
+    {
+        "page_37.png": {
+            "SafetyIncidentsBreakdown": {
+                "CutsStabbedByObjects": 15,
+                "StruckByObjects": 13,
+                "FracturesSprainsBackPain": 13,
+                "CaughtInBetweenObjects": 13,
+                "FallsFromHeight": 12,
+                "SlipsTripsAndFalls": 12,
+                "MachineryInMotion": 8,
+                "StruckAgainstObjects": 8,
+                "Others": 6
+            },
+            "AccidentFrequencyRate": {
+                "2019": 0.7,
+                "2020": 0.8,
+                "2021": 1.1
+            },
+            "AccidentSeverityRate": {
+                "2019": 14.7,
+                "2020": 17.2,
+                "2021": 22.0
+            }
+        }
+    },
+    {
+        "page_38.png": {
+            "Mental_Wellness_Initiatives": {
+                "Year": 2021,
+                "Fruit_Day": "First Friday of every month"
+            },
+            "Halter_Marine_Safety_Achievements": {
+                "Reduced_Lost_Time_Injuries_Percentage": 95,
+                "Since_Year": 2016,
+                "Reduced_Incurred_Cost_Percentage": 81,
+                "Safety_Inspection_Score": 8.6,
+                "AEU_Shipyard_Average_Score": 6.0
+            }
+        }
+    },
+    {
+        "page_39.png": {
+            "ISO_45001_Certification": {
+                "Location": "Singapore",
+                "Scope": "All material business units"
+            }
+        }
+    },
+    {
+        "page_40.png": {
+            "ISO_Standard": "9001",
+            "Quality_Behaviours": 7,
+            "Date": "11 November 2021",
+            "TR_Standard": "68",
+            "Autonomous_Vehicles_Year": 2021,
+            "Year_1": 2021,
+            "Year_2": 2020,
+            "Conference_Year": 2021
+        }
+    },
+    {
+        "page_41.png": {
+            "Key Goals for 2022": {
+                "eLearningModules": "core quality-related",
+                "QualityBehaviours": "Seven"
+            },
+            "PageNumber": 40
+        }
+    },
+    {
+        "page_42.png": {
+            "ISO": 9001
+        }
+    },
+    {
+        "page_43.png": {
+            "active_suppliers": 9780,
+            "year": 2021,
+            "spending_with_local_SMEs": 338000000,
+            "currency": "USD"
+        }
+    },
+    {
+        "page_44.png": {
+            "GlobalOperations": {
+                "TotalProcurementSpend": 4500000000
+            },
+            "SingaporeOperations": {
+                "ProcurementSpendWithLocalSMEs": 330000000,
+                "ProcurementSpendByGeographicLocation": {
+                    "Singapore": 62,
+                    "Europe": 17,
+                    "Others": 12,
+                    "NorthAmerica": 9
+                }
+            }
+        }
+    },
+    {
+        "page_45.png": {}
+    },
+    {
+        "page_46.png": {
+            "ST_Engineering_operations": {
+                "unique_suppliers_2021": 9700,
+                "suppliers_distribution": {
+                    "Singapore": 75,
+                    "Europe_and_North_America": 16,
+                    "Other_parts_of_the_world": 9
+                }
+            }
+        }
+    },
+    {
+        "page_47.png": {
+            "Group Economic Contribution (S$m)": {
+                "Bought-in material and services": 4581,
+                "Employee wages, salaries and benefits": 2122,
+                "Dividends and interest paid": 513,
+                "Government taxes and levies": 88,
+                "Total": 7224
+            },
+            "Total Economic Contributions": 7200000000,
+            "Order book increased to": 19300000000,
+            "Financial Year": 2021
+        }
+    },
+    {
+        "page_48.png": {}
+    },
+    {
+        "page_49.png": {
+            "community_contributions": 2800000,
+            "community_chest_share_programme": 640000,
+            "presidents_challenge_2021": 398000,
+            "vietnam_covid19_vaccine_fund": 100000,
+            "ntuc_education_and_training_fund": {
+                "annual_contribution": 250000,
+                "duration_years": 4,
+                "start_year": 2018
+            },
+            "straits_times_school_pocket_money_fund": 108000,
+            "sit_student_relief_fund": 50000
+        }
+    },
+    {
+        "page_50.png": {
+            "President's Challenge 2021": 398000,
+            "Community SHARE programme": 648000,
+            "StayMasked distribution campaign": {
+                "employees_supported": 124,
+                "households_collected_masks": 1100000,
+                "masks_collected": 85000000,
+                "collection_points": 138
+            },
+            "Engineering Good": {
+                "decommissioned_laptops_donated": 1069
+            },
+            "time_period": {
+                "start": "April 2020",
+                "end": "March 2021"
+            }
+        }
+    },
+    {
+        "page_51.png": {
+            "Internships for STEM Talent": {
+                "Number": 1224,
+                "Year": 2021
+            },
+            "Shipbuilding Apprenticeship Programme": {
+                "Location": "Mississippi",
+                "Apprentices": 56,
+                "Since": 2022
+            },
+            "Supporting Education through the Pandemic": {
+                "Amount Raised": 198000,
+                "Fund": "The Straits Times School Pocket Money Fund"
+            },
+            "SIT Student Relief Fund": {
+                "Contribution": 50000
+            },
+            "Pensacola Mayor’s Scholarship": {
+                "Location": "Pensacola, Florida",
+                "Recipients": {
+                    "Previous": 4,
+                    "Current": 8
+                },
+                "Starting Year": 2022
+            },
+            "Assumption Pathway School": {
+                "Achievement Awards": 2,
+                "Best Progress Awards": 2,
+                "Year": 2021,
+                "Industry Experiential Programme": {
+                    "Students": 16,
+                    "Duration": "Two-week"
+                },
+                "Since": 2013
+            }
+        }
+    },
+    {
+        "page_52.png": {
+            "representatives_made_cyber_ready": 235,
+            "social_service_agencies_and_charities_involved": 167,
+            "ambulances_and_buses_inspected": 11,
+            "vans_inspected": 11,
+            "key_goals_2022": {
+                "ST_Engineering_MOVEvent_runs": 2
+            }
+        }
+    },
+    {
+        "page_53.png": {}
+    },
+    {
+        "page_54.png": {
+            "ABC_eLearning_Completion": "100%",
+            "Bribery_Cases_2021": 0,
+            "Corruption_Cases_2021": 0,
+            "Export_Control_Violations_2021": 0,
+            "Significant_Fines_Environmental_Health_Safety": 0,
+            "NonMonetary_Sanctions_Environmental_Health_Safety": 0
+        }
+    },
+    {
+        "page_55.png": {}
+    },
+    {
+        "page_56.png": {
+            "Singapore Code of Corporate Governance": 2018,
+            "Board Committees": 6,
+            "Year": 2021
+        }
+    },
+    {
+        "page_57.png": {
+            "BoardMeetings2021": 9,
+            "FinancialYears": [
+                "FY2020",
+                "1H2021"
+            ],
+            "MarketUpdates": [
+                "1Q2021",
+                "3Q2021"
+            ]
+        }
+    },
+    {
+        "page_58.png": {
+            "BoardMembersDetails": {
+                "Vincent Chong Sy Feng": [
+                    9,
+                    9,
+                    1,
+                    1,
+                    5,
+                    5,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "Kwa Chong Seng": [
+                    9,
+                    9,
+                    3,
+                    3,
+                    3,
+                    3,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "Kevin Kwok Khien": [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "Leong Weng Keong Joseph": [
+                    9,
+                    9,
+                    2,
+                    2
+                ],
+                "Lim Ah Doo": [
+                    8,
+                    9,
+                    4,
+                    5,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "Lim Chin Hu": [
+                    9,
+                    9,
+                    3,
+                    3,
+                    3,
+                    3,
+                    1,
+                    1,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "Lim Sim Seng": [
+                    9,
+                    9,
+                    3,
+                    3,
+                    3,
+                    3,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "Ng Bee Bee (May)": [
+                    9,
+                    9,
+                    2,
+                    3,
+                    2,
+                    2
+                ],
+                "LG Ong Su Kiat Melvyn": [
+                    8,
+                    9,
+                    4,
+                    5,
+                    1,
+                    2
+                ],
+                "Quek See Tiat": [
+                    9,
+                    9,
+                    5,
+                    5,
+                    5,
+                    5,
+                    2,
+                    2
+                ],
+                "Song Su-Min": [
+                    9,
+                    9,
+                    5,
+                    5,
+                    5,
+                    5,
+                    2,
+                    2
+                ],
+                "Tan Peng Yam": [
+                    4,
+                    4,
+                    1,
+                    1
+                ],
+                "Teo Ming Kian": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "COL Cai Dexian": [
+                    1,
+                    1
+                ],
+                "COL Xu Youfeng": [
+                    3,
+                    8
+                ]
+            },
+            "NumberOfMeetingsHeldInFY2021": {
+                "Board": 9,
+                "AC": 5,
+                "ERCC": 3,
+                "NC": 3,
+                "RD&T": 1,
+                "RSC": 5,
+                "SFC": 2,
+                "GM": 2
+            }
+        }
+    },
+    {
+        "page_59.png": {
+            "total_directors": 13,
+            "alternate_directors": 1,
+            "independent_non_executive_directors": 9,
+            "non_independent_non_executive_directors": 3,
+            "executive_director_group_president_ceo": 1,
+            "male_directors": 11,
+            "female_directors": 2,
+            "non_executive_directors": 12,
+            "independent_non_executive_directors_within_non_executive": 9,
+            "new_directors": [
+                {
+                    "name": "Kevin Kwok Khien",
+                    "type": "Independent and Non-Executive Director"
+                },
+                {
+                    "name": "Tan Peng Yam",
+                    "type": "Non-Independent and Non-Executive Director"
+                },
+                {
+                    "name": "Teo Ming Kian",
+                    "type": "Independent and Non-Executive Director"
+                },
+                {
+                    "name": "COL Cai Dexian",
+                    "type": "Alternate Director"
+                }
+            ]
+        }
+    },
+    {
+        "page_60.png": {
+            "Rule": "216 (5)(d)(iii)",
+            "Listing Manual": "SGX-ST",
+            "Date1": "1 September 2021",
+            "Date2": "1 September 2021",
+            "Page Number": 59
+        }
+    },
+    {
+        "page_61.png": {
+            "Joseph Leong Weng Keong": {
+                "Director_Cessation_Date": "2022-04-01"
+            },
+            "NC_Meetings": {
+                "Year": 2021,
+                "Number_of_Meetings": 3
+            }
+        }
+    },
+    {
+        "page_62.png": {
+            "FiscalYear": "FY2021",
+            "SGX-ST_Listing_Manual_Rules": [
+                "Rule 720(5)",
+                "Rule 720(6)"
+            ],
+            "Annual_Report_Pages": "25-27",
+            "AGM_Year": 2022
+        }
+    },
+    {
+        "page_63.png": {
+            "Strategy and Finance Committee": {
+                "meetings_2021": 2
+            },
+            "Research, Development and Technology Committee": {
+                "meetings_2021": 1
+            },
+            "Executive Resource and Compensation Committee": {
+                "meetings_2021": 3
+            },
+            "Remuneration Matters": {
+                "Principle_6": "Procedures for Developing Remuneration Policies",
+                "Principle_7": "Level and Mix of Remuneration",
+                "Principle_8": "Disclosure on Remuneration"
+            }
+        }
+    },
+    {
+        "page_64.png": {
+            "Fee_and_Salary_Reductions": {
+                "Range": {
+                    "Minimum": 5,
+                    "Maximum": 29
+                }
+            },
+            "Restoration_Date": "July 2021",
+            "Financial_Year": 2021
+        }
+    },
+    {
+        "page_65.png": {
+            "financial_year": 2021,
+            "PSP2020": "Singapore Technologies Engineering Performance Share Plan 2020",
+            "RSP2020": "Singapore Technologies Engineering Restricted Share Plan 2020",
+            "2020_Share_Plans": true,
+            "23rd_AGM_date": "15 May 2022",
+            "2016_Share_Plans": true,
+            "2020_Share_Plans_limit": 5,
+            "2016_Share_Plans_limit": 8,
+            "clawback_period_years": 6,
+            "share_grants_2020_Share_Plans_2021": 0.5,
+            "annual_report_pages": [
+                132,
+                133,
+                134,
+                135
+            ]
+        }
+    },
+    {
+        "page_66.png": {
+            "shares_capped_percentage": 170,
+            "performance_share_awards_granted_year": 2019,
+            "performance_period_years": [
+                2019,
+                2020,
+                2021
+            ],
+            "restricted_share_awards_granted_year": 2021,
+            "restricted_share_awards_vesting_period_years": 4,
+            "summary_remuneration_table_page": 109,
+            "key_management_executives_page": 118
+        }
+    },
+    {
+        "page_67.png": {
+            "retirement_date": "1 August 2021",
+            "years_with_company": 34,
+            "start_year": 1987,
+            "remuneration_limit": "S$100,000",
+            "financial_year": 2021,
+            "cash_percentage": 76,
+            "restricted_shares_percentage": 30,
+            "share_plan": "PSP2020",
+            "share_grant_moratorium_start_year": 2011
+        }
+    },
+    {
+        "page_68.png": {
+            "PrivateSectorFY2021": {
+                "ChairmanFee": 750000,
+                "BoardBasicRetainerFee": 75000,
+                "AdditionalCommitteeFees": {
+                    "AuditCommittee": {
+                        "Chairman": 52000,
+                        "Member": 29000
+                    },
+                    "ERCC_SFC_RDTT_RSC": {
+                        "Chairman": 35000,
+                        "Member": 18000
+                    },
+                    "OtherCommittees": {
+                        "Chairman": 29000,
+                        "Member": 14000
+                    }
+                },
+                "AttendanceFees": {
+                    "PerBoardCommitteeMeeting": 5000,
+                    "PerBoardCommitteeMeetingAlternate": 2500
+                }
+            },
+            "PublicSectorNEDFeesFY2021": {
+                "Chairman": 45000,
+                "DeputyChairman_ChairmanExecutiveCommittee_ChairmanAuditCommittee": 33750,
+                "MemberExecutiveCommittee_MemberAuditCommittee_ChairmanOtherBoardCommittees": 22500,
+                "Director": 11250
+            },
+            "AdditionalInformation": {
+                "NEDsRemunerationPayableAfterReinstatement": {
+                    "FY2021": 2925158,
+                    "FY2020": 1680047
+                }
+            }
+        }
+    },
+    {
+        "page_69.png": {
+            "ExecutiveDirector": {
+                "VincentChongSyFeng": {
+                    "Salary": 944409,
+                    "VariableCashBasedIncentives": 1868783,
+                    "Benefits": 139947,
+                    "ShareBasedIncentives": 1942958,
+                    "Total": 4887017,
+                    "PayableBySubsidiaries": 30000
+                }
+            },
+            "NonExecutiveDirectors": {
+                "KwaChongSeng": {
+                    "ShareBased": 498966,
+                    "Total": 712808
+                },
+                "KevinKwokKhien": {
+                    "CashBased": 24679,
+                    "ShareBased": 10573,
+                    "Total": 35243
+                },
+                "JosephLeongWengKeong": {
+                    "CashBased": 16692,
+                    "Total": 16692
+                },
+                "LimAhDoo": {
+                    "CashBased": 117915,
+                    "ShareBased": 56535,
+                    "Total": 168450
+                },
+                "LimChinHu": {
+                    "CashBased": 146590,
+                    "ShareBased": 62824,
+                    "Total": 209414,
+                    "PayableBySubsidiaries": 20000
+                },
+                "LimSimSeng": {
+                    "CashBased": 126211,
+                    "ShareBased": 54989,
+                    "Total": 180301
+                },
+                "NgBeeBeeMay": {
+                    "CashBased": 93861,
+                    "ShareBased": 42226,
+                    "Total": 134087
+                },
+                "LGOngSuKiatMelvyn": {
+                    "CashBased": 10692,
+                    "Total": 10692
+                },
+                "QuekGimPew": {
+                    "CashBased": 11953,
+                    "Total": 11953,
+                    "PayableBySubsidiaries": 5799
+                },
+                "QuekSeeTiat": {
+                    "CashBased": 153976,
+                    "ShareBased": 65990,
+                    "Total": 219966
+                },
+                "SongSuMinn": {
+                    "CashBased": 127365,
+                    "ShareBased": 54585,
+                    "Total": 181950
+                },
+                "TanPengYam": {
+                    "CashBased": 45337,
+                    "ShareBased": 19430,
+                    "Total": 64767
+                },
+                "TeoMingKian": {
+                    "CashBased": 59385,
+                    "ShareBased": 25456,
+                    "Total": 84835
+                },
+                "Total": {
+                    "CashBased": 1427613,
+                    "ShareBased": 597545,
+                    "Total": 2025158,
+                    "PayableBySubsidiaries": 32500
+                }
+            }
+        }
+    },
+    {
+        "page_70.png": {
+            "Summary Remuneration Table for Key Management Executives for the Year Ended 31 December 2021": {
+                "Between $2,250,000 and $2,500,000": [
+                    {
+                        "Name": "Foo Chee Keng Cedric",
+                        "Salary": 26,
+                        "Variable cash-based incentives": 41,
+                        "Benefits": 3,
+                        "Share-based incentives": 30,
+                        "Total": 100
+                    },
+                    {
+                        "Name": "Ravinder Singh s/o Harchand Singh",
+                        "Salary": 26,
+                        "Variable cash-based incentives": 41,
+                        "Benefits": 3,
+                        "Share-based incentives": 30,
+                        "Total": 100
+                    }
+                ],
+                "Between $1,750,000 and $2,000,000": [
+                    {
+                        "Name": "Lim Serh Ghee",
+                        "Salary": 25,
+                        "Variable cash-based incentives": 55,
+                        "Benefits": 7,
+                        "Share-based incentives": 13,
+                        "Total": 100
+                    },
+                    {
+                        "Name": "Tan Lee Chew",
+                        "Salary": 11,
+                        "Variable cash-based incentives": 51,
+                        "Benefits": 1,
+                        "Share-based incentives": 37,
+                        "Total": 100
+                    }
+                ],
+                "Total for Key Management Executives": 8857619
+            },
+            "Risk and Sustainability Committee": {
+                "Meetings in 2021": 5
+            }
+        }
+    },
+    {
+        "page_71.png": {
+            "R&A_implementation": {
+                "Singapore_business_units": 2022
+            }
+        }
+    },
+    {
+        "page_72.png": {
+            "Page number": 71
+        }
+    },
+    {
+        "page_73.png": {
+            "Date": "31 December 2021"
+        }
+    },
+    {
+        "page_74.png": {
+            "Audit_Committee_Meetings_2021": 5,
+            "IA_Team_Staff_Members": 29,
+            "Fees_Paid_External_Auditors_2021": 4.5,
+            "Non_Audit_Services_Fees": 2.1,
+            "Non_Audit_Services_Percentage": 5,
+            "PricewaterhouseCoopers_First_Appointment_Year": 2020
+        }
+    },
+    {
+        "page_75.png": {
+            "financial_year_end": "31 December 2021",
+            "annual_report_pages": {
+                "start": 139,
+                "end": 149
+            }
+        }
+    },
+    {
+        "page_76.png": {
+            "IPTs_details_page": 281,
+            "AGM_number": 24,
+            "COVID_19_Act_year": 2020,
+            "priorities_year": 2021
+        }
+    },
+    {
+        "page_77.png": {
+            "AGM": {
+                "number": 24,
+                "date": "15 December 2021"
+            },
+            "approval_percentage": 99.92,
+            "dividends": {
+                "per_share": {
+                    "FY2022": 16.8,
+                    "FY2021": 15.8,
+                    "current": 4.6
+                }
+            },
+            "dates": {
+                "June": 2022,
+                "September": 2022,
+                "December": 2022,
+                "May": 2023
+            },
+            "timelines": {
+                "hours": 72,
+                "days": 126
+            }
+        }
+    },
+    {
+        "page_78.png": {
+            "financial_report_publication_days": {
+                "min_days": 45,
+                "max_days": 60
+            },
+            "half_yearly_report_disclosure_notice": {
+                "weeks_prior": 2
+            },
+            "analyst_briefings_quarters": [
+                1,
+                3
+            ],
+            "email_response_time": {
+                "working_days": 3
+            }
+        }
+    },
+    {
+        "page_79.png": {}
+    },
+    {
+        "page_80.png": {}
+    },
+    {
+        "page_81.png": {
+            "awards": [
+                {
+                    "name": "Singapore 100 Women in Tech",
+                    "year": 2021
+                },
+                {
+                    "name": "Best Places to Work",
+                    "year": 2021,
+                    "category": "Large Company"
+                },
+                {
+                    "name": "Defence Technology Prize",
+                    "year": 2021,
+                    "category": "Individual (Engineering) Award Winner"
+                },
+                {
+                    "name": "Defence Technology Prize",
+                    "year": 2021,
+                    "category": "Team (Engineering) Award Winner"
+                },
+                {
+                    "name": "Singapore Good Design Award",
+                    "year": 2021,
+                    "category": "SG Mark"
+                },
+                {
+                    "name": "Top Companies in Singapore",
+                    "year": 2021
+                },
+                {
+                    "name": "Factory of the Future Award"
+                },
+                {
+                    "name": "WSH Innovation Award",
+                    "year": 2021,
+                    "category": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "page_82.png": {
+            "102-1": "Singapore Technologies Engineering Ltd",
+            "102-2": "Annual Report 2021 pages 34-51",
+            "102-3": "Annual Report 2021 page 61",
+            "102-4": "Annual Report 2021 page 61",
+            "102-5": "Annual Report 2021 page 154",
+            "102-6": "Annual Report 2021 pages 61, 159, 161",
+            "102-7": "Annual Report 2021 pages 61, 52-53, 66-61, 93, 279-280",
+            "102-8": "Sustainability Report 2021 pages 27-34",
+            "102-9": "Sustainability Report 2021 pages 42-45",
+            "102-10": "Annual Report 2021 pages 64-111",
+            "102-11": "Annual Report 2021 pages 64-111",
+            "102-12": "Sustainability Report 2021 pages 12, 14, 15, 17, 35, 38, 39, 41",
+            "102-13": "Various associations listed (a to u)"
+        }
+    },
+    {
+        "page_83.png": {
+            "102-14": {
+                "document": "Sustainability Report 2021",
+                "pages": [
+                    3
+                ]
+            },
+            "102-16": {
+                "document": "Sustainability Report 2021",
+                "pages": [
+                    7,
+                    8
+                ]
+            },
+            "102-18": {
+                "document": "Sustainability Report 2021",
+                "pages": [
+                    6
+                ]
+            },
+            "102-40": {
+                "document": "Sustainability Report 2021",
+                "pages": [
+                    10
+                ]
+            },
+            "102-41": {
+                "document": "Sustainability Report 2021",
+                "pages": [
+                    34
+                ]
+            },
+            "102-42": {
+                "document": "Sustainability Report 2021",
+                "pages": [
+                    11
+                ]
+            },
+            "102-43": {
+                "document": "Sustainability Report 2021",
+                "pages": [
+                    10
+                ]
+            },
+            "102-44": {
+                "document": "Sustainability Report 2021",
+                "pages": [
+                    11
+                ]
+            },
+            "102-45": {
+                "document": "Annual Report 2020",
+                "pages": [
+                    252
+                ]
+            },
+            "102-46": {
+                "document": "Sustainability Report 2021",
+                "pages": [
+                    1,
+                    11
+                ]
+            },
+            "102-47": {
+                "document": "Sustainability Report 2021",
+                "pages": [
+                    11,
+                    14
+                ]
+            },
+            "102-48": "Nil",
+            "102-49": "Nil",
+            "102-50": {
+                "period": "1 January to 31 December"
+            },
+            "102-51": {
+                "document": "Annual Report 2020",
+                "issued": "March 2021"
+            },
+            "102-52": "Annual",
+            "102-53": "sustainability@stengg.com",
+            "102-54": {
+                "document": "Sustainability Report 2021",
+                "pages": [
+                    1
+                ]
+            },
+            "102-55": {
+                "document": "Sustainability Report 2021",
+                "pages": [
+                    81,
+                    82,
+                    83,
+                    84,
+                    85
+                ]
+            },
+            "102-56": {
+                "document": "Sustainability Report 2021",
+                "pages": [
+                    12,
+                    15,
+                    17
+                ]
+            },
+            "ISO 14064-1": "2016"
+        }
+    },
+    {
+        "page_84.png": {
+            "Environmental Protection": {
+                "103-2": {
+                    "Sustainability Report 2021": "pages 14-18"
+                }
+            },
+            "Energy 2016": {
+                "302-1": {
+                    "Sustainability Report 2021": "page 15"
+                },
+                "302-3": {
+                    "Sustainability Report 2021": "page 15"
+                }
+            },
+            "Water 2016": {
+                "303-5": {
+                    "Sustainability Report 2021": "page 16"
+                }
+            },
+            "Emissions 2016": {
+                "305-1": {
+                    "Sustainability Report 2021": "page 15"
+                },
+                "305-2": {
+                    "Sustainability Report 2021": "page 15"
+                },
+                "305-3": {
+                    "Sustainability Report 2021": "page 15"
+                },
+                "305-4": {
+                    "Sustainability Report 2021": "page 15"
+                }
+            },
+            "Productivity": {
+                "103-2": {
+                    "Sustainability Report 2021": "pages 14, 20-22"
+                },
+                "Non-GRI": {
+                    "Sustainability Report 2021": "page 20"
+                }
+            },
+            "Green Products & Services": {
+                "103-2": {
+                    "Sustainability Report 2021": "pages 14, 23-26"
+                },
+                "Non-GRI": {
+                    "Sustainability Report 2021": "pages 23-25"
+                }
+            },
+            "Environmental Compliance (Products and Services) 2016": {
+                "307-1": {
+                    "Sustainability Report 2021": "page 16"
+                }
+            },
+            "People Excellence": {
+                "103-2": {
+                    "Sustainability Report 2021": "pages 14, 27-34"
+                }
+            },
+            "Workforce by Employee Category": {
+                "Manager": {
+                    "Male": "82%",
+                    "Female": "18%"
+                },
+                "Executive": {
+                    "Male": "74%",
+                    "Female": "26%"
+                },
+                "Non-executive": {
+                    "Male": "85%",
+                    "Female": "15%"
+                }
+            }
+        }
+    },
+    {
+        "page_85.png": {
+            "Employment_2016": {
+                "401-1_New_employee_hires_and_employee_turnover": {
+                    "By_Age_Group": {
+                        "30_and_below": {
+                            "New_Hire": 43,
+                            "Turnover": 26
+                        },
+                        "30+_to_40": {
+                            "New_Hire": 18,
+                            "Turnover": 18
+                        },
+                        "40+_to_50": {
+                            "New_Hire": 12,
+                            "Turnover": 12
+                        },
+                        "50+_to_60": {
+                            "New_Hire": 8,
+                            "Turnover": 7
+                        },
+                        "Above_60": {
+                            "New_Hire": 5,
+                            "Turnover": 10
+                        }
+                    },
+                    "New_Hire_Total": 17,
+                    "By_Gender": {
+                        "Male": 16,
+                        "Female": 20
+                    }
+                }
+            },
+            "Training_and_Education_2016": {
+                "404-1_Average_hours_of_training_per_year_per_employee": {
+                    "Employee_Category": {
+                        "Manager": 11,
+                        "Executive": 17,
+                        "Non-executive": 29
+                    }
+                }
+            },
+            "Non-discrimination_2016": {
+                "496-1_Incidents_of_discrimination_and_corrective_actions_taken": {
+                    "Cases_Lodged_2021": 2
+                }
+            }
+        }
+    },
+    {
+        "page_86.png": {
+            "Customer Health and Safety 2016": {
+                "416-1": "Sustainability Report 2021 pages 39-41"
+            },
+            "Responsible Procurement": {
+                "103-1": "Sustainability Report 2021 pages 14, 42-45",
+                "103-2": "Sustainability Report 2021 pages 14, 42-45",
+                "103-3": "Sustainability Report 2021 pages 14, 42-45"
+            },
+            "Procurement Practices 2016": {
+                "204-1": "Sustainability Report 2021 pages 42-43"
+            },
+            "Supplier Environmental Assessment 2016": {
+                "308-1": "Sustainability Report 2021 pages 42-45"
+            },
+            "Supplier Social Assessment 2016": {
+                "414-1": "Sustainability Report 2021 pages 42-45"
+            },
+            "Economic Performance": {
+                "103-1": "Sustainability Report 2021 pages 14, 46 and 47",
+                "103-2": "Sustainability Report 2021 pages 14, 46 and 47",
+                "103-3": "Sustainability Report 2021 pages 14, 46 and 47"
+            },
+            "Economic Performance 2016": {
+                "201-1": "Sustainability Report 2021 pages 46"
+            },
+            "Corporate Community Contributions": {
+                "103-1": "Sustainability Report 2021 pages 14, 48-52",
+                "103-2": "Sustainability Report 2021 pages 14, 48-52",
+                "103-3": "Sustainability Report 2021 pages 14, 48-52"
+            },
+            "Local Communities 2016": {
+                "413-1": "Sustainability Report 2021 pages 48-52"
+            },
+            "Ethical Business & Regulatory Compliance": {
+                "103-1": "Sustainability Report 2021 pages 14, 53 and 54",
+                "103-2": "Sustainability Report 2021 pages 14, 53 and 54",
+                "103-3": "Sustainability Report 2021 pages 14, 53 and 54"
+            },
+            "Anti-corruption 2016": {
+                "205-1": "Sustainability Report 2021 pages 67, 69-70, 77-79",
+                "205-2": "Sustainability Report 2021 pages 53, 55-56, and 78",
+                "205-3": "Nil in 2021"
+            },
+            "Socioeconomic Compliance 2016": {
+                "419-1": "Sustainability Report 2021 pages 64 and 53"
+            }
+        }
+    },
+    {
+        "page_87.png": {
+            "Human Rights": [
+                {
+                    "Principle": 1,
+                    "Sustainability Report 2021 Pages": [
+                        63,
+                        67
+                    ]
+                },
+                {
+                    "Principle": 2,
+                    "Sustainability Report 2021 Page": 67
+                }
+            ],
+            "Labour": [
+                {
+                    "Principle": 3,
+                    "Sustainability Report 2021 Pages": [
+                        67,
+                        33
+                    ]
+                },
+                {
+                    "Principle": 4,
+                    "Sustainability Report 2021 Page": 67
+                },
+                {
+                    "Principle": 5,
+                    "Sustainability Report 2021 Page": 67
+                },
+                {
+                    "Principle": 6,
+                    "Sustainability Report 2021 Pages": [
+                        67,
+                        31
+                    ]
+                }
+            ],
+            "Environment": [
+                {
+                    "Principle": 7,
+                    "Sustainability Report 2021 Pages": [
+                        68,
+                        13,
+                        14,
+                        15,
+                        16,
+                        17,
+                        18
+                    ]
+                },
+                {
+                    "Principle": 8,
+                    "Sustainability Report 2021 Pages": [
+                        68,
+                        13,
+                        14,
+                        15,
+                        16,
+                        17,
+                        18
+                    ]
+                },
+                {
+                    "Principle": 9,
+                    "Sustainability Report 2021 Pages": [
+                        68,
+                        13,
+                        14,
+                        15,
+                        16,
+                        17,
+                        18,
+                        23,
+                        24,
+                        25,
+                        26
+                    ]
+                }
+            ],
+            "Anti-Corruption": [
+                {
+                    "Principle": 10,
+                    "Sustainability Report 2021 Pages": [
+                        67,
+                        53,
+                        54,
+                        77,
+                        78
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "page_88.png": {
+            "Energy Management": {
+                "Code": "RT-AE-130a.1",
+                "Page/Response": "Sustainability Report 2021 pages 4 and 15"
+            },
+            "Hazardous Waste Management": [
+                {
+                    "Code": "RT-AE-150a.1",
+                    "Page/Response": "Sustainability Report 2021 pages 16"
+                },
+                {
+                    "Code": "RT-AE-150a.2",
+                    "Page/Response": "Nil"
+                }
+            ],
+            "Data Security": [
+                {
+                    "Code": "RT-AE-230a.1",
+                    "Page/Response": "Sustainability Report 2021 page 53"
+                },
+                {
+                    "Code": "RT-AE-230a.2",
+                    "Page/Response": "Sustainability Report 2021 page 78, https://www.stengg.com/personal-data-policy"
+                }
+            ],
+            "Product Safety": [
+                {
+                    "Code": "RT-AE-250a.1",
+                    "Page/Response": "Not disclosed due to confidentiality reasons"
+                },
+                {
+                    "Code": "RT-AE-250a.2",
+                    "Page/Response": "Not disclosed due to confidentiality reasons"
+                },
+                {
+                    "Code": "RT-AE-250a.3",
+                    "Page/Response": "Not disclosed due to confidentiality reasons"
+                },
+                {
+                    "Code": "RT-AE-250a.4",
+                    "Page/Response": "Not disclosed due to confidentiality reasons"
+                }
+            ],
+            "Fuel Economy & Emissions in Use-phase": [
+                {
+                    "Code": "RT-AE-410a.1",
+                    "Page/Response": "Sustainability Report 2021 pages 23-26"
+                },
+                {
+                    "Code": "RT-AE-410a.2",
+                    "Page/Response": "Sustainability Report 2021 pages 23-26"
+                }
+            ],
+            "Materials Sourcing": {
+                "Code": "RT-AE-440a.1",
+                "Page/Response": "Sustainability Report 2021 page 44 and 45"
+            },
+            "Business Ethics": [
+                {
+                    "Code": "RT-AE-510a.1",
+                    "Page/Response": "Sustainability Report 2021 page 53"
+                },
+                {
+                    "Code": "RT-AE-510a.2",
+                    "Page/Response": "We do not report revenue breakdown by individual country"
+                },
+                {
+                    "Code": "RT-AE-510a.3",
+                    "Page/Response": "Sustainability Report 2021 pages 69-72 and 77-79"
+                }
+            ],
+            "Production by reportable segment": {
+                "Code": "RT-AE-000.A",
+                "Page/Response": "Annual Report 2021 page 63"
+            },
+            "Number of employees": {
+                "Code": "RT-AE-000.B",
+                "Page/Response": "Sustainability Report 2021 page 30"
+            }
+        }
+    },
+    {
+        "page_89.png": {
+            "Address": "1 ANG MO KIO ELECTRONICS PARK ROAD, #07-01, SINGAPORE 567710",
+            "Telephone": "(65) 6722 1818",
+            "Registration Number": "199706274H"
+        }
+    }
+]

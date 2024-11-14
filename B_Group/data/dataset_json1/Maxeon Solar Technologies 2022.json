@@ -1,0 +1,2073 @@
+[
+    {
+        "page_1.png": {
+            "report": {
+                "title": "Maxeon Sustainability Report",
+                "year": 2022
+            }
+        }
+    },
+    {
+        "page_2.png": {
+            "Introduction": {
+                "Letters from leadership": 3,
+                "About this report": 5,
+                "Key highlights of 2022": 6,
+                "About Maxeon Solar Technologies": 7,
+                "A leader in solar innovation": 8,
+                "Sustainability approach and governance": 9
+            },
+            "Environmental": {
+                "Spotlight: Launch of the SunPower One ecosystem": 17,
+                "Our environmental responsibility: An overview": 18,
+                "Energy and emissions": 19,
+                "Water management": 25,
+                "Waste": 27,
+                "Circular economy": 29,
+                "Environmental performance metrics": 32
+            },
+            "Social": {
+                "Spotlight: Launch of Maxeon Gives": 39,
+                "Social stewardship: An overview": 40,
+                "Occupational health and safety": 41,
+                "Fair labour and human rights": 42,
+                "Employee engagement": 45,
+                "Learning and development": 50,
+                "Diversity and inclusion": 53,
+                "Community investment": 57,
+                "Social performance metrics": 61
+            },
+            "Governance": {
+                "Spotlight: Collaboration with Solar Energy Research Institute of Singapore (SERIS)": 65,
+                "Governance approach: An overview": 70,
+                "Business integrity and ethics": 71,
+                "Product quality, reliability and safety": 72,
+                "Sustainable innovation": 75,
+                "Customer engagement and satisfaction": 79
+            }
+        }
+    },
+    {
+        "page_3.png": {
+            "independent_company_duration": "less than 3 years",
+            "spin_off_date": "August 2020",
+            "corporate_knights_ranking": "top 1%",
+            "reporting_year": 2022
+        }
+    },
+    {
+        "page_4.png": {
+            "Sustainability Report": 3,
+            "Cradle to Cradle Silver certification year": 2022,
+            "ESG Long-Term Targets year": 2030,
+            "Maxeon Gives launch month": "August",
+            "Maxeon Gives launch year": 2022
+        }
+    },
+    {
+        "page_5.png": {
+            "reporting_period_end": "31 December 2022",
+            "last_sustainability_report_date": "30 June 2022",
+            "current_report_date": "28 June 2023",
+            "restated_training_hours_years": [
+                2020,
+                2021
+            ]
+        }
+    },
+    {
+        "page_6.png": {}
+    },
+    {
+        "page_7.png": {
+            "headquarters": "Singapore",
+            "sales_operations": "More than 100 countries",
+            "patents": "More than 1000",
+            "production_facilities": [
+                "Philippines",
+                "Mexico",
+                "Malaysia"
+            ],
+            "sales_installation_partners": "1700+",
+            "customers": "More than 1000000",
+            "2022_sales_percent_MW": {
+                "United_States_Canada": 40.7,
+                "Mexico_Latin_America": 0.9,
+                "EMEA": 39.6,
+                "APAC": 18.8
+            },
+            "2021_to_2022_MW_sales_growth": {
+                "United_States_Canada": 121,
+                "Mexico_Latin_America": 45,
+                "EMEA": 15,
+                "APAC": -37
+            }
+        }
+    },
+    {
+        "page_8.png": {
+            "Solar Panel Efficiency": {
+                "Top Manufacturers": 20,
+                "Data As Of": "January 2022"
+            },
+            "Lowest Degradation Rate": {
+                "Year": 2018
+            },
+            "Durability": {
+                "Warranty": 40
+            },
+            "SunPower Maxeon Warranty": {
+                "Standard Warranty": 40,
+                "Alternative Warranty": 25
+            },
+            "PVEL PV Module Reliability Scorecard": {
+                "Top Performer Since": 2017
+            }
+        }
+    },
+    {
+        "page_9.png": {
+            "UN_SDGs": [
+                7,
+                12,
+                10,
+                16
+            ],
+            "Page_number": 9,
+            "Year": 2023
+        }
+    },
+    {
+        "page_10.png": {}
+    },
+    {
+        "page_11.png": {}
+    },
+    {
+        "page_12.png": {
+            "Fiscal Year": 2022,
+            "GRI Standards": 2021,
+            "UN SDGs": [
+                7,
+                10,
+                12,
+                16
+            ]
+        }
+    },
+    {
+        "page_13.png": {
+            "2020": {
+                "Joined United Nations Global Compact": true
+            },
+            "2021": {
+                "Inaugural Sustainability Report": true,
+                "Conflict Minerals Reporting": true,
+                "Target Setting for Material Topics": true
+            },
+            "2022": {
+                "Winner": {
+                    "Year": 2021,
+                    "Award": "Asia Sustainability Reporting Awards",
+                    "Category": "Best Sustainability Report (Human Rights)",
+                    "Position": "Silver"
+                },
+                "Published 2nd Sustainability Report": true
+            },
+            "2023": {
+                "Named by Corporate Knights a Top 100 Most Sustainable Company": true
+            }
+        }
+    },
+    {
+        "page_14.png": {
+            "Energy and Emissions": {
+                "Energy Intensity": {
+                    "2020": 254,
+                    "2025": "10% improvement from 2020",
+                    "2030": "20% improvement from 2020",
+                    "2022 Performance": {
+                        "Value": 175,
+                        "Improvement": "31.3% improvement from 2020"
+                    }
+                },
+                "Emissions Intensity": {
+                    "2020": 160,
+                    "2025": "10% improvement from 2020",
+                    "2030": "20% improvement from 2020",
+                    "2022 Performance": {
+                        "Value": 136,
+                        "Improvement": "14.8% improvement from 2020"
+                    }
+                }
+            },
+            "Water Management": {
+                "Water Intensity": {
+                    "2020": 3874,
+                    "2025": "2.5% improvement from 2020",
+                    "2030": "5% improvement from 2020",
+                    "2022 Performance": {
+                        "Value": 2602,
+                        "Improvement": "32.8% improvement from 2020"
+                    }
+                }
+            },
+            "Waste": {
+                "Waste Recycling": {
+                    "2020": 80,
+                    "2025": "5% improvement from 2020",
+                    "2030": "20% improvement from 2020",
+                    "2022 Performance": 68
+                }
+            },
+            "Circular Economy": {
+                "Cradle to Cradle": {
+                    "2020": "Bronze",
+                    "2025": "Silver",
+                    "2030": "Gold",
+                    "2022 Performance": "Silver"
+                }
+            }
+        }
+    },
+    {
+        "page_15.png": {
+            "Occupational_health_and_safety": {
+                "TRIR": {
+                    "2020": 0.63,
+                    "2025": 0.63,
+                    "2030": "10% reduction over 2020 number",
+                    "2022_performance": 1.14
+                }
+            },
+            "Fair_labour_and_human_rights": {
+                "Incidents_traceability": {
+                    "2020": 0,
+                    "2025": "Traceability of supply on blockchain within 4 hours",
+                    "2030": 0
+                }
+            },
+            "Diversity_and_inclusion": {
+                "Percentage_of_people_leaders_who_identify_as_female": {
+                    "2020": 32,
+                    "2025": 34,
+                    "2030": 37,
+                    "2022_performance": "Above 25"
+                }
+            },
+            "Community_investment": {
+                "Maxeon_volunteering_days": {
+                    "2020": "NA",
+                    "2025": 5000,
+                    "2030": 7500,
+                    "2022_performance": "Increased from 2020"
+                }
+            },
+            "Employee_engagement": {
+                "2025": {
+                    "A": 90,
+                    "B": 70
+                },
+                "2030": {
+                    "A": 95,
+                    "B": 80
+                }
+            }
+        }
+    },
+    {
+        "page_16.png": {
+            "ConsumerEngagementAndSatisfaction": {
+                "NetPromoterScores": {
+                    "2020": 54,
+                    "2025": 62,
+                    "2030": 70,
+                    "2022Performance": 56
+                }
+            },
+            "ProductQualityReliabilityAndSafety": {
+                "DefectivePartsPerMillion": {
+                    "2020": 2000,
+                    "2025": "30% reduction from 2020",
+                    "2030": "50% reduction from 2020",
+                    "2022Performance": 407
+                }
+            },
+            "SustainableInnovation": {
+                "WarrantyAndEfficiency": {
+                    "2020": {
+                        "Warranty": 25,
+                        "Efficiency": null
+                    },
+                    "2025": {
+                        "Warranty": 40,
+                        "Efficiency": 24
+                    },
+                    "2030": {
+                        "Warranty": 40,
+                        "Efficiency": 25
+                    },
+                    "2022Performance": {
+                        "Warranty": 40,
+                        "Efficiency": 22.7
+                    }
+                }
+            },
+            "BusinessIntegrityAndEthics": {
+                "IncidentsOfCorruption": {
+                    "2020": 0,
+                    "2022Performance": 0
+                }
+            }
+        }
+    },
+    {
+        "page_17.png": {
+            "page_number": 17
+        }
+    },
+    {
+        "page_18.png": {}
+    },
+    {
+        "page_19.png": {
+            "temperature_limits": {
+                "1.5°C": "Limiting global temperature rise to avoid climate change impacts",
+                "2°C": "Global temperature rise limit to prevent excess warming"
+            },
+            "emissions_reduction": {
+                "target_percentage": "45%",
+                "base_year": "2010",
+                "target_year": "2030"
+            },
+            "pledge_year": "2022",
+            "green_plan": "SGP 2030"
+        }
+    },
+    {
+        "page_20.png": {
+            "medium_and_long_term_risks_years": [
+                2030,
+                2050
+            ],
+            "scenarios": [
+                {
+                    "temperature_increase": "1.5°C",
+                    "RCP": 2.6
+                },
+                {
+                    "temperature_increase": ">3°C",
+                    "RCP": 8.5
+                }
+            ],
+            "baseline_year": 2022
+        }
+    },
+    {
+        "page_21.png": {
+            "year": 2050
+        }
+    },
+    {
+        "page_22.png": {
+            "Medium-term": 2030,
+            "Long-term": 2050,
+            "Scenario": "2°C or lower",
+            "Fiscal Year": "FY22"
+        }
+    },
+    {
+        "page_23.png": {
+            "energy_consumption_FY22": 370346.8,
+            "total_emissions": 240076.9,
+            "scope_1_emissions": 327.9,
+            "scope_2_emissions": 239391.1,
+            "scope_3_emissions": 357.9,
+            "FY22_energy_intensity": 174.5,
+            "emissions_intensity": 136.3,
+            "targets": {
+                "reduce_energy_intensity": {
+                    "percentage": 10,
+                    "year": 2025,
+                    "base_year": 2020
+                },
+                "reduce_emission_intensity": {
+                    "percentage": 20,
+                    "year": 2030,
+                    "base_year": 2020
+                }
+            }
+        }
+    },
+    {
+        "page_24.png": {
+            "Green Bond Framework Launch Year": 2022,
+            "Green Bonds Issued Before": "July 2021",
+            "Copyright Year": 2023
+        }
+    },
+    {
+        "page_25.png": {
+            "FAB4_solar_panel_energy_savings_2022": 309.59,
+            "nitrogen_generation_plant_compressors_optimization_energy_savings_2022": 78,
+            "CDA_supply_pressure_optimization_total_energy_savings": 415,
+            "chemical_dispensing_processes_transition_to_nitrogen_energy_savings": 35,
+            "WWTPs_transition_to_nitrogen_energy_savings": 88.7
+        }
+    },
+    {
+        "page_26.png": {
+            "energy_consumption_2022": 370346.8,
+            "total_emissions": 240076.9,
+            "scope_1_emissions": 327.9,
+            "scope_2_emissions": 239391.1,
+            "scope_3_emissions": 357.9,
+            "energy_intensity_2022": 174.5,
+            "emissions_intensity_2022": 136.3,
+            "mw_production_output_increase_2022": 95.8,
+            "energy_intensity_reduction_from_2020_baseline": 31.3,
+            "emissions_intensity_reduction_from_2020_baseline": 14.8,
+            "emissions_avoidance_2022": 16473076,
+            "targets": {
+                "reduction_by_2025": 10,
+                "reduction_by_2030": 20
+            }
+        }
+    },
+    {
+        "page_27.png": {
+            "water_intensity_reduction_targets": {
+                "2025": 2.5,
+                "2030": 5,
+                "baseline_year": 2020
+            },
+            "standards_mentioned": [
+                "NOM-002-SEMARNAT-1996",
+                "NOM-001-SEMARNAT-2021"
+            ],
+            "facility_mentioned": "FAB 4 in the Philippines"
+        }
+    },
+    {
+        "page_28.png": {
+            "2022": {
+                "water_withdrawn_m3": 4582823.7
+            },
+            "water_intensity_m3_per_MW": 2601.7,
+            "water_intensity_decrease_percent": 32.8,
+            "baseline_year": 2020,
+            "targets": {
+                "2025": {
+                    "improvement_percent": 2.5
+                },
+                "2030": {
+                    "improvement_percent": 5
+                }
+            }
+        }
+    },
+    {
+        "page_29.png": {
+            "waste_recycling_increase": {
+                "2025": 5,
+                "2030": 20,
+                "baseline_year": 2020
+            },
+            "waste_to_landfill": {
+                "percentage": "<1"
+            },
+            "waste_to_energy_facility": {
+                "percentage": "<10"
+            }
+        }
+    },
+    {
+        "page_30.png": {
+            "diverted_solid_waste": {
+                "amount": 254,
+                "unit": "tons",
+                "location": "Philippines facility",
+                "year": 2022
+            },
+            "chemical_use_reduction": {
+                "percentage": 62
+            },
+            "harmful_chemicals_substitution": {
+                "percentage": 23
+            },
+            "chemicals_generated_reduction": {
+                "percentage": 15,
+                "year": 2022
+            },
+            "chemical_containers_returned": {
+                "drums": {
+                    "amount": 260,
+                    "frequency": "weekly"
+                },
+                "tote_bags": {
+                    "amount": 4,
+                    "frequency": "weekly"
+                }
+            },
+            "ppe_consumption_reduction": {
+                "pieces": 18880,
+                "frequency": "annually",
+                "waste_equivalent": {
+                    "amount": 16.19,
+                    "unit": "tons",
+                    "frequency": "annually"
+                }
+            }
+        }
+    },
+    {
+        "page_31.png": {
+            "compost_generated_2022": 2.859,
+            "reduction_single_use_bottled_drinks_plastics": 50,
+            "domestic_waste_collection_malaysia": 324,
+            "total_waste_produced_2022": 14501,
+            "hazardous_waste_2022": 6597.7,
+            "hazardous_waste_percentage": 45.5,
+            "non_hazardous_waste_2022": 7902.9,
+            "non_hazardous_waste_percentage": 54.5,
+            "increase_waste_compared_2020": 22.9,
+            "waste_diverted_recycling_percentage": 67.7,
+            "hazardous_waste_recycled_percentage": 47.9,
+            "non_hazardous_waste_recycled_percentage": 84.1,
+            "previous_recycling_rate_2020": 80,
+            "waste_reduction_goal_2025": 5,
+            "waste_reduction_goal_2030": 20
+        }
+    },
+    {
+        "page_32.png": {
+            "solar_panel_lifespan": 40,
+            "current_solar_industry_standard_lifespan": {
+                "min": 25,
+                "max": 30
+            },
+            "reduction_in_corner_pieces_for_packaging": 52,
+            "original_number_of_corner_pieces_per_package": 124,
+            "reduced_number_of_corner_pieces_per_package": 64,
+            "pallet_recycling_projects_in_mexico": 58000,
+            "cost_savings_from_pallet_recycling": 1000000,
+            "project_primergy": {
+                "pallets_returned_per_week": 39300
+            },
+            "project_danish": {
+                "pallets_returned_every_two_weeks": 12400
+            },
+            "project_ellis": {
+                "pallets_returned_every_two_weeks": 6200
+            }
+        }
+    },
+    {
+        "page_33.png": {
+            "solar_wafers_processed_daily": 1000,
+            "certification_bronze_since": 2019,
+            "certification_maintained_years": [
+                2020,
+                2021
+            ],
+            "target_certification_silver_year": 2025,
+            "employees_participated": 50,
+            "campaign_duration_days": 4,
+            "campaign_month_year": "August 2022",
+            "fabric_collected_kg": 529,
+            "target_certification_gold_year": 2030
+        }
+    },
+    {
+        "page_34.png": {
+            "Energy": {
+                "Energy Consumption (MWh)": {
+                    "2020": 276044,
+                    "2021": 240832,
+                    "2022": 370347
+                },
+                "Energy Intensity (MWh used per MW produced)": {
+                    "2020": 254,
+                    "2021": 268,
+                    "2022": 175
+                },
+                "Reduction in energy consumption from base year (MWh)": {
+                    "2020": null,
+                    "2021": 35212,
+                    "2022": -31303
+                },
+                "Fuel Consumption (MWh)": {
+                    "2020": 1170,
+                    "2021": 1795,
+                    "2022": 1109
+                },
+                "Fuel Consumption (Litres)": {
+                    "2020": 123269,
+                    "2021": 188929,
+                    "2022": 100892
+                },
+                "LPG Use (MWh)": {
+                    "2020": 562,
+                    "2021": 596,
+                    "2022": 397
+                },
+                "LPG Use (kg)": {
+                    "2020": 41405,
+                    "2021": 43838,
+                    "2022": 34800
+                },
+                "Total Electricity Use (MWh) - Grid, PPA, Onsite": {
+                    "2020": 274310,
+                    "2021": 243440,
+                    "2022": 305841
+                },
+                "Conventional Purchased Electricity – Grid (MWh)": {
+                    "2020": 266246,
+                    "2021": 238142,
+                    "2022": 292312
+                },
+                "Conventional Purchased Electricity – Grid (%)": {
+                    "2020": 97,
+                    "2021": 98,
+                    "2022": 95
+                },
+                "Green Power Purchased (MWh)": {
+                    "2020": 6342,
+                    "2021": 3633,
+                    "2022": 12294
+                },
+                "Onsite Renewable Electricity (MWh)": {
+                    "2020": 1722,
+                    "2021": 1665,
+                    "2022": 1235
+                },
+                "Onsite Renewable Electricity (%)": {
+                    "2020": 0.63,
+                    "2021": 0.7,
+                    "2022": 0.4
+                },
+                "Total Renewable Energy (% of Electricity)": {
+                    "2020": 3,
+                    "2021": 2,
+                    "2022": 5
+                }
+            }
+        }
+    },
+    {
+        "page_35.png": {
+            "Energy": {
+                "Employee Commute (km)": {
+                    "2020": 1604169,
+                    "2021": 1504630,
+                    "2022": 1795922
+                },
+                "Air Travel (km)": {
+                    "2020": 896624,
+                    "2021": 1565250,
+                    "2022": 1005441
+                },
+                "Total capacity of photovoltaic (PV) solar modules produced (MW)": {
+                    "2020": 1085,
+                    "2021": 900,
+                    "2022": 1762
+                }
+            },
+            "Emissions": {
+                "Scope 1 Emissions (tCO₂e)": {
+                    "2020": 399,
+                    "2021": 580,
+                    "2022": 328
+                },
+                "Scope 2 Emissions (tCO₂e)": {
+                    "2020": 173335,
+                    "2021": 149282,
+                    "2022": 239391
+                },
+                "Scope 3 Emissions (tCO₂e)": {
+                    "2020": 328,
+                    "2021": 441,
+                    "2022": 358
+                },
+                "Total Emissions (tCO₂e)": {
+                    "2020": 174062,
+                    "2021": 150303,
+                    "2022": 240077
+                },
+                "Reduction in GHG emissions tCO₂e from base year": {
+                    "2020": "NA",
+                    "2021": -15.8,
+                    "2022": 28
+                },
+                "GHG Emissions Intensity [tCO₂e used per MW produced]": {
+                    "2020": 160,
+                    "2021": 167,
+                    "2022": 136
+                },
+                "Emissions avoided annually (tCO₂e)": {
+                    "2020": 10147576,
+                    "2021": 8413603,
+                    "2022": 16473076
+                }
+            }
+        }
+    },
+    {
+        "page_36.png": {
+            "Water": {
+                "Total Water Withdrawn (m³)": {
+                    "2020": 4203076,
+                    "2021": 3486450,
+                    "2022": 4582824
+                },
+                "Total Water Recycled (m³)": {
+                    "2020": 6445,
+                    "2021": 25689,
+                    "2022": 44110
+                },
+                "Total Water Discharge Volume (m³)": {
+                    "2020": 4466105,
+                    "2021": 3689724,
+                    "2022": 4523336
+                },
+                "Third-party water withdrawn (megalitres)": {
+                    "2020": 4203,
+                    "2021": 3486,
+                    "2022": 4583
+                },
+                "Total water discharge to all areas (megalitres)": {
+                    "2020": 4466,
+                    "2021": 3690,
+                    "2022": 4523
+                },
+                "Total water discharge to all areas with water stress (megalitres)": {
+                    "2020": 0,
+                    "2021": 0,
+                    "2022": 0
+                },
+                "Total water consumption from all areas in megalitres": {
+                    "2020": 4203,
+                    "2021": 3876,
+                    "2022": 4583
+                },
+                "Total water consumption from all areas with water stress in megalitres": {
+                    "2020": 0,
+                    "2021": 0,
+                    "2022": 0
+                },
+                "Water Intensity [m³ used per MW produced]": {
+                    "2020": 3874,
+                    "2021": 3876,
+                    "2022": 2602
+                },
+                "Reduction in water consumption (m³) from base year": {
+                    "2020": "NA",
+                    "2021": 716626,
+                    "2022": -379748
+                }
+            }
+        }
+    },
+    {
+        "page_37.png": {
+            "2020": {
+                "Hazardous Waste Generation (tons)": 6125,
+                "Amount of Hazardous Waste Recycled (tons)": 4341,
+                "Percentage of Hazardous Waste Recycled (%)": 71,
+                "Total weight of Hazardous Waste directed to disposal offsite (metric tons)": 1784,
+                "Non-Hazardous Waste Generation (tons)": 5678,
+                "Amount of Non-Hazardous Waste Recycled (tons)": 5108,
+                "Percentage of Non-Hazardous Waste Recycled (%)": 90
+            },
+            "2021": {
+                "Hazardous Waste Generation (tons)": 4285,
+                "Amount of Hazardous Waste Recycled (tons)": 2448,
+                "Percentage of Hazardous Waste Recycled (%)": 57,
+                "Total weight of Hazardous Waste directed to disposal offsite (metric tons)": 1837,
+                "Non-Hazardous Waste Generation (tons)": 6478,
+                "Amount of Non-Hazardous Waste Recycled (tons)": 5530,
+                "Percentage of Non-Hazardous Waste Recycled (%)": 85
+            },
+            "2022": {
+                "Hazardous Waste Generation (tons)": 6598,
+                "Amount of Hazardous Waste Recycled (tons)": 3163,
+                "Percentage of Hazardous Waste Recycled (%)": 48,
+                "Amount of Hazardous Waste Prepared for other recovery operations (tons)": 198,
+                "Total weight of Hazardous Waste directed to disposal offsite (metric tons)": 3435,
+                "Non-Hazardous Waste Generation (tons)": 7903,
+                "Amount of Non-Hazardous Waste Recycled (tons)": 6649,
+                "Percentage of Non-Hazardous Waste Recycled (%)": 84
+            }
+        }
+    },
+    {
+        "page_38.png": {
+            "NonHazardousWastePreparedForRecoveryOperations": {
+                "2020": null,
+                "2021": null,
+                "2022": 70
+            },
+            "NonHazardousWastePreparedForRecoveryOperationsPercentage": {
+                "2020": null,
+                "2021": null,
+                "2022": 1
+            },
+            "NonHazardousWasteDirectedToDisposalOnsite": {
+                "2020": 0,
+                "2021": 0,
+                "2022": 0
+            },
+            "NonHazardousWasteDirectedToDisposalOffsite": {
+                "2020": 570,
+                "2021": 948,
+                "2022": 1254
+            },
+            "EndOfLifeWasteTreatmentIncineration": {
+                "2020": null,
+                "2021": null,
+                "2022": 11
+            }
+        }
+    },
+    {
+        "page_39.png": {
+            "number": 39,
+            "location": "bottom left corner"
+        }
+    },
+    {
+        "page_40.png": {
+            "SunpowerFlexiblePanels": 900,
+            "SolarPanels": 21,
+            "SolarEnergyCapacityWatts": 6510,
+            "Students": 2900,
+            "SolarRackingAndInvertersPercentage": 95,
+            "ACWiringUsersPercentage": 100,
+            "UNSDGGoals": [
+                7,
+                10
+            ]
+        }
+    },
+    {
+        "page_41.png": {}
+    },
+    {
+        "page_42.png": {
+            "management_systems": [
+                "ISO9001",
+                "ISO45001",
+                "ISO14001"
+            ],
+            "fiscal_year": 2022,
+            "key_focus_areas": 4,
+            "operations_meetings_frequency": "bi-weekly"
+        }
+    },
+    {
+        "page_43.png": {
+            "steps": [
+                {
+                    "step_number": 1,
+                    "action": "Eliminate and physically remove the hazard"
+                },
+                {
+                    "step_number": 2,
+                    "action": "Substitute and/or replace the hazard"
+                },
+                {
+                    "step_number": 3,
+                    "action": "Isolate people from the hazard through engineering controls"
+                },
+                {
+                    "step_number": 4,
+                    "action": "Change the way people work through administrative controls"
+                },
+                {
+                    "step_number": 5,
+                    "action": "Protect workers with personal protective equipment"
+                }
+            ]
+        }
+    },
+    {
+        "page_44.png": {
+            "Good Catches": {
+                "Total": 6030,
+                "Reported by employees": 88.3,
+                "Reported by contractors": 11.7
+            },
+            "Recordable Work-Related Injuries": {
+                "Total incidents in 2022": 16
+            },
+            "COVID-19 Vaccination Rate": {
+                "Achieved": "More than 90"
+            },
+            "Total Recordable Incident Rate (TRIR)": {
+                "2022 TRIR per million manhours": 1.14,
+                "Baseline year performance (FY 2020)": 0.63
+            },
+            "Targets": {
+                "TRIR reduction by 2030": 10,
+                "Maintain TRIR by 2025": 0.63
+            }
+        }
+    },
+    {
+        "page_45.png": {
+            "Non-harassment": {
+                "types": [
+                    "sexual",
+                    "mental",
+                    "physical"
+                ],
+                "prohibited": true
+            },
+            "Non-discrimination": {
+                "prohibited": true
+            },
+            "Workplace": {
+                "max_hours_per_week": "set"
+            },
+            "Freedom_of_association": {
+                "valued": true
+            },
+            "Forced_or_child_labour": {
+                "prohibited": true,
+                "types": [
+                    "modern slavery",
+                    "human trafficking"
+                ]
+            }
+        }
+    },
+    {
+        "page_46.png": {
+            "Conflict_Minerals_Policy": "3TG",
+            "Engaged_with_Tier_1_Suppliers": "77%",
+            "Year": 2022,
+            "Securities_Act_Section": 27,
+            "Exchange_Act_Section": 21
+        }
+    },
+    {
+        "page_47.png": {
+            "Year": 2022,
+            "NonComplianceCases": 0,
+            "ExternalAudit": 2022,
+            "ReferenceToLaw": 2022
+        }
+    },
+    {
+        "page_48.png": {
+            "GRI_407-1": {
+                "Operations_and_suppliers_at_risk": 0
+            },
+            "GRI_408-1": {
+                "Operations_and_suppliers_at_risk": 0
+            },
+            "GRI_409-1": {
+                "Operations_and_suppliers_at_risk": 0
+            },
+            "GRI_410-1": {
+                "Percentage_of_security_personnel_trained": 100
+            },
+            "GRI_412": {
+                "Human_rights_assessment": {
+                    "Mexico": 100,
+                    "Philippines": 100,
+                    "Malaysia": 100,
+                    "Singapore": 100
+                },
+                "Total_hours_of_training": 5262,
+                "Percentage_of_employees_trained": 100,
+                "Significant_investment_agreements_with_human_rights_clauses": 100
+            }
+        }
+    },
+    {
+        "page_49.png": {
+            "response_time_for_supply_chain_traceability_inquiries": 4,
+            "target_year_for_implementing_blockchain_technology": 2025
+        }
+    },
+    {
+        "page_50.png": {
+            "Global_All_Hands_Meetings": 4,
+            "Leadership_Briefings": 8,
+            "CEO_Messages_Per_Month": 12,
+            "Quarterly_Business_Reviews_2022": 4
+        }
+    },
+    {
+        "page_51.png": {
+            "2022": {
+                "Maxeon Leader Programme Completion": 92.6,
+                "Career Conversations Logged": 65
+            },
+            "2025": {
+                "Performance Goal": 90,
+                "Career Conversations Target": 70
+            },
+            "2030": {
+                "Career Conversations Target": 80
+            },
+            "Leadership Development Programme Completion": {
+                "FY21": 95,
+                "FY22": 92.6
+            },
+            "Career and Development Discussion": {
+                "FY21": 80,
+                "FY22": 65
+            }
+        }
+    },
+    {
+        "page_52.png": {
+            "leadership_development_programme_completion": {
+                "2025": 90,
+                "2030": 95
+            },
+            "career_and_development_discussions": {
+                "2025": 70,
+                "2030": 80
+            },
+            "structured_feedback_incorporation": {
+                "target_year": 2025
+            },
+            "continuous_feedback_culture": {
+                "target_year": 2030
+            }
+        }
+    },
+    {
+        "page_53.png": {
+            "Learning_Development_Model": "70-20-10",
+            "Global_Policy_Implementation_Year": 2022,
+            "Global_Training_Programs_Review_Cycle": 2
+        }
+    },
+    {
+        "page_54.png": {
+            "Year": 2022,
+            "PerformanceTargetYear": 2025,
+            "PerformanceReviewsFrequency": "Bi-annually",
+            "TimeZonesForDevelopmentSessions": 2
+        }
+    },
+    {
+        "page_55.png": {
+            "AverageTrainingHoursByCountryRegion": {
+                "TotalEmployeesWithLearningRecords": {
+                    "Americas": {
+                        "2020": 1,
+                        "2021": 7,
+                        "2022": 126
+                    },
+                    "APAC": {
+                        "2020": 52,
+                        "2021": 66,
+                        "2022": 80
+                    },
+                    "EMEA": {
+                        "2020": 144,
+                        "2021": 106,
+                        "2022": 122
+                    },
+                    "MX": {
+                        "2020": 1723,
+                        "2021": 582,
+                        "2022": 2037
+                    },
+                    "MY": {
+                        "2020": 1528,
+                        "2021": 1387,
+                        "2022": 1751
+                    },
+                    "PH": {
+                        "2020": 1114,
+                        "2021": 1102,
+                        "2022": 1117
+                    },
+                    "SG": {
+                        "2020": 21,
+                        "2021": 74,
+                        "2022": 107
+                    }
+                },
+                "TotalHoursRecorded": {
+                    "Americas": {
+                        "2020": 0.5,
+                        "2021": 11.62,
+                        "2022": 1738.76
+                    },
+                    "APAC": {
+                        "2020": 138.84,
+                        "2021": 205.87,
+                        "2022": 737.43
+                    },
+                    "EMEA": {
+                        "2020": 385.79,
+                        "2021": 380.96,
+                        "2022": 972.64
+                    },
+                    "MX": {
+                        "2020": 2702,
+                        "2021": 1361.06,
+                        "2022": 13879.4
+                    },
+                    "MY": {
+                        "2020": 161514.57,
+                        "2021": 83825.1,
+                        "2022": 94830.61
+                    },
+                    "PH": {
+                        "2020": 21113.73,
+                        "2021": 21876.21,
+                        "2022": 43229.2
+                    },
+                    "SG": {
+                        "2020": 90.05,
+                        "2021": 272.9,
+                        "2022": 1057.3
+                    }
+                },
+                "AverageTrainingHoursPerEmployee": {
+                    "Americas": {
+                        "2020": 0.5,
+                        "2021": 1.66,
+                        "2022": 13.8
+                    },
+                    "APAC": {
+                        "2020": 2.7,
+                        "2021": 3.12,
+                        "2022": 9.22
+                    },
+                    "EMEA": {
+                        "2020": 2.7,
+                        "2021": 3.12,
+                        "2022": 8.0
+                    },
+                    "MX": {
+                        "2020": 1.6,
+                        "2021": 2.3,
+                        "2022": 6.81
+                    },
+                    "MY": {
+                        "2020": 105.7,
+                        "2021": 60.4,
+                        "2022": 54.16
+                    },
+                    "PH": {
+                        "2020": 19,
+                        "2021": 19.9,
+                        "2022": 38.7
+                    },
+                    "SG": {
+                        "2020": 4.3,
+                        "2021": 3.69,
+                        "2022": 9.88
+                    }
+                }
+            },
+            "GrandTotalAverage": {
+                "TotalEmployeesWithLearningRecords": {
+                    "2020": 4583,
+                    "2021": 3324,
+                    "2022": 5340
+                },
+                "TotalHoursRecorded": {
+                    "2020": 185945.48,
+                    "2021": 107933.72,
+                    "2022": 156445.34
+                },
+                "AverageTrainingHoursPerEmployee": {
+                    "2020": 136.5,
+                    "2021": 94.19,
+                    "2022": 140.57
+                }
+            },
+            "AverageTrainingHoursPerEmployeeByRegionAndGender": {
+                "MexicoSPMX1": {
+                    "FY21": {
+                        "Male": 2.1,
+                        "Female": 1.7,
+                        "Total": 3.9
+                    },
+                    "FY22": {
+                        "Male": 7.34,
+                        "Female": 6.88,
+                        "Total": 14.23
+                    }
+                },
+                "MexicoSPMX2": {
+                    "FY21": {
+                        "Male": 2.9,
+                        "Female": 2.1,
+                        "Total": 4.95
+                    },
+                    "FY22": {
+                        "Male": 6.68,
+                        "Female": 6.12,
+                        "Total": 12.8
+                    }
+                },
+                "PhilippinesFAB4": {
+                    "FY21": {
+                        "Male": 19.13,
+                        "Female": 20.67,
+                        "Total": 39.8
+                    },
+                    "FY22": {
+                        "Male": 35.6,
+                        "Female": 42.34,
+                        "Total": 77.95
+                    }
+                },
+                "MalaysiaFAB3": {
+                    "FY21": {
+                        "Male": 48.57,
+                        "Female": 75.24,
+                        "Total": 123.81
+                    },
+                    "FY22": {
+                        "Male": 47.51,
+                        "Female": 63.82,
+                        "Total": 111.34
+                    }
+                },
+                "SingaporeHQ": {
+                    "FY21": {
+                        "Male": 2.85,
+                        "Female": 5.07,
+                        "Total": 7.92
+                    },
+                    "FY22": {
+                        "Male": 9.8,
+                        "Female": 10.0,
+                        "Total": 19.8
+                    }
+                }
+            }
+        }
+    },
+    {
+        "page_56.png": {
+            "AverageTrainingHoursByGender": {
+                "ExecutiveLeadershipTeam": {
+                    "Male": 13.6,
+                    "Female": 22.7
+                },
+                "ProfessionalsManagers": {
+                    "Male": 15.6,
+                    "Female": 18.1
+                },
+                "TechnicalProductionAdministrative": {
+                    "Male": 31.2,
+                    "Female": 36.2
+                },
+                "Total": {
+                    "Male": 60.4,
+                    "Female": 77.0
+                }
+            },
+            "LookingForward": {
+                "NewLearningModules2023": 2,
+                "FrameworkForDevelopment": {
+                    "WorkExperience": 70,
+                    "Exposure": 20,
+                    "Education": 10
+                }
+            }
+        }
+    },
+    {
+        "page_57.png": {}
+    },
+    {
+        "page_58.png": {
+            "AwarenessMonths": [
+                "March",
+                "April",
+                "November"
+            ],
+            "YearForDITrainingIntroduction": 2022
+        }
+    },
+    {
+        "page_59.png": {
+            "Year": 2022,
+            "Celebrations": [
+                "Chinese New Year",
+                "Valentine’s Day",
+                "Golden Week",
+                "Hari Raya",
+                "Eid",
+                "Cinco de Mayo",
+                "Mother’s Day",
+                "Deepavali",
+                "Dia de Los Muertos",
+                "Halloween",
+                "Mid-Autumn Festival",
+                "Thanksgiving",
+                "Christmas"
+            ]
+        }
+    },
+    {
+        "page_60.png": {
+            "GRI 2-7": {
+                "Number of employees by gender": {
+                    "2020": {
+                        "Male": 52,
+                        "Female": 48
+                    },
+                    "2021": {
+                        "Male": 54,
+                        "Female": 46
+                    },
+                    "2022": {
+                        "Male": 56,
+                        "Female": 44
+                    }
+                },
+                "Number of employees by region": {
+                    "Singapore": {
+                        "Permanent employees": 93,
+                        "Temporary employees": 40,
+                        "Full-time": 93,
+                        "Part-time": 40
+                    },
+                    "Malaysia": {
+                        "Permanent employees": 1763,
+                        "Temporary employees": 73,
+                        "Full-time": 1793,
+                        "Part-time": 73
+                    },
+                    "Philippines": {
+                        "Permanent employees": 1095,
+                        "Temporary employees": 179,
+                        "Full-time": 1095,
+                        "Part-time": 179
+                    },
+                    "Mexico": {
+                        "Permanent employees": 1863,
+                        "Temporary employees": 36,
+                        "Full-time": 1863,
+                        "Part-time": 36
+                    }
+                }
+            },
+            "Looking forward goals": {
+                "Aspirational goal": {
+                    "2025": 34,
+                    "2030": 37
+                },
+                "Current percentage of female leaders": 32
+            }
+        }
+    },
+    {
+        "page_61.png": {
+            "total_teams_participated": 60,
+            "selected_teams": 10,
+            "SDG_focus": 13
+        }
+    },
+    {
+        "page_62.png": {
+            "children_received_gifts": 25,
+            "vouchers_sponsored": {
+                "quantity": 25,
+                "value_each": 80,
+                "currency": "SGD"
+            },
+            "university_malaysia_pahang_visitors": 33,
+            "vocational_college_batu_pahat_visitors": 34
+        }
+    },
+    {
+        "page_63.png": {
+            "contributions": [
+                {
+                    "amount": 30000,
+                    "currency": "MYR",
+                    "purpose": "support cancer patients during the 'Relay for Life' event",
+                    "date": "December 2022"
+                }
+            ],
+            "donations": [
+                {
+                    "amount": 5000,
+                    "currency": "MYR",
+                    "purpose": "hampers for the 'Rembia Family Day' event"
+                }
+            ]
+        }
+    },
+    {
+        "page_64.png": {
+            "total_volunteering_hours_2022": 501.3,
+            "percentage_operations_with_community_engagement": 100,
+            "operations_with_negative_impacts_on_communities": 0,
+            "long_term_target_volunteering_days": {
+                "2025": 5000,
+                "2030": 7500
+            }
+        }
+    },
+    {
+        "page_65.png": {
+            "total_number_of_employees": {
+                "2020": 4609,
+                "2021": 4111,
+                "2022": 5564
+            },
+            "gender_split": {
+                "male": {
+                    "2020": 52,
+                    "2021": 54,
+                    "2022": 56
+                },
+                "female": {
+                    "2020": 48,
+                    "2021": 46,
+                    "2022": 44
+                }
+            },
+            "board_diversity": {
+                "male": {
+                    "2020": 90,
+                    "2021": 90,
+                    "2022": 90
+                },
+                "female": {
+                    "2020": 10,
+                    "2021": 10,
+                    "2022": 10
+                },
+                "executive": {
+                    "2020": 10,
+                    "2021": 10,
+                    "2022": 10
+                },
+                "non_executive": {
+                    "2020": 90,
+                    "2021": 90,
+                    "2022": 90
+                },
+                "<30_years_old": {
+                    "2020": 0,
+                    "2021": 0,
+                    "2022": 0
+                },
+                "30-50_years_old": {
+                    "2020": 30,
+                    "2021": 30,
+                    "2022": 40
+                },
+                ">50_years_old": {
+                    "2020": 70,
+                    "2021": 70,
+                    "2022": 60
+                }
+            },
+            "executive_leadership_team": {
+                "male": {
+                    "2020": 67,
+                    "2021": 75,
+                    "2022": 75
+                },
+                "female": {
+                    "2020": 33,
+                    "2021": 25,
+                    "2022": 25
+                },
+                "<30_years_old": {
+                    "2020": 0,
+                    "2021": 0,
+                    "2022": 0
+                },
+                "30-50_years_old": {
+                    "2020": 33,
+                    "2021": 50,
+                    "2022": 75
+                },
+                ">50_years_old": {
+                    "2020": 67,
+                    "2021": 50,
+                    "2022": 25
+                }
+            }
+        }
+    },
+    {
+        "page_66.png": {
+            "Professionals/Managers": {
+                "Male": {
+                    "2020": 63,
+                    "2021": 66,
+                    "2022": 60
+                },
+                "Female": {
+                    "2020": 37,
+                    "2021": 34,
+                    "2022": 40
+                },
+                "<30 years old": {
+                    "2020": 1,
+                    "2021": 2,
+                    "2022": 14
+                },
+                "30-50 years old": {
+                    "2020": 80,
+                    "2021": 79,
+                    "2022": 75
+                },
+                ">50 years old": {
+                    "2020": 19,
+                    "2021": 19,
+                    "2022": 11
+                }
+            },
+            "Technical, Production and Administrative": {
+                "Male": {
+                    "2020": 49,
+                    "2021": 53,
+                    "2022": 54
+                },
+                "Female": {
+                    "2020": 51,
+                    "2021": 47,
+                    "2022": 46
+                },
+                "<30 years old": {
+                    "2020": 38,
+                    "2021": 34,
+                    "2022": 40
+                },
+                "30-50 years old": {
+                    "2020": 58,
+                    "2021": 62,
+                    "2022": 56
+                },
+                ">50 years old": {
+                    "2020": 4,
+                    "2021": 4,
+                    "2022": 4
+                }
+            }
+        }
+    },
+    {
+        "page_67.png": {
+            "work_related_injuries": {
+                "fatalities": {
+                    "2020": 0,
+                    "2021": 0,
+                    "2022": 0
+                },
+                "high_consequence_injuries": {
+                    "2020": 0,
+                    "2021": 0,
+                    "2022": 0
+                },
+                "recordable_injuries": {
+                    "2020": 8,
+                    "2021": 11,
+                    "2022": 15
+                },
+                "recordable_ill_health": {
+                    "2020": 0,
+                    "2021": 0,
+                    "2022": 2
+                }
+            },
+            "hours_worked": {
+                "2020": 12762667,
+                "2021": 13570277,
+                "2022": 11830970
+            },
+            "injury_rates": {
+                "fatalities": {
+                    "2020": 0,
+                    "2021": 0,
+                    "2022": 0
+                },
+                "high_consequence_injuries": {
+                    "2020": 0,
+                    "2021": 0,
+                    "2022": 0
+                },
+                "recordable_injuries": {
+                    "2020": 0.63,
+                    "2021": 0.81,
+                    "2022": 1.14
+                }
+            },
+            "calculation_basis": {
+                "2020": 1000000,
+                "2021": 1000000,
+                "2022": 1000000
+            },
+            "OHS_management_system_coverage": {
+                "employees_covered": {
+                    "2020": 4609,
+                    "2021": 4111,
+                    "2022": 5564
+                },
+                "audited_or_certified": {
+                    "2020": 4609,
+                    "2021": 4111,
+                    "2022": 5564
+                }
+            },
+            "incident_by_injured_part": {
+                "hand": {
+                    "2021": 37,
+                    "2022": 63
+                },
+                "torso": {
+                    "2021": 18,
+                    "2022": 0
+                },
+                "eye": {
+                    "2021": 18,
+                    "2022": 6
+                },
+                "leg": {
+                    "2021": 27,
+                    "2022": 19
+                },
+                "head": {
+                    "2021": 0,
+                    "2022": 6
+                },
+                "groin": {
+                    "2021": 0,
+                    "2022": 6
+                }
+            }
+        }
+    },
+    {
+        "page_68.png": {
+            "incident_analysis_by_injury_type": {
+                "caught_in_between": {
+                    "2021": 9,
+                    "2022": 25
+                },
+                "fall_from_height": {
+                    "2021": 9,
+                    "2022": 0
+                },
+                "hit_against": {
+                    "2021": 27,
+                    "2022": 25
+                },
+                "slip_trip_fall": {
+                    "2021": 28,
+                    "2022": 6
+                },
+                "chemical_contact": {
+                    "2021": 27,
+                    "2022": 13
+                },
+                "ergonomics": {
+                    "2021": 0,
+                    "2022": 12
+                },
+                "laceration": {
+                    "2021": 0,
+                    "2022": 19
+                }
+            },
+            "work_related_injuries_for_non_employees": {
+                "fatalities": {
+                    "2020": 0,
+                    "2021": 0,
+                    "2022": 0
+                },
+                "high_consequence_injuries": {
+                    "2020": 0,
+                    "2021": 0,
+                    "2022": 0
+                },
+                "recordable_injuries": {
+                    "2020": 3,
+                    "2021": 4,
+                    "2022": 1
+                },
+                "recordable_ill_health": {
+                    "2020": 0,
+                    "2021": 0,
+                    "2022": 0
+                },
+                "hours_worked": {
+                    "2021": 2750970.5,
+                    "2022": 2213620
+                },
+                "rate_of_fatalities": {
+                    "2020": 0,
+                    "2021": 0,
+                    "2022": 0
+                },
+                "rate_of_high_consequence_injuries": {
+                    "2020": 0,
+                    "2021": 0,
+                    "2022": 0
+                },
+                "rate_of_recordable_injuries": {
+                    "2020": 0,
+                    "2021": 0,
+                    "2022": 0.45
+                },
+                "calculation_basis_hours": {
+                    "2020": 1000000,
+                    "2021": 1000000,
+                    "2022": 1000000
+                },
+                "employees_covered_by_OHS": {
+                    "2020": 100,
+                    "2021": 100,
+                    "2022": 100
+                },
+                "employees_covered_by_OHS_certified": {
+                    "2020": 100,
+                    "2021": 100,
+                    "2022": 100
+                },
+                "reasons_for_exclusion_from_OHS": {
+                    "2020": "NIL",
+                    "2021": "NIL",
+                    "2022": "NIL"
+                }
+            }
+        }
+    },
+    {
+        "page_70.png": {
+            "number": 70,
+            "location": "bottom left corner"
+        }
+    },
+    {
+        "page_71.png": {
+            "first_collaborative_research_project_year": 2021,
+            "second_collaboration_year": 2022,
+            "warranty_years": 40,
+            "donated_PV_modules": 220,
+            "capacity_kWp": 85
+        }
+    },
+    {
+        "page_72.png": {
+            "Board": {
+                "total_directors": 10,
+                "shareholder_appointed_directors": 6,
+                "independent_directors": 3,
+                "chief_executive_officer": 1
+            },
+            "Audit_Committee": {
+                "independent_directors": "entirely"
+            }
+        }
+    },
+    {
+        "page_73.png": {
+            "AnnualReportPages": [
+                71,
+                72
+            ],
+            "ExhibitReference": 11.1,
+            "Website": "https://www.maxeon.com"
+        }
+    },
+    {
+        "page_74.png": {
+            "GRI_2-9_Governance_structure_and_composition": {
+                "Independent_directors": 3,
+                "Independent_directors_percentage": 30,
+                "Non_independent_directors": 7,
+                "Non_independent_directors_percentage": 70,
+                "Under_represented_individuals": 0,
+                "Under_represented_individuals_percentage": 0,
+                "Significant_positions_and_commitments": 10,
+                "Significant_positions_and_commitments_percentage": 100,
+                "LGBTQ_plus": 0,
+                "LGBTQ_plus_percentage": 0
+            },
+            "Gender_Distribution": {
+                "Male": 9,
+                "Male_percentage": 90,
+                "Female": 1,
+                "Female_percentage": 10,
+                "Total": 10,
+                "Total_percentage": 100
+            },
+            "Directors_tenure_of_service": {
+                "More_than_9_years": 0,
+                "Less_than_9_years": 10,
+                "Less_than_9_years_male": 9,
+                "Less_than_9_years_female": 1
+            },
+            "GRI_2-16_Communicating_critical_concerns": {
+                "Total_critical_concerns": 0
+            }
+        }
+    },
+    {
+        "page_75.png": {}
+    },
+    {
+        "page_76.png": {
+            "GRI 205-3": {
+                "Confirmed incidents of corruption and actions taken": {
+                    "2020": 0,
+                    "2021": 0,
+                    "2022": 0
+                }
+            },
+            "Operations assessed for risks related to corruption": {
+                "2020": "100%",
+                "2021": "100%",
+                "2022": "100%"
+            },
+            "Confirmed incidents in which employees were dismissed or disciplined for corruption": {
+                "2020": 0,
+                "2021": 0,
+                "2022": 0
+            },
+            "Confirmed cases of bribery and actions taken": {
+                "2020": 0,
+                "2021": 0,
+                "2022": 0
+            },
+            "Confirmed incidents when contracts with business partners were terminated or not renewed due to violations related to corruption": {
+                "2020": 0,
+                "2021": 0,
+                "2022": 0
+            },
+            "Number of public legal cases regarding corruption brought against the organization or its employees during the reporting period": {
+                "2020": 0,
+                "2021": 0,
+                "2022": 0
+            },
+            "GRI 2-27": {
+                "Compliance with laws and regulations": {
+                    "Total number of significant instances of non-compliance with laws and regulations": 0,
+                    "Number of instances in which fines were incurred": 0,
+                    "Number of instances in which non-monetary sanctions were incurred": 0,
+                    "Total number of monetary value of fines for instances of non-compliance with laws and regulations that were paid": 0,
+                    "Fines for non-compliance with laws and regulations that occurred in current period": 0,
+                    "Total fines for non-compliance with laws and regulations that occurred": 0
+                }
+            },
+            "GRI 205-1": {
+                "Operations assessed for risk related to corruption": {
+                    "Total number of operations": 14,
+                    "Total operations assessed for risks relating to corruption": 14,
+                    "Percentage of operations assessed for risks relating to corruption": "100%"
+                }
+            }
+        }
+    },
+    {
+        "page_77.png": {
+            "GRI 205-2": {
+                "Total number of employees in each employee category": {
+                    "Executive leadership": 7,
+                    "Professional/manager": 476,
+                    "Technical, production and administrative": 4570
+                },
+                "Total number that the organisation’s anti-corruption policies and procedures have been communicated to": {
+                    "Executive leadership": 7,
+                    "Professional/manager": "100%",
+                    "Technical, production and administrative": "100%"
+                },
+                "Total percentage of employees that the organisation’s anti-corruption policies and procedures have been communicated to": {
+                    "Executive leadership": "100%",
+                    "Professional/manager": "100%",
+                    "Technical, production and administrative": "100%"
+                },
+                "Total number of employees that received training and anti-corruption": {
+                    "Executive leadership": 7,
+                    "Professional/manager": 476,
+                    "Technical, production and administrative": 4570
+                },
+                "Total percentage of employees that received training and anti-corruption": {
+                    "Executive leadership": "100%",
+                    "Professional/manager": "100%",
+                    "Technical, production and administrative": "100%"
+                },
+                "Total number of business partners": 5682,
+                "Total number of business partners that the organisation anti-corruption policies and procedures have been communicated to": 5682,
+                "Total percentage of business partners that the organisation anti-corruption policies and procedures have been communicated to": "100%"
+            },
+            "GRI 206-1": {
+                "Number of legal actions pending or completed": 0
+            },
+            "GRI 414-1 & 414-2": {
+                "Percentage of new suppliers screened using a social criteria": "100%",
+                "Number of suppliers identified to have significant actual/potential negative social impact": 0,
+                "Significant actual/potential negative social impacts identified in the supply chain": 0,
+                "Percentage of suppliers with significant actual/potential negative social impacts, with which improvements were agreed": "NIL",
+                "Percentage of suppliers with significant actual/potential negative social impacts, with which relations were terminated": "NIL"
+            },
+            "GRI 308-1 & 308-2": {
+                "Percentage of new suppliers screened using environmental criteria": "100%",
+                "Number of suppliers identified to have significant actual/potential negative environmental impact": 0,
+                "Significant actual/potential negative environmental impacts": 0,
+                "Percentage of suppliers with significant actual/potential negative environmental impacts, with which improvements were agreed": "NA",
+                "Percentage of suppliers with significant actual/potential negative environmental impacts, with which relations were terminated": "NA"
+            }
+        }
+    },
+    {
+        "page_78.png": {
+            "page_number": 78,
+            "copyright_year": 2023
+        }
+    },
+    {
+        "page_79.png": {
+            "ISO_Standards": [
+                {
+                    "Standard": "ISO 9001",
+                    "Year": 2015,
+                    "Description": "Quality Management Systems"
+                },
+                {
+                    "Standard": "ISO 45001",
+                    "Year": 2018,
+                    "Description": "Occupational Safety and Health Management System"
+                },
+                {
+                    "Standard": "ISO 14001",
+                    "Year": 2015,
+                    "Description": "Environmental Management System"
+                }
+            ],
+            "Page": 79
+        }
+    },
+    {
+        "page_80.png": {
+            "ReliabilityTestingLab": {
+                "Location": "Fab 3, Malaysia"
+            },
+            "Warranties": [
+                {
+                    "Duration": 40,
+                    "Unit": "year"
+                },
+                {
+                    "Duration": 25,
+                    "Unit": "year"
+                }
+            ],
+            "Awards": [
+                {
+                    "Name": "Philippine Quality Award",
+                    "DateObtained": "January 2011"
+                }
+            ],
+            "DPPM": {
+                "2022": 407,
+                "2020": 2000,
+                "ReductionTargets": [
+                    {
+                        "Percentage": 30,
+                        "Year": 2025
+                    },
+                    {
+                        "Percentage": 50,
+                        "Year": 2030
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "page_81.png": {
+            "partnership_date": "October 2022",
+            "product_availability": "Q1 2023"
+        }
+    },
+    {
+        "page_82.png": {
+            "warranty_coverage": {
+                "unmatched_coverage_years": 40,
+                "current_coverage_years": 12,
+                "performance_warranty_years": 25,
+                "new_warranty_coverage_years": 40
+            },
+            "new_warranty_effective_year": 2022,
+            "efficiency_targets": {
+                "2025": 24,
+                "2030": 25
+            }
+        }
+    },
+    {
+        "page_83.png": {
+            "Page number": 83,
+            "Year": 2023
+        }
+    },
+    {
+        "page_84.png": {
+            "warranty_years": 40,
+            "ibc_panels_studied": 33000000,
+            "minimum_output_first_year": 98,
+            "maximum_annual_degradation": 0.25,
+            "warranted_power_end_40_years": 88.3,
+            "higher_than_standard_after_25_years": 9.5,
+            "nps_scale": {
+                "min": 1,
+                "max": 10
+            },
+            "nps_score_excellent_threshold": 50
+        }
+    },
+    {
+        "page_85.png": {
+            "NPS_customer_health_score_2022": 56,
+            "NPS_customer_health_score_2021": 57,
+            "NPS_customer_health_score_2020": 54,
+            "NPS_partner_score_2022": 66,
+            "Target_NPS_score_2025": 62,
+            "Target_NPS_score_2030": 70
+        }
+    },
+    {
+        "page_86.png": {}
+    },
+    {
+        "page_87.png": {
+            "data_points": [
+                1,
+                2,
+                5,
+                6,
+                9,
+                10,
+                11,
+                12,
+                13,
+                15
+            ],
+            "references": {
+                "Form": "20-F",
+                "SEC_website": "www.sec.gov",
+                "Investor_Relations_website": "https://corp.maxeon.com/investor-relations"
+            }
+        }
+    },
+    {
+        "page_88.png": {
+            "Sustainability Report": 2022,
+            "Copyright Year": 2023
+        }
+    }
+]

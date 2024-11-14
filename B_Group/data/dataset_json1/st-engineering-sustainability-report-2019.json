@@ -1,0 +1,640 @@
+[
+    {
+        "page_1.png": {
+            "UN_SDG_8": {
+                "number": 8,
+                "name": "Decent Work and Economic Growth"
+            },
+            "UN_SDG_9": {
+                "number": 9,
+                "name": "Industry, Innovation, and Infrastructure"
+            },
+            "UN_SDG_11": {
+                "number": 11,
+                "name": "Sustainable Cities and Communities"
+            },
+            "UN_SDG_12": {
+                "number": 12,
+                "name": "Responsible Consumption and Production"
+            },
+            "UN_SDG_13": {
+                "number": 13,
+                "name": "Climate Action"
+            },
+            "UN_SDG_16": {
+                "number": 16,
+                "name": "Peace, Justice, and Strong Institutions"
+            }
+        }
+    },
+    {
+        "page_2.png": {
+            "Environmental": [
+                {
+                    "id": 1,
+                    "name": "Environmental Protection"
+                },
+                {
+                    "id": 2,
+                    "name": "Productivity"
+                },
+                {
+                    "id": 3,
+                    "name": "Green Products & Services"
+                }
+            ],
+            "Social": [
+                {
+                    "id": 4,
+                    "name": "Economic Performance"
+                },
+                {
+                    "id": 5,
+                    "name": "Quality Products & Services"
+                },
+                {
+                    "id": 6,
+                    "name": "People Excellence"
+                },
+                {
+                    "id": 7,
+                    "name": "Total Workplace Safety & Health"
+                },
+                {
+                    "id": 8,
+                    "name": "Responsible Procurement"
+                },
+                {
+                    "id": 9,
+                    "name": "Corporate Community Contributions"
+                }
+            ],
+            "Governance": [
+                {
+                    "id": 10,
+                    "name": "Ethical Business & Regulatory Compliance"
+                }
+            ]
+        }
+    },
+    {
+        "page_3.png": {
+            "Environmental Protection": {
+                "ISO_14001": "Environmental Management Systems"
+            },
+            "Quality Products & Services": {
+                "ISO_9001": "Quality Management Systems"
+            }
+        }
+    },
+    {
+        "page_4.png": {
+            "People Excellence": {
+                "Section": 6
+            },
+            "Total Workplace Safety & Health": {
+                "Section": 7,
+                "Certification": "OHSAS 18001"
+            },
+            "Responsible Procurement": {
+                "Section": 8
+            },
+            "Corporate Community Contributions": {
+                "Section": 9
+            },
+            "Ethical Business & Regulatory Compliance": {
+                "Section": 10
+            }
+        }
+    },
+    {
+        "page_5.png": {
+            "Green Energy": {
+                "CarsTakenOffRoadPerYear": 890,
+                "SolarRoofs": 17
+            },
+            "Paper Usage": {
+                "PineTreesSaved": 600,
+                "BaseYear": 2015
+            },
+            "GHG Emissions": {
+                "ReductionPercentage": 39,
+                "BaseYear": 2010
+            },
+            "Productivity Savings": {
+                "Amount": 23.2,
+                "Currency": "million dollars"
+            },
+            "Training & Development": {
+                "AverageTrainingHoursPerEmployee": 28,
+                "Regions": [
+                    "Singapore",
+                    "North America"
+                ]
+            },
+            "Suppliers": {
+                "NewSuppliersEngaged": 100,
+                "EngagementType": "Vendor Code of Conduct"
+            },
+            "Safety Culture": {
+                "Activities": 151
+            },
+            "Corporate Community Contributions": {
+                "TotalContributions": 3.8,
+                "Currency": "million dollars",
+                "Regions": [
+                    "Singapore",
+                    "North America"
+                ]
+            },
+            "Volunteerism": {
+                "VolunteerManhours": 9833,
+                "Regions": [
+                    "Singapore",
+                    "North America"
+                ]
+            }
+        }
+    },
+    {
+        "page_6.png": {
+            "GreenhouseGasEmissionReduction": {
+                "achievedReduction": 39,
+                "targetReduction": 36,
+                "baseYear": 2010,
+                "targetYear": 2030
+            },
+            "SolarEnergy": {
+                "totalSystemCapacityGWh": 11.15,
+                "solarRoofsInstalled": 20,
+                "equivalentTreesPlanted": 210000,
+                "carbonOffsetTonnes": 4500
+            },
+            "EnergyConsumptionAndGHGEmissions": {
+                "reductionTargetPercentage": 15,
+                "baseYear": 2015
+            },
+            "WaterUsage": {
+                "achievedReductionPercentage": 14,
+                "targetReductionPercentage": 15,
+                "baseYear": 2015,
+                "targetYear": 2025
+            },
+            "GreeningOurEnvironment": {
+                "hibiscusBushesPlanted": 300,
+                "totalTreesAndShrubsPlanted": 24002,
+                "startYear": 2008
+            }
+        }
+    },
+    {
+        "page_7.png": {
+            "Energy_Consumption_and_Intensity": {
+                "2017": {
+                    "SGP": 170,
+                    "US": 139,
+                    "SGP_Intensity": 0.46,
+                    "US_Intensity": 0.24
+                },
+                "2018": {
+                    "SGP": 149,
+                    "US": 161,
+                    "SGP_Intensity": 0.42,
+                    "US_Intensity": 0.19
+                },
+                "2019": {
+                    "SGP": 165,
+                    "US": 190,
+                    "SGP_Intensity": 0.4,
+                    "US_Intensity": 0.27
+                }
+            },
+            "GHG_Emissions_and_Intensity": {
+                "2017": {
+                    "SGP": 86.7,
+                    "US": 47.8,
+                    "SGP_Intensity": 31.4,
+                    "US_Intensity": 8.9
+                },
+                "2018": {
+                    "SGP": 80.9,
+                    "US": 46.0,
+                    "SGP_Intensity": 30.4,
+                    "US_Intensity": 8.7
+                },
+                "2019": {
+                    "SGP": 87.0,
+                    "US": 27.2,
+                    "SGP_Intensity": 44.1,
+                    "US_Intensity": 24.6
+                }
+            },
+            "Water_Consumption_and_Intensity_SGP": {
+                "2017": {
+                    "Consumption": 671,
+                    "Intensity": 0.17
+                },
+                "2018": {
+                    "Consumption": 660,
+                    "Intensity": 0.16
+                },
+                "2019": {
+                    "Consumption": 685,
+                    "Intensity": 0.16
+                }
+            }
+        }
+    },
+    {
+        "page_8.png": {
+            "2019": {
+                "value_added_per_employment_cost": 1.52,
+                "value_added_per_employment_cost_2018": 1.46,
+                "realized_productivity_savings": 23.2,
+                "savings_from_central_procurement": 26.4,
+                "manhours_saved_erp_automation": 2000,
+                "manhours_saved_financial_reconciliation_automation": 4000,
+                "employees_trained": 4000,
+                "kaizen_project_cycle_time_reduction_percentage": 50
+            }
+        }
+    },
+    {
+        "page_9.png": {
+            "Street Lights": {
+                "Experience": 22,
+                "Cost Reduction": 20,
+                "Contracts": 61000
+            },
+            "Projects and Cities": {
+                "Projects": 700,
+                "Cities": 130
+            },
+            "Shipping": {
+                "Sulphur Cap": 0.5,
+                "Shipyard Delivery Year": 2018,
+                "LNG-powered Ships": 2,
+                "Boat of the Year": 2019
+            }
+        }
+    },
+    {
+        "page_10.png": {
+            "Engine_Washes": {
+                "Year": 2019,
+                "Number_of_Washes": 10387,
+                "Number_of_Customers": 90
+            },
+            "Electric_Buses": {
+                "Year": 2020,
+                "Number_of_Buses_Planned": 20,
+                "Location": "Singapore"
+            },
+            "Temperature_Drop": {
+                "Temperature_Drop": 20,
+                "Initial_Temperature": 43,
+                "Location": "Western Australia"
+            },
+            "Countries_with_Airbitat_City_Coolers": {
+                "Year": 2019,
+                "Countries": [
+                    "Bangladesh",
+                    "India",
+                    "Japan",
+                    "Malaysia",
+                    "UAE",
+                    "U.S."
+                ]
+            }
+        }
+    },
+    {
+        "page_11.png": {
+            "2019": {
+                "economic_contributions": 7400000000,
+                "employees_attended_courses": 2500,
+                "bought_in_material_and_services": 4460000000,
+                "employee_wages_salaries_benefits": 2291000000,
+                "dividends_and_interest_paid": 513000000,
+                "government_taxes_and_levies": 124000000
+            }
+        }
+    },
+    {
+        "page_12.png": {
+            "certifications": {
+                "ISO": 9001,
+                "Safety Integrity Level": 3
+            },
+            "events": [
+                {
+                    "year": 2019,
+                    "description": "Launch of the world's first Variable Pitch PSD (VP-PSD)"
+                },
+                {
+                    "year": 2019,
+                    "description": "Streamlined and standardized SOP and Policy document numbering system and format"
+                },
+                {
+                    "year": 2020,
+                    "description": "Continue efforts to improve customer satisfaction"
+                },
+                {
+                    "year": 2020,
+                    "description": "Continue to share best practices and implement continuous improvement initiatives"
+                }
+            ],
+            "attendance": {
+                "Safety Critical Systems Development Course": 57
+            },
+            "seminars": {
+                "MINDEF System Safety Seminar": 10
+            }
+        }
+    },
+    {
+        "page_13.png": {
+            "Women@ST Engineering": {
+                "launch_year": 2019
+            },
+            "Share Plans": {
+                "review_year": 2020
+            },
+            "What We Did in 2019": {
+                "Global Leaders Development Programme": {
+                    "launch_year": 2019
+                },
+                "Digitalised Learning": {
+                    "launch_year": 2019
+                }
+            },
+            "What We Will Do in 2020": {
+                "expand_global_footprint": true,
+                "position_employees_for_future": true
+            }
+        }
+    },
+    {
+        "page_14.png": {
+            "EmployeesByGeography": {
+                "Singapore": 67,
+                "NorthAmerica": 20,
+                "Europe": 9,
+                "Others": 4
+            },
+            "EmployeesBySectors": {
+                "Aerospace": 39,
+                "Electronics": 30,
+                "LandSystems": 21,
+                "Marine": 6,
+                "GroupCorporate": 4
+            },
+            "EmployeesByQualification": {
+                "DegreeOrEquivalent": 38,
+                "TradeCertificates": 20,
+                "'OOrALevelsOrEquivalent": 20,
+                "DiplomaOrEquivalent": 19,
+                "BelowOLevelsOrEquivalent": 3
+            },
+            "EmployeesByAge": {
+                "Below30": 16,
+                "30To40": 26,
+                "40To50": 26,
+                "50To60": 23,
+                "Above60": 9
+            },
+            "WorkforceProfile": {
+                "Male": 80,
+                "Female": 20
+            },
+            "AverageTrainingHoursPerEmployee": 28.3,
+            "TurnoverRate": 12.9,
+            "SupervisedWorkers": {
+                "Male": 88,
+                "Female": 12,
+                "AverageTrainingHours": {
+                    "Male": 30.1,
+                    "Female": 21.5
+                },
+                "TurnoverRate": {
+                    "Male": 13.3,
+                    "Female": 11.5
+                }
+            },
+            "AverageStaffStrength": 22494
+        }
+    },
+    {
+        "page_15.png": {
+            "torsion_bushes": 24,
+            "productivity_improvement_factor": 8,
+            "seminar_attendees": 130,
+            "carer_support_teams_since": "June 2017",
+            "trained_employees_in_singapore": 24
+        }
+    },
+    {
+        "page_16.png": {
+            "AccidentFrequencyRate": {
+                "2017": {
+                    "SingaporeOperations": 0.8
+                },
+                "2018": {
+                    "SingaporeNationalAverage": 0.4
+                },
+                "2019": {
+                    "GlobalOperations": 0.7
+                }
+            },
+            "AccidentSeverityRate": {
+                "2017": {
+                    "SingaporeOperations": 19.3
+                },
+                "2018": {
+                    "SingaporeNationalAverage": 11.6
+                },
+                "2019": {
+                    "GlobalOperations": 14.7
+                }
+            },
+            "AccidentCauses": {
+                "HitOrCaughtBetweenObjects": 38,
+                "FallsFromHeight": 15,
+                "SlipsTripsAndFalls": 15,
+                "Cuts": 10,
+                "Others": 22
+            },
+            "OccupationalHealthPerformanceIndicators": {
+                "WorkplaceSafetyAndHealthActivitiesOrganized": 151,
+                "AtRiskStaffRespiratoryProtectionTraining": 100,
+                "AtRiskStaffAudiometricExamination": 100,
+                "NewAdvancedNoiseInducedDeafnessCases": 0,
+                "NewOccupationalDiseaseCasesExcludingNoiseInducedDeafness": 0
+            }
+        }
+    },
+    {
+        "page_17.png": {
+            "TotalPurchaseValue": {
+                "SingaporeOperations": 3.5,
+                "GlobalOperations": 4.5
+            },
+            "DistributionOfPurchasesByBusinessSectors": {
+                "Aerospace": 37,
+                "Electronics": 33,
+                "LandSystems": 20,
+                "Marine": 8,
+                "GroupCorporate": 2
+            },
+            "DistributionOfPurchasesByGeographicalLocations": {
+                "Singapore": 60,
+                "Europe": 14,
+                "NorthAmerica": 13,
+                "Others": 13
+            }
+        }
+    },
+    {
+        "page_18.png": {
+            "paper_printing_reduction": {
+                "percentage": 9,
+                "from": 63.9,
+                "to": 57.7,
+                "year_start": 2015,
+                "year_end": 2019
+            },
+            "e_payment_paper_reduction": {
+                "sheets": 1000000,
+                "year": 2019
+            },
+            "equivalent_pine_trees": 100,
+            "purchase_value": {
+                "percentage": 24,
+                "total_value": 3.5,
+                "currency": "billion",
+                "location": "Singapore",
+                "year": 2019
+            },
+            "hunter_programme": {
+                "smes": 100,
+                "workforce": 2000,
+                "parts_per_vehicle": 1400
+            }
+        }
+    },
+    {
+        "page_19.png": {
+            "Community Contributions": {
+                "Unleveraged": 2.9,
+                "Leveraged": 0.9
+            },
+            "Charitable Gifts": {
+                "Donated to President’s Challenge since 2000": 7.7
+            },
+            "Our Contributions": {
+                "Cash": 76,
+                "Employees’ time": 16,
+                "Management’s time": 8
+            },
+            "Issues Addressed": {
+                "Economic development": 33,
+                "Education": 28,
+                "Social causes": 25,
+                "Health": 7,
+                "Environment": 7
+            },
+            "Participation Rate": {
+                "Singapore employees in SHARE programme": 76
+            }
+        }
+    },
+    {
+        "page_20.png": {
+            "meals_delivered": 2455,
+            "project_silver_screen_beneficiaries": {
+                "citizens_above_60": 45000,
+                "since_year": 2018
+            },
+            "st_engineering_contributions": {
+                "project_silver_screen": {
+                    "amount": 1000000,
+                    "duration_years": 5,
+                    "starting_year": 2018
+                },
+                "presidents_challenge_2019": 250000,
+                "presidents_challenge_since_2000": 7700000,
+                "share_programme_2018_2019": 640000,
+                "gardens_by_the_bay_sponsorship": {
+                    "amount": 1600000,
+                    "starting_year": 2012
+                }
+            },
+            "gardens_by_the_bay_visitors": 18000000
+        }
+    },
+    {
+        "page_21.png": {
+            "visitors_to_ST_Engineering_Enabling_Technology_Centre_since_2015": ">24000",
+            "internship_positions_for_tertiary_students": ">1100",
+            "internship_positions_for_technical_and_engineering_students_in_2019": 1136,
+            "grants_to_NTUC_Education_and_Training_Fund_for_second_year": 250000,
+            "four_year_commitment_to_NTUC_Education_and_Training_Fund": 1000000,
+            "NTUC_members_benefited_since_2018": 45000,
+            "students_welcomed_as_interns_at_Assumption_Pathway_School": 140,
+            "graduate_students_and_interns_benefited_from_projects_at_NTU_and_SUTD_since_2015_and_2016": 46
+        }
+    },
+    {
+        "page_22.png": {
+            "launch_date": "October 2015",
+            "visitors": 24255,
+            "clients_assessed": 1175,
+            "training_courses_organized": 2360,
+            "hackathon_teams": 20
+        }
+    },
+    {
+        "page_23.png": {
+            "Anti-Bribery and Corruption Training": {
+                "2017": {
+                    "Number of employees trained": 3531,
+                    "Percentage of employees trained": 23
+                },
+                "2018": {
+                    "Number of employees trained": 7683,
+                    "Percentage of employees trained": 52
+                },
+                "2019": {
+                    "Number of employees trained": 7794,
+                    "Percentage of employees trained": 52,
+                    "Total number of employees trained": 9108,
+                    "Percentage of employees trained (total)": 43
+                }
+            }
+        }
+    },
+    {
+        "page_24.png": {
+            "1st_Line_of_Defence": {
+                "Management_of_operational_risk": "including regulatory compliance",
+                "In-line_Controls": "Business Operations & Support Functions Executive Managers"
+            },
+            "2nd_Line_of_Defence": {
+                "Effectiveness_of_governance": "risk & compliance / control framework",
+                "Risk_&_Assurance": "Group & sector Management"
+            },
+            "3rd_Line_of_Defence": {
+                "Independent_assessment_of_governance": "risk & compliance / control culture",
+                "Internal_Audit_External_Audits": "Audit Committee"
+            },
+            "What_We_Did_in_2019": {
+                "Reviewed_key_compliance_policies": "and procedures and implemented supporting e-initiatives",
+                "Set_up_R&A_function": "to oversee and harmonise efforts in governance, risk, compliance and assurance"
+            },
+            "What_We_Will_Do_in_2020": {
+                "Continue_to_review_and_enhance": "existing key compliance policies and procedures through the use of technology",
+                "Streamline_and_strengthen": "governance, risk, compliance and assurance processes"
+            }
+        }
+    }
+]

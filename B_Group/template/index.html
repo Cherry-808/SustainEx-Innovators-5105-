@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ESG Portfolio Optimization</title>
+</head>
+<body>
+    <h1>Personalized ESG Portfolio Optimization</h1>
+    <form method="post">
+        <label for="risk_tolerance">Risk Tolerance (0 - Low, 1 - High):</label>
+        <input type="range" id="risk_tolerance" name="risk_tolerance" min="0" max="1" step="0.01" value="0.5">
+        <br>
+        
+        <label for="esg_weight">ESG Weight (0 - No ESG, 1 - Full ESG):</label>
+        <input type="range" id="esg_weight" name="esg_weight" min="0" max="1" step="0.01" value="0.3">
+        <br>
+
+        <button type="submit">Generate Optimized Portfolio</button>
+    </form>
+
+    {% if portfolio %}
+        <h2>Optimized Portfolio Weights:</h2>
+        {{ portfolio|safe }}
+        
+        <h3>Portfolio Performance:</h3>
+        <p>Expected Return: {{ portfolio_return }}</p>
+        <p>Expected Risk (Standard Deviation): {{ portfolio_risk }}</p>
+        <p>ESG Score: {{ portfolio_esg }}</p>
+
+        <h3>Portfolio Weight Distribution:</h3>
+        <img src="data:image/png;base64,{{ plot_img }}" alt="Optimized Portfolio Weights">
+    {% endif %}
+</body>
+</html>

@@ -1,0 +1,2856 @@
+[
+    {
+        "page_1.png": {
+            "year": 2022
+        }
+    },
+    {
+        "page_2.png": {}
+    },
+    {
+        "page_3.png": {
+            "reporting_period": {
+                "start_date": "1 January 2022",
+                "end_date": "31 December 2022"
+            },
+            "last_sustainability_report_published": "June 2022",
+            "page_reference_for_environmental_metrics": 31,
+            "wind_project": {
+                "capacity": 47,
+                "name": "Nakasato Wind Project",
+                "location": "Aomori Prefecture, Japan"
+            }
+        }
+    },
+    {
+        "page_4.png": {
+            "year": 2022,
+            "projected_global_warming_increase": "1.5°C",
+            "commissioned_new_assets": {
+                "projects": 10,
+                "capacity_mw": 562
+            },
+            "largest_solar_pv_project_in_taiwan": 272,
+            "clean_energy_generated_twh": 3.7,
+            "energy_supply_capability_million_homes": 2.2,
+            "contracted_projects_gw": 1.2,
+            "potential_projects_in_development_pipeline_gw": 37,
+            "local_employment_opportunities_created": 5000,
+            "corporate_social_responsibility_activities": 191
+        }
+    },
+    {
+        "page_5.png": {
+            "Introduction": {
+                "About Vena Energy": 6,
+                "2022 Highlights": 7,
+                "Our Business": 8,
+                "Our Approach to Sustainability": 24
+            },
+            "Environment": {
+                "Climate Opportunity & Strategy": 28,
+                "Physical Climate Risk & Management": 29,
+                "Climate Action & Emissions": 31,
+                "Environmental and Social Impact Management": 35,
+                "Resource Management": 38
+            },
+            "Social": {
+                "Our People": 41,
+                "Occupational Health and Safety (OHS)": 50,
+                "Our Community": 55
+            },
+            "Governance": {
+                "Board of Directors": 61,
+                "Corporate Governance": 63,
+                "Governance Policies": 64
+            },
+            "Financials": {
+                "Financial Highlights": 68,
+                "Proportionate Financial Results": 69,
+                "Debt and Liquidity Position": 70
+            },
+            "Additional Information": {
+                "Independent Limited Assurance Report": 74,
+                "Employee Information": 78,
+                "ESG Indicators": 80,
+                "Contribution to the SDGs": 82,
+                "Commitment to UN Global Compact": 85,
+                "GRI mapping": 86,
+                "TCFD Content Index": 91,
+                "Legal Statements": 92
+            }
+        }
+    },
+    {
+        "page_6.png": {
+            "headquarters": "Singapore",
+            "employees": 827,
+            "offices": 77,
+            "regions": [
+                "Japan",
+                "North Asia",
+                "Australia",
+                "Southeast Asia",
+                "India"
+            ],
+            "business_verticals": 3
+        }
+    },
+    {
+        "page_7.png": {
+            "Portfolio": {
+                "Operational": {
+                    "MW": 2745,
+                    "Growth": 21,
+                    "2021_Additional_MW": 562
+                },
+                "OCC_Portfolio": {
+                    "MW": 5896,
+                    "Growth": 25,
+                    "2021_Additional_MW": 1190
+                },
+                "Development_Pipeline": {
+                    "GW": 36.6,
+                    "Offshore_Percentage": 52,
+                    "Onshore_Percentage": 32,
+                    "Storage_Percentage": 16
+                }
+            },
+            "Operations_Environmental_Impact": {
+                "Operational_Generation": {
+                    "TWh": 3.7,
+                    "Growth": 20,
+                    "2021_TWh": 3.1
+                },
+                "GHG_Emission_Reductions": {
+                    "Tonnes": 6913826
+                },
+                "Households_Powered": 5899388,
+                "Water_Saved": {
+                    "Megalitres": 8841
+                }
+            },
+            "Financial": {
+                "Revenue": {
+                    "Million": 469,
+                    "Growth": 22,
+                    "2021_Million": 385
+                },
+                "EBITDA": {
+                    "Million": 326,
+                    "Growth": 16,
+                    "2021_Million": 282
+                }
+            },
+            "Social_Impact": {
+                "Our_People": {
+                    "Count": 827,
+                    "Headcount_Growth": 20,
+                    "Female_Ratio_Growth": 2
+                },
+                "Jobs_Created": 5628,
+                "CSR_Activities": 191
+            }
+        }
+    },
+    {
+        "page_8.png": {
+            "E2_Solar_Project_Taiwan": 272,
+            "Global_Capacity_2022": 3.5,
+            "Target_2050": 30,
+            "Combined_Installed_Solar_PV_Onshore_Wind_Capacity": 230,
+            "Expected_Growth_2030": 610,
+            "Projects_Totaling_Capacity": 2.7,
+            "Projects_Count": 80,
+            "Capacity_Under_Construction": 836,
+            "Operational_Battery_Assets": 1,
+            "Hybrid_Battery_Assets_Under_Construction": 1,
+            "Onshore_Wind_Solar_PV_Projects_Contracted_2022": 1.2,
+            "Total_Contracted_Capacity": 2.3
+        }
+    },
+    {
+        "page_9.png": {
+            "offshore_wind_growth": {
+                "growth_factor": 10,
+                "target_year": 2035,
+                "projected_capacity_GW": 519,
+                "installed_capacity_GW_2021": 53
+            },
+            "asia_installations": {
+                "countries": [
+                    "Japan",
+                    "South Korea",
+                    "Taiwan"
+                ],
+                "forecasted_capacity_GW_2035": 40
+            },
+            "australia_projects": {
+                "announced_capacity_GW_2022": 46
+            },
+            "vena_energy_projects": {
+                "developing_capacity_GW": 19
+            }
+        }
+    },
+    {
+        "page_10.png": {
+            "global_capacity_lithium_ion_percentage": 90,
+            "energy_storage_additions_2022_growth_rate": 23,
+            "annual_additions_2030_GW": 68,
+            "annual_additions_2030_GWh": 278,
+            "times_expected_2022_GW_installations": 5.3,
+            "asia_pacific_storage_demand_percentage": 40,
+            "vena_energy_wandoan_south_BESS_commencement_year": 2022,
+            "combined_battery_solar_PV_project_MW": 159,
+            "combined_battery_solar_PV_project_commencement_year": 2023,
+            "storage_capacity_in_development_GW": 6,
+            "energy_storage_worldwide_deployments_2022_percentage": 50,
+            "projected_energy_storage_worldwide_deployments_2030_percentage": 66
+        }
+    },
+    {
+        "page_11.png": {
+            "hydrogen_generation_percentage": 95,
+            "countries_with_hydrogen_strategies": {
+                "current": 42,
+                "2022_onset": 27
+            },
+            "expected_global_funding_2030": 146000000000,
+            "funding_increase_percentage": 46,
+            "euroa_energy_project_funding_year": 2023,
+            "global_carbon_emissions_percentage": 92
+        }
+    },
+    {
+        "page_12.png": {
+            "solar_wind_storage_assets_under_operations": {
+                "value": 2.7,
+                "unit": "GW",
+                "increase_percentage": 26,
+                "comparison_year": 2021
+            },
+            "under_construction_or_contracted": {
+                "value": 3.2,
+                "unit": "GW",
+                "increase_percentage": 25,
+                "comparison_year": 2021
+            },
+            "year_end": 2022
+        }
+    },
+    {
+        "page_13.png": {
+            "DevelopmentPipeline": 36.6,
+            "Projects": 200,
+            "Countries": 9,
+            "AdvancedPhasesCapacity": 13,
+            "ReadyToContractBidCapacity": 3,
+            "RemainderPipeline": 24,
+            "OnshoreWindSolarContracted2022": 1.2,
+            "OCCPortfolioDecember2022": 5.9,
+            "GrowthComparedToPreviousYear": 25,
+            "ExpectedAnnualContract": 1,
+            "TechnologyBreakdown": {
+                "Offshore": 52,
+                "Onshore": 32,
+                "Storage": 16
+            },
+            "RegionBreakdown": {
+                "NorthAsiaAustralia": 47,
+                "SoutheastAsia": 32,
+                "Japan": 20,
+                "India": 1
+            }
+        }
+    },
+    {
+        "page_14.png": {
+            "offshore_wind_development_pipeline": 19,
+            "projects_in_advanced_stages": {
+                "number_of_projects": 10,
+                "capacity_GW": 4.2
+            },
+            "mou_signing_date": "2022-05-11",
+            "project_yokji": {
+                "capacity_MW": 384,
+                "start_of_construction": 2025
+            }
+        }
+    },
+    {
+        "page_15.png": {
+            "2022": {
+                "projects_added": 10,
+                "operational_portfolio_capacity_mw": 562
+            },
+            "total_operating_capacity_gw": 2.7,
+            "E2_Solar_Project_capacity_mw": 272,
+            "Nakasato_Wind_Project_capacity_mw": 47
+        }
+    },
+    {
+        "page_16.png": {
+            "projects": [
+                {
+                    "name": "Wandoan South BESS",
+                    "capacity": {
+                        "MW": 100,
+                        "MWh": 150
+                    }
+                },
+                {
+                    "name": "Kasama Solar Project",
+                    "capacity": {
+                        "MW": 53
+                    }
+                },
+                {
+                    "name": "Nanao Solar Project",
+                    "capacity": {
+                        "MW": 51
+                    }
+                },
+                {
+                    "name": "Komono Solar Project",
+                    "capacity": {
+                        "MW": 46
+                    }
+                },
+                {
+                    "name": "Nihonmatsu 2 Solar Project",
+                    "capacity": {
+                        "MW": 18
+                    }
+                },
+                {
+                    "name": "Kisarazu Solar Project",
+                    "capacity": {
+                        "MW": 26
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "page_17.png": {
+            "Aomori 2 Solar Project": 25,
+            "Nanbucho 3 Solar Project": 5,
+            "Vena Energy": {
+                "under_construction": 836,
+                "contracted_projects": 2300,
+                "progressed_to_construction_2022": 242,
+                "additional_contracted_2022": 1200
+            },
+            "Tailem Bend 2 Project": 159
+        }
+    },
+    {
+        "page_18.png": {
+            "2022": {
+                "offshore_wind_pipeline": "19 GW",
+                "awards": {
+                    "Vena_Energy_Philippines": {
+                        "award_name": "Best Company to Work For in Asia",
+                        "awarded_by": "HR Asia",
+                        "consecutive_years": 2
+                    }
+                }
+            },
+            "2019": {
+                "total_MW": 3039,
+                "Solar_PV_MW": 1685,
+                "Onshore_Wind_MW": 1354
+            },
+            "2018": {
+                "total_MW": 2562,
+                "Solar_PV_MW": 1476,
+                "Onshore_Wind_MW": 1086
+            },
+            "2017": {
+                "total_MW": 2024,
+                "Solar_PV_MW": 1418,
+                "Onshore_Wind_MW": 606
+            },
+            "Vena_Energy": {
+                "founded_year": 2012,
+                "portfolio_expansion": {
+                    "years": "2012-2017",
+                    "countries": 7,
+                    "region": "Asia-Pacific"
+                }
+            }
+        }
+    },
+    {
+        "page_19.png": {
+            "2020": {
+                "total_capacity_MW": 4177,
+                "solar_PV_MW": 2529,
+                "onshore_wind_MW": 1313,
+                "battery_storage_MW": 100,
+                "hybrid_MW": 176
+            },
+            "2021": {
+                "total_capacity_MW": 4706,
+                "solar_PV_MW": 2761,
+                "onshore_wind_MW": 1569,
+                "offshore_wind_MW": 160,
+                "battery_storage_MW": 141,
+                "hybrid_MW": 176,
+                "sustainability_linked_credit_facility_JPY_bn": 53,
+                "operating_capacity_in_Japan_MW": 500
+            },
+            "2022": {
+                "total_capacity_MW": 5896,
+                "solar_PV_MW": 3230,
+                "onshore_wind_MW": 2190,
+                "offshore_wind_MW": 160,
+                "battery_storage_MW": 141,
+                "hybrid_MW": 176
+            }
+        }
+    },
+    {
+        "page_20.png": {
+            "India": {
+                "Total": 1.0,
+                "Operational": 716,
+                "Solar": 313,
+                "Wind": 639,
+                "Construction": 176
+            },
+            "Japan": {
+                "Total": 2.3,
+                "Operational": 878,
+                "Solar": 1180,
+                "Wind": 944,
+                "Contracted": 1157,
+                "Construction": 249
+            },
+            "Southeast Asia": {
+                "Total": 1.7,
+                "Operational": 458,
+                "Solar": 960,
+                "Wind": 734,
+                "Contracted": 1159,
+                "Construction": 83
+            },
+            "North Asia & Australia": {
+                "Total": 1.0,
+                "Operational": 539,
+                "Solar": 825,
+                "Battery": 141,
+                "Contracted": 327
+            },
+            "Corporate Offices": {
+                "Locations": 9
+            }
+        }
+    },
+    {
+        "page_21.png": {}
+    },
+    {
+        "page_22.png": {
+            "ESG_Risk_Rating": 8.7,
+            "Year": "March 2023",
+            "Top_Percentile_of_Utility_Companies": 1,
+            "Industry_Awards_2022": 4,
+            "Sponsor_of_the_Year_Award_2022": 1,
+            "Page_Number": 22
+        }
+    },
+    {
+        "page_23.png": {
+            "The Asset Triple A Awards": {
+                "term_loan_facility": "NT$7.78 billion",
+                "solar_project_capacity": "272 MW"
+            },
+            "HR Asia Best Companies to Work For 2022": {
+                "region": "Philippines",
+                "year": 2022
+            },
+            "APEX India Occupational Health & Safety Award 2022": {
+                "award_level": "Platinum",
+                "year": 2022
+            },
+            "Page Number": 23
+        }
+    },
+    {
+        "page_24.png": {
+            "Section": "1.4",
+            "Sustainable_Development_Goals": [
+                {
+                    "SDG_Number": 13,
+                    "SDG_Name": "Climate Action"
+                },
+                {
+                    "SDG_Number": 15,
+                    "SDG_Name": "Life on Land"
+                },
+                {
+                    "SDG_Number": 12,
+                    "SDG_Name": "Responsible Consumption and Production"
+                },
+                {
+                    "SDG_Number": 3,
+                    "SDG_Name": "Good Health and Well-being"
+                },
+                {
+                    "SDG_Number": 5,
+                    "SDG_Name": "Gender Equality"
+                },
+                {
+                    "SDG_Number": 8,
+                    "SDG_Name": "Decent Work and Economic Growth"
+                },
+                {
+                    "SDG_Number": 16,
+                    "SDG_Name": "Peace, Justice, and Strong Institutions"
+                }
+            ],
+            "Section_Reference": "6.4"
+        }
+    },
+    {
+        "page_25.png": {}
+    },
+    {
+        "page_26.png": {}
+    },
+    {
+        "page_27.png": {
+            "sections": [
+                {
+                    "section": "02 Environment",
+                    "subsections": [
+                        {
+                            "subsection": "2.1 Climate Opportunity and Strategy"
+                        },
+                        {
+                            "subsection": "2.2 Physical Climate Risk and Management"
+                        },
+                        {
+                            "subsection": "2.3 Climate Action & Emissions"
+                        },
+                        {
+                            "subsection": "2.4 Environmental and Social Impact Management"
+                        },
+                        {
+                            "subsection": "2.5 Resource Management"
+                        }
+                    ]
+                }
+            ],
+            "page_number": 27,
+            "report_year": 2022
+        }
+    },
+    {
+        "page_28.png": {
+            "global_manmade_emissions_percentage": 70,
+            "global_warming_limit": 1.5,
+            "target_year": 2050,
+            "page_number": 28
+        }
+    },
+    {
+        "page_29.png": {}
+    },
+    {
+        "page_30.png": {}
+    },
+    {
+        "page_31.png": {
+            "Households_Powered": {
+                "Total": 5899388,
+                "Operational_Percentage": 37,
+                "Construction_Contracted_Percentage": 63
+            },
+            "Greenhouse_Gas_Emission_Reductions_in_Tonnes": {
+                "Total": 6913826,
+                "Operational_Percentage": 39,
+                "Construction_Contracted_Percentage": 61
+            },
+            "Megalitres_of_Water_Saved": {
+                "Total": 8841,
+                "Operational_Percentage": 34,
+                "Construction_Contracted_Percentage": 66
+            },
+            "Equivalent_Cars_Removed_from_the_Road": {
+                "Total": 1503006,
+                "Operational_Percentage": 39,
+                "Construction_Contracted_Percentage": 61
+            },
+            "Equivalent_Trees_Planted": {
+                "Total": 115230441,
+                "Operational_Percentage": 39,
+                "Construction_Contracted_Percentage": 61
+            }
+        }
+    },
+    {
+        "page_32.png": {
+            "2022": {
+                "total_GHG_emissions": 520796,
+                "scope_1_and_2_emissions_percentage": 5.0,
+                "scope_1_and_2_emissions": 25590,
+                "scope_1_emissions": 720,
+                "scope_2_emissions": 24870,
+                "scope_3_emissions": 495206
+            },
+            "2021": {
+                "total_emissions": 610074,
+                "scope_1_emissions": 850,
+                "scope_2_emissions": 12715,
+                "scope_3_emissions": 596509
+            },
+            "fuel_consumption_liters": 290804,
+            "electricity_consumption_GWh": 32.3,
+            "renewable_energy_purchased_Tokyo_MWh": 69,
+            "GHG_emissions_avoided_tonnes": 32
+        }
+    },
+    {
+        "page_33.png": {
+            "Vena Energy Scope 3": {
+                "2021-22": {
+                    "Category 1 - Purchased Goods and Services": {
+                        "2021 GHG Emissions": 14584,
+                        "2021 % Contribution": 2.4,
+                        "2022 GHG Emissions": 14620,
+                        "2022 % Contribution": 3.0
+                    },
+                    "Category 2 - Capital Goods": {
+                        "2021 GHG Emissions": 552970,
+                        "2021 % Contribution": 92.7,
+                        "2022 GHG Emissions": 467741,
+                        "2022 % Contribution": 94.4
+                    },
+                    "Category 4 - Upstream Transportation & Distribution": {
+                        "2021 GHG Emissions": 19062,
+                        "2021 % Contribution": 3.2,
+                        "2022 GHG Emissions": 7566,
+                        "2022 % Contribution": 1.5
+                    },
+                    "Category 5 - Waste Generated in Operations": {
+                        "2021 GHG Emissions": 8411,
+                        "2021 % Contribution": 1.4,
+                        "2022 GHG Emissions": 1678,
+                        "2022 % Contribution": 0.3
+                    },
+                    "Category 6 - Business Travel": {
+                        "2021 GHG Emissions": 1482,
+                        "2021 % Contribution": 0.2,
+                        "2022 GHG Emissions": 3601,
+                        "2022 % Contribution": 0.7
+                    }
+                }
+            },
+            "Carbon Intensity (Scope 1 & 2) Target": {
+                "2022": 2.4,
+                "2025": 1.8,
+                "2030": 0.8
+            }
+        }
+    },
+    {
+        "page_34.png": {
+            "Scope_3_Category_2_emissions": null,
+            "First_reported_emissions_year": 2021,
+            "Surveyed_top_suppliers_year": 2022,
+            "Number_of_suppliers_surveyed": 20,
+            "Employee_daily_cycling_distance_km": {
+                "minimum": 7,
+                "maximum": 22
+            }
+        }
+    },
+    {
+        "page_35.png": {
+            "year": 2022,
+            "fines_or_sanctions": 0,
+            "regulatory_permit_exceedances": 0,
+            "spill_incidents": 0
+        }
+    },
+    {
+        "page_36.png": {
+            "SDG": 15,
+            "land_size": {
+                "total_hectares": 200,
+                "specific_hectares": 30
+            },
+            "individual_trees": 60,
+            "native_vegetation_preservation": 90,
+            "construction_commencement": "Q2 2022",
+            "annual_needs_homes": 45000
+        }
+    },
+    {
+        "page_37.png": {
+            "SDG": 15,
+            "Targets": [
+                {
+                    "Target": 15.2,
+                    "Description": "Promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally"
+                },
+                {
+                    "Target": 15.5,
+                    "Description": "Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and protect and prevent the extinction of threatened species"
+                },
+                {
+                    "Target": "15.B",
+                    "Description": "Mobilize significant resources from all sources and at all levels to finance sustainable forest management and provide adequate incentives to developing countries to advance such management, including for conservation and reforestation"
+                }
+            ],
+            "Japan Forest Management Programme": {
+                "Year": 2021,
+                "TreesPlanted": 2200,
+                "ForestLandMaintained": "3ha"
+            },
+            "Tree Planting in India": {
+                "Year": 2022,
+                "TreesPlanted": 750
+            },
+            "Korea Tree Planting Programme in Gangwon Province": {
+                "Year": 2021,
+                "TreesPlanted": 800
+            },
+            "Mangrove Tree Planting in Indonesia": {
+                "Year": 2022,
+                "MangroveTreesReplanted": 1900
+            }
+        }
+    },
+    {
+        "page_38.png": {
+            "2022": {
+                "water_consumed": 59139,
+                "water_saved": 8917,
+                "solar_PV_modules_maintained": 600000
+            },
+            "water_consumption_decrease_percentage": 5.1,
+            "water_conservation_efforts": {
+                "water_saved_in_India": 8000
+            },
+            "India": {
+                "population_percentage": 18,
+                "water_resources_percentage": 4,
+                "people_lacking_safe_water": 91000000
+            },
+            "robotic_cleaning_systems": {
+                "water_usage_reduction_percentage": 60
+            }
+        }
+    },
+    {
+        "page_39.png": {
+            "2022": {
+                "non_hazardous_waste": 3731,
+                "hazardous_waste": 11
+            },
+            "decrease_in_non_hazardous_waste": 80.2
+        }
+    },
+    {
+        "page_40.png": {
+            "sections": [
+                {
+                    "section": "03",
+                    "subsections": [
+                        {
+                            "subsection": "3.1",
+                            "title": "Our People"
+                        },
+                        {
+                            "subsection": "3.2",
+                            "title": "Occupational Health and Safety (OHS)"
+                        },
+                        {
+                            "subsection": "3.3",
+                            "title": "Our Community"
+                        }
+                    ]
+                }
+            ],
+            "page_number": 40,
+            "year": 2022
+        }
+    },
+    {
+        "page_41.png": {
+            "total_employees_2022": 827,
+            "workforce_growth_2022": 20,
+            "employee_turnover_rate_2022": 13.8,
+            "employee_turnover_rate_2021": 13.9,
+            "employees_by_jurisdiction": {
+                "Australia": 33,
+                "India": 93,
+                "Indonesia": 52,
+                "Japan": 345,
+                "Philippines": 119,
+                "Singapore": 56,
+                "South Korea": 36,
+                "Taiwan": 79,
+                "Thailand": 14
+            }
+        }
+    },
+    {
+        "page_42.png": {
+            "Nationalities_Represented_in_Vena_Energy": {
+                "Americas": 17,
+                "Europe": 35,
+                "Africa": 2,
+                "Japan": 263,
+                "Taiwan": 75,
+                "South_Korea": 47,
+                "China": 7,
+                "India": 106,
+                "Philippines": 123,
+                "Indonesia": 59,
+                "Oceania": 28,
+                "Singapore": 30,
+                "Thailand": 17,
+                "Malaysia": 17,
+                "Uzbekistan": 1
+            },
+            "Employment_by_Age_Group": {
+                "2019": {
+                    "<30_years_old": 104,
+                    "31-50_years_old": 336,
+                    ">50_years_old": 83
+                },
+                "2020": {
+                    "<30_years_old": 134,
+                    "31-50_years_old": 396,
+                    ">50_years_old": 86
+                },
+                "2021": {
+                    "<30_years_old": 118,
+                    "31-50_years_old": 473,
+                    ">50_years_old": 101
+                },
+                "2022": {
+                    "<30_years_old": 119,
+                    "31-50_years_old": 564,
+                    ">50_years_old": 144
+                }
+            },
+            "Employment_by_Gender": {
+                "2019": {
+                    "Male": 380,
+                    "Female": 143
+                },
+                "2020": {
+                    "Male": 432,
+                    "Female": 184
+                },
+                "2021": {
+                    "Male": 482,
+                    "Female": 210
+                },
+                "2022": {
+                    "Male": 566,
+                    "Female": 261
+                }
+            },
+            "Gender_Equality_Goals": {
+                "2022_Female_Representation": 32,
+                "2022_Female_Gross_Hire_Percentage": 37,
+                "2023_Diversity_Targets": {
+                    "Ratio_of_female_to_male_employees_by_end_2023": 33,
+                    "Ratio_of_females_to_male_for_all_new_hires": 40,
+                    "Min_1_percent_increase_in_gender_pay_ratio_by_staff_category": 1
+                }
+            }
+        }
+    },
+    {
+        "page_43.png": {
+            "4.3": "Ensure equal access for women to affordable and quality technical, vocational, and tertiary education, including university.",
+            "4.4": "Substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs, and entrepreneurship.",
+            "4.5": "By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training, including persons with disabilities, indigenous peoples, and children in vulnerable situations.",
+            "4.7": "By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development.",
+            "dates": {
+                "April 2022": "Vena Energy expanded the Vena Energy Women’s Undergraduate Sponsorship (“VENUS”) programme to Japan.",
+                "August 2022": "The first Japanese awardees for this scholarship were chosen.",
+                "December 2022": "One of the first VENUS scholarship awardees in Singapore completed a 6-month internship with Vena Energy."
+            }
+        }
+    },
+    {
+        "page_44.png": {
+            "remote_lessons": {
+                "students": 146,
+                "schools": 4
+            },
+            "site_visit": {
+                "students": 61,
+                "school_type": "junior high school"
+            },
+            "competition_participation": {
+                "student_teams": 91,
+                "competition_name": "CDL-GCNS Young SDG Leaders Competition"
+            },
+            "payroll_cost": {
+                "percentage": 1.2,
+                "year": 2022
+            },
+            "learning_hours": {
+                "total_hours": 4947,
+                "sessions": 92,
+                "year": 2022
+            },
+            "linkedin_learning_access": {
+                "percentage": 73,
+                "year": 2022
+            },
+            "average_educational_content_viewed": {
+                "hours": 7
+            },
+            "average_training_hours": {
+                "hours_per_employee": 47,
+                "year": 2022
+            },
+            "training_hours_increase": {
+                "hours": 11,
+                "compared_to_year": 2021
+            },
+            "training_hour_target": {
+                "minimum_hours_per_employee": 40,
+                "year": 2023
+            }
+        }
+    },
+    {
+        "page_45.png": {
+            "learning_week_attendance": 501,
+            "average_participation_hours": 4.8,
+            "survey_participation_rate_2021": 85,
+            "favorability_score": 75,
+            "beyond_objective_percentage": 86
+        }
+    },
+    {
+        "page_46.png": {
+            "initial_donation": 10000,
+            "challenge_goal_steps": 3000000,
+            "recorded_steps": 8283638,
+            "pledge_multiplier": 1.5,
+            "total_donation": 27200,
+            "project_duration_years": 2
+        }
+    },
+    {
+        "page_47.png": {
+            "year": 2022,
+            "performance_review_completion": 100,
+            "LEAD_program_participants": 25,
+            "training_hours_per_participant": 48
+        }
+    },
+    {
+        "page_48.png": {
+            "2022": {
+                "employees_5_years_service": 56,
+                "employees_10_years_service": 4,
+                "employees_min_5_years_service_percentage": 22,
+                "total_awards_presented": 1474,
+                "return_to_work_rate_after_parental_leave_percentage": 90,
+                "staff_utilized_volunteer_service_day_percentage": 50
+            }
+        }
+    },
+    {
+        "page_49.png": {
+            "program": {
+                "name": "VEvolution",
+                "introduction_year": 2022
+            },
+            "assistance": {
+                "type": "one-off",
+                "month": "October",
+                "year": 2022
+            }
+        }
+    },
+    {
+        "page_50.png": {
+            "year": 2022,
+            "unsafe_acts_and_conditions_reported": 3919,
+            "employees_recognized_safety_reward_program": 106
+        }
+    },
+    {
+        "page_51.png": {
+            "total_training_hours": 163660,
+            "tool_box_talks_hours": 98565,
+            "internal_hse_meetings_hours": 49045,
+            "hse_meetings_hours": 10940,
+            "other_hours": 5110,
+            "training_record_2022": {
+                "percentage_employees_received_training": 100,
+                "consecutive_years": 3
+            },
+            "internal_external_training_hours": 50000,
+            "informal_discussions_hours": 100000,
+            "training_hours_percentage_2022": 2.0,
+            "training_hours_percentage_2021": 1.9,
+            "world_day_for_safety_and_health_at_work": "28 April 2022"
+        }
+    },
+    {
+        "page_52.png": {
+            "India": {
+                "National Safety Week": {
+                    "March 2022": {
+                        "workmen_and_employees": 2563,
+                        "local_community_members": 500
+                    }
+                }
+            },
+            "National Fire Service Day": {
+                "April 2022": {
+                    "participants": 70
+                }
+            },
+            "Taiwan": {
+                "Emergency Aid Training": {
+                    "2022": {
+                        "employees": 31
+                    }
+                },
+                "Traffic Improvements": {
+                    "Vena Energy's E2 Solar project": 272
+                }
+            }
+        }
+    },
+    {
+        "page_53.png": {
+            "year": 2022,
+            "increase_in_inspections_percentage": 11,
+            "total_inspections_safety_walks_audits": 4874
+        }
+    },
+    {
+        "page_54.png": {
+            "SafetyPerformance": {
+                "HoursWorked": {
+                    "2019": 4214864,
+                    "2020": 4918303,
+                    "2021": 7356897,
+                    "2022": 8040731
+                },
+                "FirstAidCases": {
+                    "2019": 23,
+                    "2020": 25,
+                    "2021": 32,
+                    "2022": 36
+                },
+                "FirstAidCasesRate": {
+                    "2019": 1.09,
+                    "2020": 1.02,
+                    "2021": 0.87,
+                    "2022": 0.9
+                },
+                "RecordableCases": {
+                    "2019": 7,
+                    "2020": 7,
+                    "2021": 12,
+                    "2022": 12
+                },
+                "RecordableRate": {
+                    "2019": 0.33,
+                    "2020": 0.28,
+                    "2021": 0.33,
+                    "2022": 0.3
+                },
+                "LostTimeCases": {
+                    "2019": 1,
+                    "2020": 3,
+                    "2021": 6,
+                    "2022": 6
+                },
+                "LostTimeInjuryRate": {
+                    "2019": 0.05,
+                    "2020": 0.12,
+                    "2021": 0.16,
+                    "2022": 0.15
+                }
+            },
+            "AdditionalInformation": {
+                "RecordableInjuryFrequencyRate": {
+                    "2019": {
+                        "IndustrySurvey": 1.1,
+                        "VenaEnergy": 0.33
+                    },
+                    "2020": {
+                        "IndustrySurvey": 1.1,
+                        "VenaEnergy": 0.28
+                    },
+                    "2021": {
+                        "IndustrySurvey": 1.1,
+                        "VenaEnergy": 0.33
+                    },
+                    "2022": {
+                        "IndustrySurvey": 1.1,
+                        "VenaEnergy": 0.3
+                    }
+                },
+                "LostTimeInjuryFrequencyRate": {
+                    "2019": {
+                        "IndustrySurvey": 0.5,
+                        "VenaEnergy": 0.05
+                    },
+                    "2020": {
+                        "IndustrySurvey": 0.6,
+                        "VenaEnergy": 0.12
+                    },
+                    "2021": {
+                        "IndustrySurvey": 0.7,
+                        "VenaEnergy": 0.16
+                    },
+                    "2022": {
+                        "IndustrySurvey": 0.7,
+                        "VenaEnergy": 0.15
+                    }
+                }
+            },
+            "Incident": {
+                "2022": {
+                    "Fatalities": 1,
+                    "Cause": "heat stroke"
+                }
+            }
+        }
+    },
+    {
+        "page_55.png": {
+            "year": 2022,
+            "total_jobs_created": 5628,
+            "peak_on_site_workers": {
+                "Australia": 455,
+                "India": 216,
+                "Taiwan": 550,
+                "Japan": 3407,
+                "Philippines": 1000
+            }
+        }
+    },
+    {
+        "page_56.png": {
+            "Wandoan_South_Project_milestones": 2022,
+            "Battery_Energy_Storage_System_operation": "August 2022",
+            "Cultural_heritage_surveys": "2021-2022",
+            "Iman_People_involvement_since": 2016,
+            "Page_number": 56
+        }
+    },
+    {
+        "page_57.png": {
+            "workforce_during_construction_2022": {
+                "from_Tailem_Bend_Murray_Bridge_and_surrounding_areas": 50,
+                "from_within_South_Australia": 35,
+                "identifying_as_Aboriginal_descent": 10,
+                "identifying_as_female": 14
+            },
+            "training_program": {
+                "participants": 12,
+                "full_certifications_achieved": 8
+            },
+            "corporate_social_responsibility_2022": {
+                "amount_spent_USD": 1.67,
+                "volunteer_hours_contributed": 4940,
+                "csr_initiatives_conducted": 190,
+                "beneficiaries_supported": 233000
+            },
+            "summary_of_csr_activities": {
+                "csr_activities_conducted": 191,
+                "hours_contributed": 4940,
+                "beneficiaries_supported": 233000,
+                "amount_spent_USD": 1.7
+            }
+        }
+    },
+    {
+        "page_58.png": {
+            "South Korea": {
+                "Average temperatures": {
+                    "High": 5.4,
+                    "Low": -3.8
+                },
+                "Households receiving bedding and pillows": 35,
+                "Wind project capacity": 53,
+                "Wind project name": "Yeongwol Wind Project"
+            },
+            "India": {
+                "Wind project capacity": 26,
+                "Wind project name": "JMD Wind Project"
+            },
+            "Taiwan": {
+                "Solar project capacity": 272,
+                "Solar project name": "E2 Solar Project",
+                "Waste collected": 200
+            },
+            "Philippines": {
+                "Hatchery size": {
+                    "Length": 8,
+                    "Width": 4
+                },
+                "Pawikan eggs": 2500
+            }
+        }
+    },
+    {
+        "page_59.png": {
+            "Philippines": {
+                "students_competed": 5,
+                "bronze_medals": 2,
+                "merit_awards": 3
+            },
+            "Singapore": {
+                "crackerjack_convention_attendance": 100
+            },
+            "Japan": {
+                "annual_earthquakes": 2000,
+                "fukushima_earthquake_magnitude": 7.4,
+                "battery_sets_distributed": 24,
+                "communities_served": 11,
+                "fukushima_earthquake_month": "March",
+                "fukushima_earthquake_year": 2022,
+                "battery_distribution_start_year": 2021
+            },
+            "South Korea": {
+                "gokseong_wind_project_capacity_mw": 50,
+                "village_coop_villages": 11
+            }
+        }
+    },
+    {
+        "page_60.png": {
+            "Governance": 4,
+            "Board_of_Directors": 4.1,
+            "Corporate_Governance": 4.2,
+            "Governance_Policies": 4.3,
+            "Page_number": 60,
+            "Year": 2022
+        }
+    },
+    {
+        "page_61.png": {
+            "board_composition_date": "31 December 2022",
+            "board_members": 5,
+            "nationalities_represented": 4,
+            "board_meetings_2022": 4,
+            "energy_projects_financing": 40000000000,
+            "Mr_Apte_experience_years": 25
+        }
+    },
+    {
+        "page_62.png": {
+            "year_started": 2017,
+            "page_number": 62
+        }
+    },
+    {
+        "page_63.png": {
+            "Sustainability Committee": {
+                "Meetings in 2022": 4
+            },
+            "Investment Committee": {
+                "Meetings in 2022": 24
+            },
+            "Audit and Risk Committee": {
+                "Meetings in 2022": 4
+            },
+            "Remuneration Committee": {
+                "Meetings in 2022": 1
+            }
+        }
+    },
+    {
+        "page_64.png": {
+            "GovernanceHighlight": 2022,
+            "GovernancePolicies": 4.3,
+            "CodeOfConduct": {
+                "Section": 4.3,
+                "Subsection": 1,
+                "RewrittenYear": 2021
+            },
+            "SustainabilityAndFinancialReport": {
+                "Year": 2022,
+                "Page": 64
+            }
+        }
+    },
+    {
+        "page_65.png": {
+            "2022": {
+                "fines_or_sanctions": 0,
+                "employee_participation_percentage": 99,
+                "compliance_training_hours": 3,
+                "whistle_blower_hotline_usage": 3,
+                "cases_raised_to_compliance_team": 23,
+                "incidents_investigated_percentage": 100
+            }
+        }
+    },
+    {
+        "page_66.png": {
+            "cases_reported": 8,
+            "bona_fide_cases": 3,
+            "year": 2022,
+            "risk_of_human_rights_abuses": 0,
+            "risk_of_child_labour": 0,
+            "risk_of_forced_labour": 0,
+            "risk_of_discrimination": 0,
+            "supplier_code_of_conduct_editions": 1,
+            "significant_change_in_supply_chain": 0,
+            "major_cyber_security_incidents": 0,
+            "cyber_security_trainings_frequency_months": 2,
+            "cyber_security_trainings_completion_rate": 97
+        }
+    },
+    {
+        "page_67.png": {
+            "Financials": {
+                "Section": 5,
+                "Highlights": 5.1,
+                "ProportionateResults": 5.2,
+                "DebtAndLiquidityPosition": 5.3
+            },
+            "PageNumber": 67
+        }
+    },
+    {
+        "page_68.png": {
+            "Revenue": {
+                "FY2020": 371.6,
+                "FY2021": 385.2,
+                "FY2022": 469.2,
+                "Year-on-Year Growth": 22,
+                "Increase for FY2022": 84,
+                "Foreign Exchange Effects": -33
+            },
+            "EBITDA": {
+                "FY2020": 278.0,
+                "FY2021": 282.3,
+                "FY2022": 326.4,
+                "Year-on-Year Growth": 16,
+                "Impact due to USD Strengthening": 28
+            },
+            "Renewable Energy": {
+                "Increase": 20,
+                "2021": 3.1,
+                "2022": 3.7
+            },
+            "One-off Income": {
+                "Insurance Claims": 7
+            }
+        }
+    },
+    {
+        "page_69.png": {
+            "OperatingPerformance": {
+                "2022": {
+                    "TotalRevenue": 469.2,
+                    "OperatingExpenses": -142.8,
+                    "EBITDA": 326.4,
+                    "DepreciationAndAmortisation": -195.2,
+                    "EBIT": 131.2,
+                    "NetInterestCosts": -101.7,
+                    "OtherFinanceGainCharge": -25.5,
+                    "OtherIncome": -15.1,
+                    "DevelopmentExpense": -8.2,
+                    "Tax": -6.8,
+                    "NetIncome": -26.1,
+                    "EBITDAMarginPercent": 70
+                },
+                "2021": {
+                    "TotalRevenue": 385.2,
+                    "OperatingExpenses": -102.9,
+                    "EBITDA": 282.3,
+                    "DepreciationAndAmortisation": -166.4,
+                    "EBIT": 115.9,
+                    "NetInterestCosts": -92.8,
+                    "OtherFinanceGainCharge": -11.2,
+                    "OtherIncome": -9.2,
+                    "DevelopmentExpense": -7.4,
+                    "Tax": -13.3,
+                    "NetIncome": -18.0,
+                    "EBITDAMarginPercent": 73
+                }
+            },
+            "Capitalisation": {
+                "EMTN": 500.0,
+                "CCSFX": {
+                    "2022": -75.9,
+                    "2021": -9.7
+                },
+                "EMTNIncludingCCSFX": {
+                    "2022": 424.1,
+                    "2021": 490.3
+                },
+                "CorporateRCF": {
+                    "2022": 15.1
+                },
+                "ProjectFinanceDebt": {
+                    "2022": 2,
+                    "573.9": 573.9,
+                    "2021": 2,
+                    "101.6": 101.6
+                },
+                "WorkingCapitalLoan": {
+                    "2022": 6.0,
+                    "2021": 15.0
+                },
+                "TotalBankBorrowings": {
+                    "2022": 3,
+                    "019.1": 19.1,
+                    "2021": 2,
+                    "606.9": 606.9
+                },
+                "Equity": {
+                    "2022": 3,
+                    "143.8": 143.8,
+                    "2021": 3,
+                    "576.3": 576.3
+                },
+                "TotalCapitalisation": {
+                    "2022": 6,
+                    "162.9": 162.9,
+                    "2021": 6,
+                    "183.2": 183.2
+                }
+            },
+            "OtherFinancialData": {
+                "FundsFromOperationalAssets": {
+                    "2022": 166.7,
+                    "2021": 140.0
+                },
+                "InterestCoverageRatio": {
+                    "2022": "18.6x",
+                    "2021": "16.7x"
+                },
+                "CapitalExpenditures": {
+                    "2022": 806.8,
+                    "2021": 792.4
+                }
+            }
+        }
+    },
+    {
+        "page_70.png": {
+            "DebtOutstandingAsOf31Dec2022": {
+                "Total": 3000000000,
+                "ProjectBond": 70000000,
+                "CommittedRCF": 15000000,
+                "EuroMediumTermNote": 424000000,
+                "ProjectFinanceDebt": 2504000000
+            },
+            "2022ProjectLevelFinancings": 1000000000,
+            "ProjectDebtStructuredAsGreenLoansPercentage": 80,
+            "DebtPositionIncreaseComparedTo31Dec2021": 400000000,
+            "FavorableForeignExchangeEffects": 280000000,
+            "ProjectFinanceDebtDrawnDown": 866000000,
+            "ScheduledProjectFinanceDebtRepayments": 179000000,
+            "GreenOrSustainabilityLinkedFinancingsPercentage": 90,
+            "2022FinancingBreakdown": {
+                "SustainabilityLinkedRCFPercentage": 20,
+                "GreenBondPercentage": 25,
+                "GreenProjectFinancingPercentage": 45,
+                "OtherProjectFinancingPercentage": 10
+            }
+        }
+    },
+    {
+        "page_71.png": {
+            "Funds from Operational Assets": {
+                "31 Dec 2022": 166.7,
+                "31 Dec 2021": 140.0
+            },
+            "Euro Medium Term Note": {
+                "31 Dec 2022": 500.0,
+                "31 Dec 2021": 500.0
+            },
+            "Foreign currency effect of cross currency swaps": {
+                "31 Dec 2022": -75.9,
+                "31 Dec 2021": -9.7
+            },
+            "Euro Medium Term Note (including CCS FX)": {
+                "31 Dec 2022": 424.1,
+                "31 Dec 2021": 490.3
+            },
+            "Corporate RCF": {
+                "31 Dec 2022": 15.1,
+                "31 Dec 2021": null
+            },
+            "Corporate Gross Debt": {
+                "31 Dec 2022": 439.2,
+                "31 Dec 2021": 490.3
+            },
+            "Less: Corporate’s Cash & Cash Equivalents": {
+                "31 Dec 2022": -41.0,
+                "31 Dec 2021": -213.6
+            },
+            "Corporate Net Debt": {
+                "31 Dec 2022": 398.2,
+                "31 Dec 2021": 276.7
+            },
+            "Corporate Net Debt to FFOA": {
+                "31 Dec 2022": "2.4x",
+                "31 Dec 2021": "2.0x"
+            }
+        }
+    },
+    {
+        "page_72.png": {
+            "FFOA_Breakdown_by_Markets": {
+                "FY2022": {
+                    "Total": 167,
+                    "Japan": 52,
+                    "Philippines": 19,
+                    "India": 15,
+                    "Thailand": 4,
+                    "Indonesia": 1,
+                    "Taiwan": 9
+                },
+                "FY2021": {
+                    "Total": 140,
+                    "Japan": 47,
+                    "Philippines": 39,
+                    "India": 5,
+                    "Thailand": 2,
+                    "Indonesia": 3,
+                    "Taiwan": 9,
+                    "Australia": 4
+                }
+            },
+            "Liquidity_Position_USD_millions": {
+                "31_Dec_2022": {
+                    "Available_Corporate_RCF": 246.5,
+                    "Corporate_Cash_and_Cash_Equivalents": 41.0,
+                    "Total_Liquidity": 287.5
+                },
+                "31_Dec_2021": {
+                    "Available_Corporate_RCF": 431.2,
+                    "Corporate_Cash_and_Cash_Equivalents": 213.6,
+                    "Total_Liquidity": 644.8
+                }
+            },
+            "Additional_Information": {
+                "Increase_in_FFOA": {
+                    "Amount": 27,
+                    "Percentage": 19
+                },
+                "Renewable_Energy_Generation_Increase": {
+                    "Percentage": 20,
+                    "From": 3.1,
+                    "To": 3.7
+                },
+                "Foreign_Currency_Effects": {
+                    "Lower_USD_Denominated_FFOA": 17,
+                    "FX_Impact_JPY_Depreciation_Percentage": 50
+                }
+            }
+        }
+    },
+    {
+        "page_73.png": {
+            "Additional Information": {
+                "Independent Limited Assurance Report": 6.1,
+                "Employee Information": 6.2,
+                "ESG Indicators": 6.3,
+                "Contribution to the SDGs": 6.4,
+                "Commitment to UN Global Compact": 6.5,
+                "GRI Content Index": 6.6,
+                "TCFD Content Index": 6.7,
+                "Legal Statements": 6.8
+            },
+            "Page number": 73
+        }
+    },
+    {
+        "page_74.png": {
+            "reporting_period": {
+                "start_date": "1st January 2022",
+                "end_date": "31st December 2022"
+            },
+            "scope_of_assurance_engagement": {
+                "energy_generation_operational_assets": {
+                    "unit": "TWh"
+                },
+                "energy_generation_construction_and_contracted_assets": {
+                    "unit": "TWh"
+                },
+                "greenhouse_gas_emissions_reduction": {
+                    "unit": "Tonnes"
+                },
+                "households_powered": {
+                    "unit": "Number"
+                },
+                "water_saved": {
+                    "unit": "Megalitres"
+                },
+                "equivalent_cars_removed_from_road": {
+                    "unit": "Number"
+                },
+                "equivalent_trees_planted": {
+                    "unit": "Number"
+                }
+            }
+        }
+    },
+    {
+        "page_75.png": {
+            "section_reference": "2.3.1",
+            "date": "16th May 2023",
+            "iso_standard": "ISO 17021:2015",
+            "iesba_code_parts": [
+                "A",
+                "B"
+            ],
+            "isqm_versions": [
+                "ISQM-1",
+                "ISQM-2"
+            ],
+            "isqm_year": 2022
+        }
+    },
+    {
+        "page_76.png": {
+            "Reporting Period": {
+                "Start Date": "1st January 2022",
+                "End Date": "31st December 2022"
+            },
+            "Report Section": "2.3.2"
+        }
+    },
+    {
+        "page_77.png": {
+            "ISO": "17021:2015",
+            "Section": "2.3.2",
+            "ISQM": [
+                "1",
+                "2"
+            ],
+            "ISQM Year": 2022,
+            "Date": "19th June 2023",
+            "Page Number": 77
+        }
+    },
+    {
+        "page_78.png": {
+            "total_employees_by_jurisdiction_and_gender": {
+                "2019": {
+                    "Australia": {
+                        "Male": 10,
+                        "Female": 5,
+                        "Total": 15
+                    },
+                    "India": {
+                        "Male": 57,
+                        "Female": 12,
+                        "Total": 69
+                    },
+                    "Indonesia": {
+                        "Male": 50,
+                        "Female": 19,
+                        "Total": 69
+                    },
+                    "Japan": {
+                        "Male": 127,
+                        "Female": 35,
+                        "Total": 162
+                    },
+                    "Philippines": {
+                        "Male": 70,
+                        "Female": 29,
+                        "Total": 99
+                    },
+                    "Singapore": {
+                        "Male": 23,
+                        "Female": 22,
+                        "Total": 45
+                    },
+                    "South Korea": {
+                        "Male": 4,
+                        "Female": 1,
+                        "Total": 5
+                    },
+                    "Taiwan": {
+                        "Male": 29,
+                        "Female": 15,
+                        "Total": 44
+                    },
+                    "Thailand": {
+                        "Male": 10,
+                        "Female": 5,
+                        "Total": 15
+                    },
+                    "Total": {
+                        "Male": 380,
+                        "Female": 143,
+                        "Total": 523
+                    }
+                },
+                "2020": {
+                    "Australia": {
+                        "Male": 13,
+                        "Female": 7,
+                        "Total": 20
+                    },
+                    "India": {
+                        "Male": 66,
+                        "Female": 18,
+                        "Total": 84
+                    },
+                    "Indonesia": {
+                        "Male": 41,
+                        "Female": 14,
+                        "Total": 55
+                    },
+                    "Japan": {
+                        "Male": 173,
+                        "Female": 63,
+                        "Total": 236
+                    },
+                    "Philippines": {
+                        "Male": 61,
+                        "Female": 31,
+                        "Total": 92
+                    },
+                    "Singapore": {
+                        "Male": 24,
+                        "Female": 22,
+                        "Total": 46
+                    },
+                    "South Korea": {
+                        "Male": 9,
+                        "Female": 3,
+                        "Total": 12
+                    },
+                    "Taiwan": {
+                        "Male": 35,
+                        "Female": 21,
+                        "Total": 56
+                    },
+                    "Thailand": {
+                        "Male": 5,
+                        "Female": 15,
+                        "Total": 20
+                    },
+                    "Total": {
+                        "Male": 432,
+                        "Female": 184,
+                        "Total": 616
+                    }
+                },
+                "2021": {
+                    "Australia": {
+                        "Male": 18,
+                        "Female": 7,
+                        "Total": 25
+                    },
+                    "India": {
+                        "Male": 67,
+                        "Female": 21,
+                        "Total": 88
+                    },
+                    "Indonesia": {
+                        "Male": 40,
+                        "Female": 12,
+                        "Total": 52
+                    },
+                    "Japan": {
+                        "Male": 213,
+                        "Female": 85,
+                        "Total": 298
+                    },
+                    "Philippines": {
+                        "Male": 59,
+                        "Female": 29,
+                        "Total": 88
+                    },
+                    "Singapore": {
+                        "Male": 26,
+                        "Female": 22,
+                        "Total": 48
+                    },
+                    "South Korea": {
+                        "Male": 14,
+                        "Female": 4,
+                        "Total": 18
+                    },
+                    "Taiwan": {
+                        "Male": 36,
+                        "Female": 25,
+                        "Total": 61
+                    },
+                    "Thailand": {
+                        "Male": 9,
+                        "Female": 5,
+                        "Total": 14
+                    },
+                    "Total": {
+                        "Male": 482,
+                        "Female": 210,
+                        "Total": 692
+                    }
+                },
+                "2022": {
+                    "Australia": {
+                        "Male": 24,
+                        "Female": 9,
+                        "Total": 33
+                    },
+                    "India": {
+                        "Male": 73,
+                        "Female": 20,
+                        "Total": 93
+                    },
+                    "Indonesia": {
+                        "Male": 39,
+                        "Female": 13,
+                        "Total": 52
+                    },
+                    "Japan": {
+                        "Male": 244,
+                        "Female": 101,
+                        "Total": 345
+                    },
+                    "Philippines": {
+                        "Male": 72,
+                        "Female": 47,
+                        "Total": 119
+                    },
+                    "Singapore": {
+                        "Male": 28,
+                        "Female": 30,
+                        "Total": 56
+                    },
+                    "South Korea": {
+                        "Male": 28,
+                        "Female": 8,
+                        "Total": 36
+                    },
+                    "Taiwan": {
+                        "Male": 51,
+                        "Female": 28,
+                        "Total": 79
+                    },
+                    "Thailand": {
+                        "Male": 9,
+                        "Female": 5,
+                        "Total": 14
+                    },
+                    "Total": {
+                        "Male": 566,
+                        "Female": 261,
+                        "Total": 827
+                    }
+                }
+            },
+            "total_employees_by_employment_type_and_gender": {
+                "2019": {
+                    "Full-time": {
+                        "Male": 380,
+                        "Female": 141,
+                        "Total": 521
+                    },
+                    "Part-time": {
+                        "Male": 0,
+                        "Female": 2,
+                        "Total": 2
+                    },
+                    "Total": {
+                        "Male": 380,
+                        "Female": 143,
+                        "Total": 523
+                    }
+                },
+                "2020": {
+                    "Full-time": {
+                        "Male": 431,
+                        "Female": 182,
+                        "Total": 613
+                    },
+                    "Part-time": {
+                        "Male": 1,
+                        "Female": 2,
+                        "Total": 3
+                    },
+                    "Total": {
+                        "Male": 432,
+                        "Female": 184,
+                        "Total": 616
+                    }
+                },
+                "2021": {
+                    "Full-time": {
+                        "Male": 475,
+                        "Female": 209,
+                        "Total": 684
+                    },
+                    "Part-time": {
+                        "Male": 7,
+                        "Female": 1,
+                        "Total": 8
+                    },
+                    "Total": {
+                        "Male": 482,
+                        "Female": 210,
+                        "Total": 692
+                    }
+                },
+                "2022": {
+                    "Full-time": {
+                        "Male": 565,
+                        "Female": 261,
+                        "Total": 826
+                    },
+                    "Part-time": {
+                        "Male": 1,
+                        "Female": 0,
+                        "Total": 1
+                    },
+                    "Total": {
+                        "Male": 566,
+                        "Female": 261,
+                        "Total": 827
+                    }
+                }
+            },
+            "total_employees_by_contract_type_and_gender": {
+                "2019": {
+                    "Permanent": {
+                        "Male": 373,
+                        "Female": 141,
+                        "Total": 514
+                    },
+                    "Temporary": {
+                        "Male": 7,
+                        "Female": 2,
+                        "Total": 9
+                    },
+                    "Total": {
+                        "Male": 380,
+                        "Female": 143,
+                        "Total": 523
+                    }
+                },
+                "2020": {
+                    "Permanent": {
+                        "Male": 421,
+                        "Female": 180,
+                        "Total": 601
+                    },
+                    "Temporary": {
+                        "Male": 11,
+                        "Female": 4,
+                        "Total": 15
+                    },
+                    "Total": {
+                        "Male": 432,
+                        "Female": 184,
+                        "Total": 616
+                    }
+                },
+                "2021": {
+                    "Permanent": {
+                        "Male": 471,
+                        "Female": 205,
+                        "Total": 676
+                    },
+                    "Temporary": {
+                        "Male": 11,
+                        "Female": 5,
+                        "Total": 16
+                    },
+                    "Total": {
+                        "Male": 482,
+                        "Female": 210,
+                        "Total": 692
+                    }
+                },
+                "2022": {
+                    "Permanent": {
+                        "Male": 563,
+                        "Female": 260,
+                        "Total": 823
+                    },
+                    "Temporary": {
+                        "Male": 3,
+                        "Female": 1,
+                        "Total": 4
+                    },
+                    "Total": {
+                        "Male": 566,
+                        "Female": 261,
+                        "Total": 827
+                    }
+                }
+            }
+        }
+    },
+    {
+        "page_79.png": {
+            "2019": {
+                "Headcount": {
+                    "Non-exempt": 50,
+                    "Professionals": 236,
+                    "Middle Management": 220,
+                    "Executive Management": 17
+                },
+                "By Age Group": {
+                    "<30": {
+                        "Non-exempt": 5,
+                        "Professionals": 81,
+                        "Middle Management": 18,
+                        "Executive Management": 0
+                    },
+                    "30-50": {
+                        "Non-exempt": 29,
+                        "Professionals": 136,
+                        "Middle Management": 163,
+                        "Executive Management": 8
+                    },
+                    ">50": {
+                        "Non-exempt": 16,
+                        "Professionals": 19,
+                        "Middle Management": 39,
+                        "Executive Management": 9
+                    }
+                },
+                "By Gender": {
+                    "Male": {
+                        "Non-exempt": 38,
+                        "Professionals": 148,
+                        "Middle Management": 178,
+                        "Executive Management": 16
+                    },
+                    "Female": {
+                        "Non-exempt": 6,
+                        "Professionals": 94,
+                        "Middle Management": 42,
+                        "Executive Management": 1
+                    }
+                }
+            },
+            "2020": {
+                "Headcount": {
+                    "Non-exempt": 53,
+                    "Professionals": 294,
+                    "Middle Management": 253,
+                    "Executive Management": 16
+                },
+                "By Age Group": {
+                    "<30": {
+                        "Non-exempt": 10,
+                        "Professionals": 106,
+                        "Middle Management": 18,
+                        "Executive Management": 0
+                    },
+                    "30-50": {
+                        "Non-exempt": 30,
+                        "Professionals": 159,
+                        "Middle Management": 200,
+                        "Executive Management": 7
+                    },
+                    ">50": {
+                        "Non-exempt": 13,
+                        "Professionals": 29,
+                        "Middle Management": 35,
+                        "Executive Management": 9
+                    }
+                },
+                "By Gender": {
+                    "Male": {
+                        "Non-exempt": 44,
+                        "Professionals": 174,
+                        "Middle Management": 199,
+                        "Executive Management": 15
+                    },
+                    "Female": {
+                        "Non-exempt": 9,
+                        "Professionals": 120,
+                        "Middle Management": 54,
+                        "Executive Management": 1
+                    }
+                }
+            },
+            "2021": {
+                "Headcount": {
+                    "Non-exempt": 44,
+                    "Professionals": 349,
+                    "Middle Management": 283,
+                    "Executive Management": 16
+                },
+                "By Age Group": {
+                    "<30": {
+                        "Non-exempt": 6,
+                        "Professionals": 99,
+                        "Middle Management": 13,
+                        "Executive Management": 0
+                    },
+                    "30-50": {
+                        "Non-exempt": 30,
+                        "Professionals": 215,
+                        "Middle Management": 220,
+                        "Executive Management": 9
+                    },
+                    ">50": {
+                        "Non-exempt": 8,
+                        "Professionals": 35,
+                        "Middle Management": 50,
+                        "Executive Management": 7
+                    }
+                },
+                "By Gender": {
+                    "Male": {
+                        "Non-exempt": 37,
+                        "Professionals": 209,
+                        "Middle Management": 222,
+                        "Executive Management": 14
+                    },
+                    "Female": {
+                        "Non-exempt": 7,
+                        "Professionals": 140,
+                        "Middle Management": 61,
+                        "Executive Management": 2
+                    }
+                }
+            },
+            "2022": {
+                "Headcount": {
+                    "Non-exempt": 43,
+                    "Professionals": 422,
+                    "Middle Management": 344,
+                    "Executive Management": 18
+                },
+                "By Age Group": {
+                    "<30": {
+                        "Non-exempt": 3,
+                        "Professionals": 109,
+                        "Middle Management": 7,
+                        "Executive Management": 0
+                    },
+                    "30-50": {
+                        "Non-exempt": 31,
+                        "Professionals": 261,
+                        "Middle Management": 264,
+                        "Executive Management": 8
+                    },
+                    ">50": {
+                        "Non-exempt": 9,
+                        "Professionals": 52,
+                        "Middle Management": 73,
+                        "Executive Management": 10
+                    }
+                },
+                "By Gender": {
+                    "Male": {
+                        "Non-exempt": 37,
+                        "Professionals": 245,
+                        "Middle Management": 268,
+                        "Executive Management": 16
+                    },
+                    "Female": {
+                        "Non-exempt": 6,
+                        "Professionals": 177,
+                        "Middle Management": 76,
+                        "Executive Management": 2
+                    }
+                }
+            }
+        }
+    },
+    {
+        "page_80.png": {
+            "Core Business": {
+                "Total capacity of Operating, Construction, and Contracted assets (MWp)": {
+                    "2019": 3039,
+                    "2020": 4177,
+                    "2021": 4706,
+                    "2022": 5896
+                },
+                "Total clean energy generation (MWh)": {
+                    "2019": 5149582,
+                    "2020": 6689535,
+                    "2021": 7667079,
+                    "2022": 10500137
+                },
+                "GHG Emissions avoided (CO₂ Tonnes)": {
+                    "2019": 3775930,
+                    "2020": 4898866,
+                    "2021": 5611784,
+                    "2022": 6913826
+                },
+                "Number of households powered": {
+                    "2019": 2854109,
+                    "2020": 3666477,
+                    "2021": 3524739,
+                    "2022": 5899388
+                },
+                "Megalitres of water saved": {
+                    "2019": 4865,
+                    "2020": 5419,
+                    "2021": 6160,
+                    "2022": 8841
+                },
+                "Equivalent cars removed from the road": {
+                    "2019": 815536,
+                    "2020": 1058070,
+                    "2021": 1219953,
+                    "2022": 1503006
+                },
+                "Equivalent trees planted": {
+                    "2019": 62932166,
+                    "2020": 81647769,
+                    "2021": 93529733,
+                    "2022": 115230441
+                }
+            },
+            "Resource Management": {
+                "Emissions (CO₂ Tonnes)": {
+                    "Scope 1": {
+                        "2021": 850,
+                        "2022": 720
+                    },
+                    "Scope 2": {
+                        "2020": 6077,
+                        "2021": 12715,
+                        "2022": 24870
+                    },
+                    "Scope 3": {
+                        "2021": 596509,
+                        "2022": 495206
+                    }
+                },
+                "Water Usage (m³)": {
+                    "2021": 62311,
+                    "2022": 59139
+                },
+                "Non-Hazardous Waste (MT)": {
+                    "2021": 18822,
+                    "2022": 3731
+                },
+                "Hazardous Waste (MT)": {
+                    "2021": 25,
+                    "2022": 11
+                }
+            },
+            "Other": {
+                "Air/Water Permit Exceedances": {
+                    "2021": "None",
+                    "2022": "None"
+                },
+                "Spills Incidents": {
+                    "2021": "None",
+                    "2022": "None"
+                },
+                "Fines Paid": {
+                    "2021": "None",
+                    "2022": "None"
+                }
+            }
+        }
+    },
+    {
+        "page_81.png": {
+            "Social Indicators": {
+                "Employees": {
+                    "Total average training hours per employee": {
+                        "2021": 36,
+                        "2022": 47
+                    },
+                    "% of employee participation in development & job qualification training": {
+                        "2021": 100,
+                        "2022": 100
+                    },
+                    "% Performance appraisal completed": {
+                        "2020": 100,
+                        "2021": 100,
+                        "2022": 100
+                    },
+                    "% of staff returned after parental leave": {
+                        "2020": 90,
+                        "2021": 96,
+                        "2022": 90
+                    }
+                },
+                "Occupational Health & Safety": {
+                    "Total health & safety training hours (Formal & Informal)": {
+                        "2020": 74276,
+                        "2021": 140911,
+                        "2022": 163660
+                    },
+                    "Total training hours as a % of total manhours worked": {
+                        "2020": 1.5,
+                        "2021": 1.9,
+                        "2022": 2.0
+                    },
+                    "# of employees recognised through safety reward program": {
+                        "2020": 55,
+                        "2021": 133,
+                        "2022": 106
+                    },
+                    "Total number of audits, site inspections and safety walks": {
+                        "2021": 4400,
+                        "2022": 4875
+                    },
+                    "# First Aid Cases": {
+                        "2019": 23,
+                        "2020": 25,
+                        "2021": 32,
+                        "2022": 36
+                    },
+                    "First Aid Cases Rate": {
+                        "2019": 1.1,
+                        "2020": 1.02,
+                        "2021": 0.87,
+                        "2022": 0.9
+                    },
+                    "# Recordable Cases": {
+                        "2019": 7,
+                        "2020": 7,
+                        "2021": 12,
+                        "2022": 12
+                    },
+                    "Recordable Rate": {
+                        "2019": 0.33,
+                        "2020": 0.28,
+                        "2021": 0.33,
+                        "2022": 0.3
+                    },
+                    "# Lost Time Cases": {
+                        "2019": 1,
+                        "2020": 3,
+                        "2021": 6,
+                        "2022": 6
+                    },
+                    "Lost Time Injury Rate": {
+                        "2019": 0.05,
+                        "2020": 0.12,
+                        "2021": 0.16,
+                        "2022": 0.15
+                    }
+                },
+                "Community Impact": {
+                    "Peak number of on-site workers during construction": {
+                        "2020": 1496,
+                        "2021": 4396,
+                        "2022": 5628
+                    },
+                    "Number of CSR activities conducted": {
+                        "2020": 118,
+                        "2021": 160,
+                        "2022": 191
+                    },
+                    "Number of hours contributed": {
+                        "2020": 2981,
+                        "2021": 3324,
+                        "2022": 4940
+                    },
+                    "Number of beneficiaries supported": {
+                        "2020": 107184,
+                        "2021": 87382,
+                        "2022": 233100
+                    },
+                    "Amount of $ spent on CSR initiatives (in '000 USD)": {
+                        "2020": 674,
+                        "2021": 1020,
+                        "2022": 1677049
+                    }
+                }
+            },
+            "Governance Indicators": {
+                "Board of Directors": {
+                    "Number of Directors": {
+                        "2020": 6,
+                        "2021": 6,
+                        "2022": 5
+                    },
+                    "Number of nationalities represented on the Board of Directors": {
+                        "2020": 4,
+                        "2021": 4,
+                        "2022": 4
+                    },
+                    "Number of Board Meetings": {
+                        "2020": 4,
+                        "2021": 4,
+                        "2022": 4
+                    }
+                },
+                "Anti-Corruption": {
+                    "Material fines or sanctions for non-compliance with laws or regulations": {
+                        "2020": 0,
+                        "2021": 0,
+                        "2022": 0
+                    },
+                    "% of employees participated in compliance training": {
+                        "2020": 100,
+                        "2021": 98,
+                        "2022": 99
+                    },
+                    "% of reported incidences addressed": {
+                        "2020": 100,
+                        "2021": 98,
+                        "2022": 100
+                    },
+                    "# of times whistle blower hotline was utilised": {
+                        "2020": 5,
+                        "2021": 7,
+                        "2022": 26
+                    }
+                },
+                "Whistle-blower": {
+                    "% of whistle blower hotline issues addressed and closed": {
+                        "2020": 100,
+                        "2021": 100,
+                        "2022": 100
+                    }
+                },
+                "Preserving Human Rights": {
+                    "Identified human rights abuses": {
+                        "2020": 0,
+                        "2021": 0,
+                        "2022": 0
+                    }
+                }
+            }
+        }
+    },
+    {
+        "page_82.png": {
+            "2022": {
+                "projects_added": 10,
+                "renewable_generation_capacity_MW": 562,
+                "local_jobs_created": 5628,
+                "net_hiring": 135,
+                "total_employee_headcount": 827
+            },
+            "operational_capacity_GW": 2.7,
+            "energy_generation_TWh": 3.7
+        }
+    },
+    {
+        "page_83.png": {
+            "Climate Action": {
+                "GHG_emissions_avoided": 6900000,
+                "carbon_intensity_reduction_target": 60,
+                "carbon_neutral_target_year": 2050,
+                "surveyed_suppliers": 20
+            },
+            "Good Health and Well-being": {
+                "CSR_activities_countries": [
+                    "South Korea",
+                    "India"
+                ]
+            },
+            "Quality Education": {
+                "average_training_hours_per_employee": 47
+            },
+            "Gender Equality": {
+                "VENUS_program_expansion": "Japan"
+            }
+        }
+    },
+    {
+        "page_84.png": {
+            "2.4": {
+                "description": "Commitment to responsible and sustainable development, environmental protection, and biodiversity conservation.",
+                "projects": [
+                    "Tailem Bend 2 Solar and Storage project",
+                    "tree-planting activities in Korea, India, Indonesia, and Singapore"
+                ]
+            },
+            "4.3": {
+                "description": "Vena Energy's commitment to high standards of integrity and anti-corruption.",
+                "year": 2022,
+                "initiatives": [
+                    "launch of Vena Energy’s corporate feedback channel",
+                    "introduction of the Supplier Code of Conduct"
+                ]
+            }
+        }
+    },
+    {
+        "page_85.png": {
+            "Human Rights": {
+                "Principle 1": "Support and respect the protection of internationally proclaimed human rights",
+                "Principle 2": "Ensure non-complicity in human rights abuses",
+                "Sections": [
+                    "1.1 About Vena Energy",
+                    "1.4 Our Approach to Sustainability",
+                    "3.1 Our People",
+                    "4.3.1 Code of Conduct",
+                    "4.3.5 Preserving Human Rights"
+                ]
+            },
+            "Labour": {
+                "Principle 3": "Uphold the freedom of association and the effective recognition of the right to collective bargaining",
+                "Principle 4": "Eliminate all forms of forced and compulsory labour",
+                "Principle 5": "Eliminate child labour",
+                "Principle 6": "Eliminate discrimination in respect of employment and occupation",
+                "Sections": [
+                    "1.1 About Vena Energy",
+                    "1.4 Our Approach to Sustainability",
+                    "3.1 Our People",
+                    "3.1.1 Diversity and Inclusion",
+                    "4.3.1 Code of Conduct",
+                    "4.3.5 Preserving Human Rights"
+                ]
+            },
+            "Environment": {
+                "Principle 7": "Support a precautionary approach to environmental challenges",
+                "Principle 8": "Undertake initiatives to promote greater environmental responsibility",
+                "Principle 9": "Encourage the development and diffusion of environmentally friendly technologies",
+                "Sections": [
+                    "1.1 About Vena Energy",
+                    "1.4 Our Approach to Sustainability",
+                    "2.1 Climate Opportunity and Strategy",
+                    "2.2 Physical Climate Risk and Management",
+                    "2.3 Climate Action & Emissions",
+                    "2.4 Environmental and Social Impact Management",
+                    "2.5 Resource Management",
+                    "4.3.1 Code of Conduct"
+                ]
+            },
+            "Anti-Corruption": {
+                "Principle 10": "Work against corruption in all its forms, including extortion and bribery",
+                "Sections": [
+                    "1.1 About Vena Energy",
+                    "1.4 Our Approach to Sustainability",
+                    "4.3.1 Code of Conduct",
+                    "4.3.2 Anti-Corruption"
+                ]
+            }
+        }
+    },
+    {
+        "page_86.png": {
+            "reporting_period": {
+                "start_date": "1st Jan 2022",
+                "end_date": "31st Dec 2022"
+            },
+            "gri_standard": "GRI 2: General Disclosures 2021",
+            "disclosures": {
+                "organization_and_reporting_practices": {
+                    "2-1": "Section 1.1",
+                    "2-4": "Section 2.3.2",
+                    "2-5": "Section 6.1"
+                },
+                "activities_and_workers": {
+                    "2-6": [
+                        "Section 1.1",
+                        "Section 1.2",
+                        "Section 1.3"
+                    ],
+                    "2-7": [
+                        "Section 3.1",
+                        "Section 6.2"
+                    ],
+                    "2-8": "Section 6.2"
+                },
+                "governance": {
+                    "2-9": [
+                        "Section 4.1",
+                        "Section 4.2"
+                    ],
+                    "2-11": [
+                        "Section 4.1",
+                        "Section 4.2"
+                    ],
+                    "2-12": [
+                        "Section 4.1",
+                        "Section 4.2"
+                    ],
+                    "2-13": "Section 4.2",
+                    "2-14": "Section 4.2",
+                    "2-16": "Section 4.2"
+                }
+            },
+            "page_number": 86
+        }
+    },
+    {
+        "page_87.png": {
+            "Disclosure_2-20": "Process to determine remuneration",
+            "Disclosure_2-21": "Annual total compensation ratio",
+            "Disclosure_2-22": "Statement on sustainable development strategy",
+            "Disclosure_2-23": "Policy commitments",
+            "Disclosure_2-24": "Embedding policy commitments",
+            "Disclosure_2-25": "Processes to remediate negative impacts",
+            "Disclosure_2-26": "Mechanisms for seeking advice and raising concerns",
+            "Disclosure_2-27": "Compliance with laws and regulations",
+            "Disclosure_2-28": "Membership associations",
+            "Disclosure_2-29": "Approach to stakeholder engagement",
+            "Disclosure_2-30": "Collective bargaining agreements",
+            "Disclosure_3-1": "Process to determine material topics",
+            "Disclosure_3-2": "List of material topics"
+        }
+    },
+    {
+        "page_88.png": {
+            "GRI_3_Material_Topics_2021": {
+                "Disclosure_3-3": "Management of Material Topics"
+            },
+            "GRI_201_Economic_Performance_2016": {
+                "Disclosure_201-1": "Direct economic value generated and distributed",
+                "Disclosure_201-2": "Financial implications and other risks and opportunities due to climate change",
+                "Disclosure_201-3": "Defined benefit plan obligations and other retirement plans",
+                "Disclosure_201-4": "Financial assistance received from government"
+            },
+            "GRI_305_Emissions_2016": {
+                "Disclosure_305-1": "Direct (Scope 1) GHG emissions",
+                "Disclosure_305-2": "Energy indirect (Scope 2) GHG emissions",
+                "Disclosure_305-3": "Other indirect (Scope 3) GHG emissions",
+                "Disclosure_305-4": "GHG emissions intensity",
+                "Disclosure_305-5": "Reduction of GHG emissions"
+            },
+            "GRI_302_Energy_2016": {
+                "Disclosure_302-1": "Energy consumption within the organization"
+            },
+            "GRI_303_Water_and_Effluents_2018": {
+                "Disclosure_303-1": "Interactions with water as a shared resource",
+                "Disclosure_303-5": "Water consumption"
+            },
+            "GRI_304_Biodiversity_2016": {
+                "Disclosure_304-2": "Significant impacts of activities, products and services on biodiversity",
+                "Disclosure_304-3": "Habitats protected or restored"
+            },
+            "GRI_306_Waste_2020": {
+                "Disclosure_306-1": "Waste generation and significant waste-related impacts",
+                "Disclosure_306-2": "Management of significant waste-related impacts",
+                "Disclosure_306-3": "Waste generated"
+            }
+        }
+    },
+    {
+        "page_89.png": {
+            "GRI_3_Material_Topics_2021": {
+                "Disclosure_3-3": {
+                    "Sections": [
+                        "3.1 Our People",
+                        "3.3 Our Community"
+                    ]
+                }
+            },
+            "GRI_401_Employment_2016": {
+                "Disclosure_401-1": {
+                    "Sections": [
+                        "3.1 Our People",
+                        "6.2 Employee Information"
+                    ]
+                },
+                "Disclosure_401-2": {
+                    "Sections": [
+                        "3.1.2 Talent Development",
+                        "3.1.3 Employee Engagement",
+                        "3.1.5 Employee Retention",
+                        "3.1.6 Benefits"
+                    ]
+                },
+                "Disclosure_401-3": {
+                    "Sections": [
+                        "3.1.6 Benefits"
+                    ]
+                }
+            },
+            "GRI_404_Training_and_Education_2016": {
+                "Disclosure_404-1": {
+                    "Sections": [
+                        "3.1.2 Talent Development",
+                        "3.1.4 Spotlight: Lead Programme, Developing Future Leaders"
+                    ]
+                },
+                "Disclosure_404-2": {
+                    "Sections": [
+                        "3.1.2 Talent Development",
+                        "3.1.4 Spotlight: Lead Programme, Developing Future Leaders",
+                        "3.1.5 Employee Retention"
+                    ]
+                },
+                "Disclosure_404-3": {
+                    "Sections": [
+                        "3.1.4 Performance Evaluation & Development",
+                        "3.1.5 Employee Retention"
+                    ]
+                }
+            },
+            "GRI_405_Diversity_and_Equal_Opportunity_2016": {
+                "Disclosure_405-1": {
+                    "Sections": [
+                        "3.1.1 Diversity & Inclusion",
+                        "4.1 Board of Directors"
+                    ]
+                }
+            },
+            "GRI_203_Indirect_Economic_Impacts_2016": {
+                "Disclosure_203-1": {
+                    "Sections": [
+                        "1.2 2022 Highlights",
+                        "1.3.6 Operational, Construction & Contracted Portfolio",
+                        "3.3.2 Corporate Social Responsibility"
+                    ]
+                },
+                "Disclosure_203-2": {
+                    "Sections": [
+                        "3.3.1 Empowering Communities"
+                    ]
+                }
+            },
+            "GRI_413_Local_Communities_2016": {
+                "Disclosure_413-1": {
+                    "Sections": [
+                        "3.3.2 Corporate Social Responsibility"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "page_90.png": {
+            "Occupational Health & Safety": {
+                "GRI 3: Material Topics 2021": {
+                    "Disclosure 3-3": {
+                        "Section": "3.2 Occupational Health and Safety"
+                    }
+                },
+                "GRI 403: Occupational Health and Safety 2018": {
+                    "Disclosure 403-1": {
+                        "Section": "3.2 Occupational Health and Safety"
+                    },
+                    "Disclosure 403-2": {
+                        "Section": "3.3.2 Risk Management"
+                    },
+                    "Disclosure 403-4": {
+                        "Section": "3.2.1 Safety Initiatives"
+                    },
+                    "Disclosure 403-5": {
+                        "Section": "3.2 Occupational Health and Safety"
+                    },
+                    "Disclosure 403-6": {
+                        "Section": [
+                            "3.1.3 Employee Engagement",
+                            "3.2.1 Safety Initiatives"
+                        ]
+                    },
+                    "Disclosure 403-7": {
+                        "Section": [
+                            "3.2.1 Safety Initiatives",
+                            "3.3.2 Risk Management"
+                        ]
+                    },
+                    "Disclosure 403-8": {
+                        "Section": [
+                            "3.2.1 Safety Initiatives",
+                            "3.3.2 Risk Management",
+                            "3.2.3 Our OHS Performance"
+                        ]
+                    },
+                    "Disclosure 403-9": {
+                        "Section": "3.2.3 Our OHS Performance"
+                    }
+                }
+            },
+            "Business Ethics & Integrity, Sustainable Supply Chain Management, Sustainability Governance": {
+                "GRI 205: Anti-corruption 2016": {
+                    "Disclosure 205-2": {
+                        "Section": "4.3.2 Anti-Corruption"
+                    },
+                    "Disclosure 205-3": {
+                        "Section": "4.3.2 Anti-Corruption"
+                    }
+                },
+                "GRI 415: Public Policy 2016": {
+                    "Disclosure 415-1": {
+                        "Section": "Not applicable: This is not allowed under our Code of Conduct"
+                    }
+                }
+            },
+            "Page": 90
+        }
+    },
+    {
+        "page_91.png": {
+            "Reference_Section": {
+                "Board_Committees": "4.2.1",
+                "Climate_Opportunity_and_Strategy": "2.1",
+                "Physical_Climate_Risk_and_Management": "2.2",
+                "Our_Sustainability_Impact": "2.3.1",
+                "Our_Greenhouse_Gas_Emissions": "2.3.2",
+                "Climate_Actions": "2.3.3"
+            },
+            "Metrics_and_Targets": {
+                "Units_for_sustainability_impact": [
+                    "GHG emissions avoided",
+                    "Number of households powered",
+                    "Amount of water saved",
+                    "Number of trees planted",
+                    "Number of vehicles taken off the road"
+                ]
+            },
+            "Year": 2021
+        }
+    },
+    {
+        "page_92.png": {
+            "page_number": 92,
+            "section": 6.8
+        }
+    },
+    {
+        "page_93.png": {
+            "Singapore": {
+                "Phone": "+65 6950 0530",
+                "Address": "1 George Street #14-07, One George Street, Singapore 049145"
+            },
+            "New Delhi, India": {
+                "Phone": "+91 1149 131500",
+                "Address": "Office 201, 2nd floor, East Wing, Worldmark 1 Asset 11, Aerocity, NH-8, New Delhi 110037 India"
+            },
+            "Jakarta, Indonesia": {
+                "Phone": "+62 21 5084 7830",
+                "Address": "Pacific Century Place 36th Fl SCBD Lot 10, Jl Jend. Sudirman Kav 52-53, South Jakarta 12190 Indonesia"
+            },
+            "Manila, Philippines": {
+                "Phone": "+632 8683 4444",
+                "Address": "21F Tower 6789 Ayala Avenue, Makati City, Metro Manila, Philippines"
+            },
+            "Taipei, Taiwan": {
+                "Phone": "+886 2 8789 6898",
+                "Address": "Level 20 (A-1) No. 68, Sec 5 ZhongXiao E. Rd, XinYi Dist, Taipei"
+            },
+            "Brisbane, Australia": {
+                "Phone": "+61 7 3708 1420",
+                "Address": "Suite 2, Level 10, 200 Mary Street, Brisbane QLD 4000 Australia"
+            },
+            "Bangalore, India": {
+                "Phone": "+91 80 6645 4000",
+                "Address": "1st Floor, Embassy Icon Annexe, 2/1 Infantry Road, Bangalore 560001 India"
+            },
+            "Tokyo, Japan": {
+                "Phone": "+81 3 6452 9777",
+                "Address": "Okura Prestige Tower 17F, 2-10-4 Toranomon, Minato-ku, Tokyo 105-0001 Japan"
+            },
+            "Seoul, South Korea": {
+                "Phone": "+82 2 6941 1610",
+                "Address": "17F, Tower 1, Gran Seoul 33 Jong-ro, Jongno-gu Seoul, 03159, South Korea"
+            },
+            "Bangkok, Thailand": {
+                "Phone": "+66 2 654 3771",
+                "Address": "87/2 CRC Tower, All Seasons Place 9th Floor, Unit 4-5 Wireless Road Lumpini, Pathumwan, Bangkok, Thailand 10330"
+            }
+        }
+    },
+    {
+        "page_94.png": {}
+    }
+]
