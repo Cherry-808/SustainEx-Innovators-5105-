@@ -1,0 +1,897 @@
+﻿,index_name,index_value,Company Report Name,Year,Predicted_label,Score
+0,GHG_Emissions.absolute_reduction,33,ST-Engineering-Sustainability-Report,2020,Greenhouse Gas Emissions(“GHG”),7
+1,GHG_Emissions.intensity_reduction,44,ST-Engineering-Sustainability-Report,2020,Greenhouse Gas Emissions(“GHG”),7
+2,Anti_Bribery_Corruption_Training.trained_staff_percentage,98,ST-Engineering-Sustainability-Report,2020,Development & Training,9
+3,Anti_Bribery_Corruption_Training.trained_staff_count,12810,ST-Engineering-Sustainability-Report,2020,Development & Training,6
+4,png.value_added_per_employment_cost,1.54,ST-Engineering-Sustainability-Report,2020,Economic Performance,7
+5,absolute_GHG_emissions_reduction.percentage,33,ST-Engineering-Sustainability-Report,2020,Greenhouse Gas Emissions(“GHG”),7
+6,GHG_emissions_intensity_reduction.percentage,44,ST-Engineering-Sustainability-Report,2020,Greenhouse Gas Emissions(“GHG”),7
+7,reduction_target.percentage,36,ST-Engineering-Sustainability-Report,2020,Greenhouse Gas Emissions(“GHG”),4
+8,GHG_emissions_reduction.tonnes_CO2e,3610,ST-Engineering-Sustainability-Report,2020,Greenhouse Gas Emissions(“GHG”),4
+9,water_consumption_intensity_increase.percentage,4.4,ST-Engineering-Sustainability-Report,2020,Water Consumption,5
+10,material_and_waste_recycled.percentage,54,ST-Engineering-Sustainability-Report,2020,Waste Generation,6
+11,material_and_waste_recycled.total_tonnes,11700,ST-Engineering-Sustainability-Report,2020,Waste Generation,7
+12,2018.Water_Consumption,664,ST-Engineering-Sustainability-Report,2020,Water Consumption,7
+13,2019.Water_Consumption,656,ST-Engineering-Sustainability-Report,2020,Water Consumption,7
+14,2020.Water_Consumption,717,ST-Engineering-Sustainability-Report,2020,Water Consumption,7
+15,Waste_Recycled_SGP.Waste_Oil,45.3,ST-Engineering-Sustainability-Report,2020,Waste Generation,6
+16,Waste_Recycled_SGP.Metal,34.1,ST-Engineering-Sustainability-Report,2020,Waste Generation,7
+17,Waste_Recycled_SGP.Wood_Crates_Pallets,15.2,ST-Engineering-Sustainability-Report,2020,Waste Generation,7
+18,Waste_Recycled_SGP.Tyres,2.4,ST-Engineering-Sustainability-Report,2020,Waste Generation,4
+19,Waste_Recycled_SGP.Paper_Carton,1.8,ST-Engineering-Sustainability-Report,2020,Waste Generation,4
+20,Waste_Recycled_SGP.Batteries,0.9,ST-Engineering-Sustainability-Report,2020,Waste Generation,8
+21,Waste_Recycled_SGP.Electronic_Waste,0.3,ST-Engineering-Sustainability-Report,2020,Waste Generation,8
+22,Reducing_Engine_Test_Cell_Fuel_Consumption.Fuel_Consumption_Reduction,20,ST-Engineering-Sustainability-Report,2020,Energy Consumption(GJ),7
+23,png.airblast_coolers_energy_reduction,80,ST-Engineering-Sustainability-Report,2020,Energy Consumption(GJ),8
+24,png.economic_contributions,6.7,ST-Engineering-Sustainability-Report,2020,Economic Performance,7
+25,png.EconomicContributions2020,6.7,ST-Engineering-Sustainability-Report,2020,Economic Performance,7
+26,GroupEconomicContribution.EmployeeWagesSalariesBenefits,1941,ST-Engineering-Sustainability-Report,2020,Economic Performance,4
+27,GroupEconomicContribution.DividendsAndInterestPaid,518,ST-Engineering-Sustainability-Report,2020,Economic Performance,4
+28,GroupEconomicContribution.GovtTaxesAndLevies,30,ST-Engineering-Sustainability-Report,2020,Economic Performance,3
+29,GroupEconomicContribution.Total,6669,ST-Engineering-Sustainability-Report,2020,Economic Performance,6
+30,png.2020_trained_employees,300,ST-Engineering-Sustainability-Report,2020,Development & Training,3
+31,png.trained_engineers_technicians,3000,ST-Engineering-Sustainability-Report,2020,Development & Training,7
+32,png.employees_upskill_reskill,5000,ST-Engineering-Sustainability-Report,2020,Development & Training,7
+33,Annual Report.Page,93,ST-Engineering-Sustainability-Report,2020,Alignment with Frameworks And Disclosure Practices,9
+34,Hired Fresh Graduates.Number,157,ST-Engineering-Sustainability-Report,2020,Development & Training,7
+35,Employees_by_Sector_2020.Group_Corporate_Office,5,ST-Engineering-Sustainability-Report,2020,Management Diversity,2
+36,Employees_by_Geography_2020.Singapore,64,ST-Engineering-Sustainability-Report,2020,Board Composition,5
+37,Employees_by_Geography_2020.North_America,22,ST-Engineering-Sustainability-Report,2020,Board Composition,2
+38,Employees.Male,79,ST-Engineering-Sustainability-Report,2020,Management Diversity,9
+39,AverageTrainingPerEmployee.Overall,16.3,ST-Engineering-Sustainability-Report,2020,Development & Training,8
+40,AverageTrainingPerEmployee.Male,17.8,ST-Engineering-Sustainability-Report,2020,Development & Training,7
+41,AverageTrainingPerEmployee.Female,10.9,ST-Engineering-Sustainability-Report,2020,Development & Training,7
+42,PeopleManagers.MaleEmployees,16,ST-Engineering-Sustainability-Report,2020,Management Diversity,7
+43,EmployeesByQualification.DegreeOrEquivalent,39,ST-Engineering-Sustainability-Report,2020,Development & Training,4
+44,EmployeesByQualification.DiplomaOrEquivalent,18,ST-Engineering-Sustainability-Report,2020,Development & Training,3
+45,EmployeesByQualification.OOrALevelsOrEquivalent,18,ST-Engineering-Sustainability-Report,2020,Development & Training,7
+46,EmployeesByQualification.BelowOLevelsOrEquivalent,4,ST-Engineering-Sustainability-Report,2020,Development & Training,8
+47,EmployeesByAge.30AndBelow,14,ST-Engineering-Sustainability-Report,2020,Age-Based Diversity(existing employees by age group),7
+48,EmployeesByAge.40To50,27,ST-Engineering-Sustainability-Report,2020,Age-Based Diversity (existing employees by age group),6
+49,EmployeesByAge.50To60,23,ST-Engineering-Sustainability-Report,2020,Age-Based Diversity(existing employees by age group),6
+50,EmployeesByAge.Above60,10,ST-Engineering-Sustainability-Report,2020,Age-Based Diversity (existing employees by age group),7
+51,2020.AccidentFrequencyRate,0.8,ST-Engineering-Sustainability-Report,2020,Occupational Health & Safety,7
+52,2020.AccidentSeverityRate,17.2,ST-Engineering-Sustainability-Report,2020,Occupational Health & Safety,6
+53,InjuryCauses.FallingFromHeightsAndStruckByObjects,22,ST-Engineering-Sustainability-Report,2020,Occupational Health & Safety,8
+54,2020.NoiseInducedDeafnessCases,0,ST-Engineering-Sustainability-Report,2020,Occupational Health & Safety,8
+55,2020.OccupationalDiseasesOccurrences,0,ST-Engineering-Sustainability-Report,2020,Occupational Health & Safety,10
+56,Occupational_Health_Performance_Indicators.Workplace_Safety_Health_Activities_Organised,70,ST-Engineering-Sustainability-Report,2020,Occupational Health & Safety,7
+57,Occupational_Health_Performance_Indicators.At_Risk_Staff_Respiratory_Protection_Training,100,ST-Engineering-Sustainability-Report,2020,Occupational Health & Safety,8
+58,Occupational_Health_Performance_Indicators.New_Occupational_Diseases_Cases,0,ST-Engineering-Sustainability-Report,2020,Occupational Health & Safety,10
+59,Occupational_Health_Performance_Indicators.New_Advanced_Noise_Induced_Deafness_Cases,0,ST-Engineering-Sustainability-Report,2020,Occupational Health & Safety,10
+60,Occupational_Health_Performance_Indicators.At_Risk_Staff_Audiometric_Examination,100,ST-Engineering-Sustainability-Report,2020,Occupational Health & Safety,9
+61,Breakdown_of_Safety_Incidents.Falls_from_Height,21,ST-Engineering-Sustainability-Report,2020,Occupational Health & Safety,6
+62,Breakdown_of_Safety_Incidents.Struck_by_Objects,21,ST-Engineering-Sustainability-Report,2020,Occupational Health & Safety,4
+63,Breakdown_of_Safety_Incidents.Cuts_Stabbed_by_Objects,17,ST-Engineering-Sustainability-Report,2020,Occupational Health & Safety,4
+64,Breakdown_of_Safety_Incidents.Caught_in_Between,12,ST-Engineering-Sustainability-Report,2020,Occupational Health & Safety,8
+65,Breakdown_of_Safety_Incidents.Slips_Trips_and_Falls,12,ST-Engineering-Sustainability-Report,2020,Occupational Health & Safety,6
+66,Breakdown_of_Safety_Incidents.Machinery_in_Motion,7,ST-Engineering-Sustainability-Report,2020,Occupational Health & Safety,4
+67,Breakdown_of_Safety_Incidents.Burns,5,ST-Engineering-Sustainability-Report,2020,Occupational Health & Safety,6
+68,Breakdown_of_Safety_Incidents.Contact_with_Chemicals,3,ST-Engineering-Sustainability-Report,2020,Occupational Health & Safety,2
+69,Breakdown_of_Safety_Incidents.Fractures,2,ST-Engineering-Sustainability-Report,2020,Occupational Health & Safety,4
+70,ContributionsByType2020.EmployeesTime,0.6,ST-Engineering-Sustainability-Report,2020,Development & Training,6
+71,png.Temasek Foundation Volunteers,200,ST-Engineering-Sustainability-Report,2020,Development & Training,7
+72,png.MSc_students_involved,2,ST-Engineering-Sustainability-Report,2020,Development & Training,3
+73,png.interns_involved,10,ST-Engineering-Sustainability-Report,2020,Development & Training,10
+74,png.apprentices,50,ST-Engineering-Sustainability-Report,2020,Development & Training,5
+75,png.un_sdg,16,ST-Engineering-Sustainability-Report,2020,Development & Training,7
+76,2020.employees_trained_percentage,98,ST-Engineering-Sustainability-Report,2020,Development & Training,7
+77,Anti-Bribery_and_Corruption_Training.2018,7863,ST-Engineering-Sustainability-Report,2020,Development & Training,8
+78,Anti-Bribery_and_Corruption_Training.2019,9106,ST-Engineering-Sustainability-Report,2020,Development & Training,7
+79,Anti-Bribery_and_Corruption_Training.2020,12810,ST-Engineering-Sustainability-Report,2020,Development & Training,8
+80,png.NumberOfBoardCommittees,6,ST-Engineering-Sustainability-Report,2020,Board Composition,8
+81,Board Meetings.2020,5,ST-Engineering-Sustainability-Report,2020,Board Composition,5
+82,meetings_held_FY2020.Board,5,ST-Engineering-Sustainability-Report,2020,Board Composition,3
+83,meetings_held_FY2020.RD&T,2,ST-Engineering-Sustainability-Report,2020,Development & Training,4
+84,meetings_held_FY2020.RSC,5,ST-Engineering-Sustainability-Report,2020,Alignment with Frameworks And Disclosure Practices,5
+85,board_composition.total_directors,11,ST-Engineering-Sustainability-Report,2020,Board Composition,8
+86,board_composition.alternate_director,1,ST-Engineering-Sustainability-Report,2020,Board Composition,5
+87,director_types.independent_non_executive,7,ST-Engineering-Sustainability-Report,2020,Board Composition,7
+88,director_types.non_independent_non_executive,3,ST-Engineering-Sustainability-Report,2020,Board Composition,6
+89,director_types.executive_director_group_president_ceo,1,ST-Engineering-Sustainability-Report,2020,Board Composition,7
+90,board_independence.independent_directors,7,ST-Engineering-Sustainability-Report,2020,Board Composition,7
+91,board_independence.non_executive_directors,10,ST-Engineering-Sustainability-Report,2020,Board Composition,7
+92,png.Retiring_Directors_Info_Pages[0],20,ST-Engineering-Sustainability-Report,2020,Board Composition,9
+93,png.directors_fees_cash_percentage,70,ST-Engineering-Sustainability-Report,2020,Board Composition,7
+94,png.directors_fees_shares_percentage,30,ST-Engineering-Sustainability-Report,2020,Board Composition,3
+95,PrivateSectorFY2020.BoardBasicRetainerFee,75000,ST-Engineering-Sustainability-Report,2020,Board Composition,3
+96,AuditCommittee.Chairman,52000,ST-Engineering-Sustainability-Report,2020,Board Composition,5
+97,AuditCommittee.Member,29000,ST-Engineering-Sustainability-Report,2020,Board Composition,9
+98,ERCC_SFC_RD&T_RSC.Chairman,35000,ST-Engineering-Sustainability-Report,2020,Board Composition,7
+99,OtherCommitteesIncludingNC.Chairman,29000,ST-Engineering-Sustainability-Report,2020,Board Composition,7
+100,PublicSectorNEDFeesFY2020.DeputyChairman_ChairmanExecutiveCommittee_ChairmanAuditCommittee,33750,ST-Engineering-Sustainability-Report,2020,Board Composition,7
+101,PublicSectorNEDFeesFY2020.MemberExecutiveCommittee_MemberAuditCommittee_ChairmanOfOtherBoardCommittees,22500,ST-Engineering-Sustainability-Report,2020,Board Composition,3
+102,AdditionalInformation.NEDsRemunerationFY2019,1724587,ST-Engineering-Sustainability-Report,2020,Board Composition,7
+103,VincentChongSyFeng.Benefits,130015,ST-Engineering-Sustainability-Report,2020,Board Composition,7
+104,NonExecutiveDirectors[0].CashBased,489857,ST-Engineering-Sustainability-Report,2020,Board Composition,7
+105,NonExecutiveDirectors[0].ShareBased,209938,ST-Engineering-Sustainability-Report,2020,Board Composition,3
+106,NonExecutiveDirectors[0].Total,699795,ST-Engineering-Sustainability-Report,2020,Board Composition,7
+107,NonExecutiveDirectors[1].CashBased,4106,ST-Engineering-Sustainability-Report,2020,Board Composition,7
+108,NonExecutiveDirectors[1].Total,4106,ST-Engineering-Sustainability-Report,2020,Board Composition,6
+109,NonExecutiveDirectors[2].CashBased,10497,ST-Engineering-Sustainability-Report,2020,Board Composition,7
+110,NonExecutiveDirectors[2].Total,10497,ST-Engineering-Sustainability-Report,2020,Board Composition,7
+111,NonExecutiveDirectors[3].CashBased,113459,ST-Engineering-Sustainability-Report,2020,Board Composition,7
+112,NonExecutiveDirectors[3].ShareBased,48625,ST-Engineering-Sustainability-Report,2020,Board Composition,7
+113,NonExecutiveDirectors[3].Total,162084,ST-Engineering-Sustainability-Report,2020,Board Composition,8
+114,NonExecutiveDirectors[4].CashBased,132557,ST-Engineering-Sustainability-Report,2020,Board Composition,7
+115,NonExecutiveDirectors[4].ShareBased,56810,ST-Engineering-Sustainability-Report,2020,Board Composition,7
+116,NonExecutiveDirectors[4].Total,189367,ST-Engineering-Sustainability-Report,2020,Board Composition,6
+117,NonExecutiveDirectors[5].CashBased,112268,ST-Engineering-Sustainability-Report,2020,Board Composition,4
+118,NonExecutiveDirectors[5].ShareBased,48115,ST-Engineering-Sustainability-Report,2020,Board Composition,8
+119,NonExecutiveDirectors[5].Total,160383,ST-Engineering-Sustainability-Report,2020,Board Composition,8
+120,NonExecutiveDirectors[6].CashBased,45384,ST-Engineering-Sustainability-Report,2020,Board Composition,7
+121,NonExecutiveDirectors[6].ShareBased,19450,ST-Engineering-Sustainability-Report,2020,Board Composition,3
+122,NonExecutiveDirectors[6].Total,64834,ST-Engineering-Sustainability-Report,2020,Board Composition,7
+123,NonExecutiveDirectors[7].CashBased,10497,ST-Engineering-Sustainability-Report,2020,Board Composition,7
+124,NonExecutiveDirectors[7].Total,10497,ST-Engineering-Sustainability-Report,2020,Board Composition,8
+125,NonExecutiveDirectors[8].CashBased,20994,ST-Engineering-Sustainability-Report,2020,Board Composition,7
+126,NonExecutiveDirectors[8].Total,20994,ST-Engineering-Sustainability-Report,2020,Board Composition,7
+127,NonExecutiveDirectors[9].CashBased,138184,ST-Engineering-Sustainability-Report,2020,Board Composition,7
+128,NonExecutiveDirectors[9].ShareBased,59222,ST-Engineering-Sustainability-Report,2020,Board Composition,3
+129,NonExecutiveDirectors[9].Total,197406,ST-Engineering-Sustainability-Report,2020,Board Composition,5
+130,NonExecutiveDirectors[10].CashBased,112059,ST-Engineering-Sustainability-Report,2020,Board Composition,7
+131,NonExecutiveDirectors[10].ShareBased,48025,ST-Engineering-Sustainability-Report,2020,Board Composition,5
+132,NonExecutiveDirectors[10].Total,160084,ST-Engineering-Sustainability-Report,2020,Board Composition,7
+133,NonExecutiveDirectors[11].CashBased,1189862,ST-Engineering-Sustainability-Report,2020,Board Composition,7
+134,NonExecutiveDirectors[11].ShareBased,490185,ST-Engineering-Sustainability-Report,2020,Board Composition,5
+135,NonExecutiveDirectors[11].Total,1680047,ST-Engineering-Sustainability-Report,2020,Board Composition,8
+136,NonExecutiveDirectors.TotalCashBased,32500,ST-Engineering-Sustainability-Report,2020,Board Composition,4
+137,NonExecutiveDirectors.Total,32500,ST-Engineering-Sustainability-Report,2020,Board Composition,8
+138,RemunerationRanges[3].min,1250000,ST-Engineering-Sustainability-Report,2020,Economic Performance,8
+139,png.fees_paid_external_auditors_2020,4.3,ST-Engineering-Sustainability-Report,2020,Assurance of Sustainability Report,6
+140,Shareholdings_by_Type_2020.Temasek_Holdings,50.8,ST-Engineering-Sustainability-Report,2020,Board Composition,5
+141,Shareholdings_by_Type_2020.Institutional,30.1,ST-Engineering-Sustainability-Report,2020,Board Composition,3
+142,Introduction.About this report,5,Maxeon Solar Technologies,2022,Alignment with Frameworks And Disclosure Practices,7
+143,Environmental.Energy and emissions,19,Maxeon Solar Technologies,2022,Energy Consumption(GJ),7
+144,Environmental.Water management,25,Maxeon Solar Technologies,2022,Water Consumption,6
+145,Environmental.Waste,27,Maxeon Solar Technologies,2022,Waste Generation,6
+146,Social.Occupational health and safety,41,Maxeon Solar Technologies,2022,Occupational Health & Safety,7
+147,Social.Learning and development,50,Maxeon Solar Technologies,2022,Development & Training,6
+148,2020.Joined United Nations Global Compact,True,Maxeon Solar Technologies,2022,Alignment with Frameworks And Disclosure Practices,7
+149,2021.Inaugural Sustainability Report,True,Maxeon Solar Technologies,2022,Alignment with Frameworks And Disclosure Practices,5
+150,2022.Published 2nd Sustainability Report,True,Maxeon Solar Technologies,2022,Alignment with Frameworks And Disclosure Practices,4
+151,Energy Intensity.2020,254,Maxeon Solar Technologies,2022,Energy Consumption(GJ),7
+152,Water Intensity.2020,3874,Maxeon Solar Technologies,2022,Water Consumption,4
+153,Waste Recycling.2020,80,Maxeon Solar Technologies,2022,Waste Generation,7
+154,Waste Recycling.2022 Performance,68,Maxeon Solar Technologies,2022,Waste Generation,7
+155,IncidentsOfCorruption.2020,0,Maxeon Solar Technologies,2022,Ethical Behaviour,10
+156,IncidentsOfCorruption.2022Performance,0,Maxeon Solar Technologies,2022,Ethical Behaviour,10
+157,png.total_emissions,240076.9,Maxeon Solar Technologies,2022,Greenhouse Gas Emissions(“GHG”),3
+158,png.scope_1_emissions,327.9,Maxeon Solar Technologies,2022,Greenhouse Gas Emissions(“GHG”),4
+159,png.scope_2_emissions,239391.1,Maxeon Solar Technologies,2022,Greenhouse Gas Emissions(“GHG”),4
+160,png.scope_3_emissions,357.9,Maxeon Solar Technologies,2022,Greenhouse Gas Emissions(“GHG”),1
+161,reduce_energy_intensity.percentage,10,Maxeon Solar Technologies,2022,Energy Consumption(GJ),5
+162,reduce_emission_intensity.percentage,20,Maxeon Solar Technologies,2022,Greenhouse Gas Emissions(“GHG”),7
+163,png.nitrogen_generation_plant_compressors_optimization_energy_savings_2022,78,Maxeon Solar Technologies,2022,Energy Consumption(GJ),7
+164,png.CDA_supply_pressure_optimization_total_energy_savings,415,Maxeon Solar Technologies,2022,Energy Consumption(GJ),7
+165,png.chemical_dispensing_processes_transition_to_nitrogen_energy_savings,35,Maxeon Solar Technologies,2022,Energy Consumption(GJ),6
+166,png.WWTPs_transition_to_nitrogen_energy_savings,88.7,Maxeon Solar Technologies,2022,Waste Generation,9
+167,png.total_emissions,240076.9,Maxeon Solar Technologies,2022,Greenhouse Gas Emissions(“GHG”),2
+168,png.scope_3_emissions,357.9,Maxeon Solar Technologies,2022,Greenhouse Gas Emissions(“GHG”),4
+169,png.energy_intensity_2022,174.5,Maxeon Solar Technologies,2022,Energy Consumption(GJ),4
+170,png.energy_intensity_reduction_from_2020_baseline,31.3,Maxeon Solar Technologies,2022,Energy Consumption(GJ),6
+171,png.emissions_intensity_reduction_from_2020_baseline,14.8,Maxeon Solar Technologies,2022,Greenhouse Gas Emissions(“GHG”),7
+172,png.emissions_avoidance_2022,16473076,Maxeon Solar Technologies,2022,Greenhouse Gas Emissions(“GHG”),3
+173,water_intensity_reduction_targets.2025,2.5,Maxeon Solar Technologies,2022,Water Consumption,7
+174,water_intensity_reduction_targets.2030,5,Maxeon Solar Technologies,2022,Water Consumption,3
+175,2022.water_withdrawn_m3,4582823.7,Maxeon Solar Technologies,2022,Water Consumption,3
+176,png.water_intensity_m3_per_MW,2601.7,Maxeon Solar Technologies,2022,Water Consumption,5
+177,2025.improvement_percent,2.5,Maxeon Solar Technologies,2022,Economic Performance,7
+178,waste_recycling_increase.2025,5,Maxeon Solar Technologies,2022,Waste Generation,7
+179,waste_recycling_increase.2030,20,Maxeon Solar Technologies,2022,Waste Generation,7
+180,diverted_solid_waste.amount,254,Maxeon Solar Technologies,2022,Waste Generation,4
+181,png.reduction_single_use_bottled_drinks_plastics,50,Maxeon Solar Technologies,2022,Waste Generation,5
+182,png.domestic_waste_collection_malaysia,324,Maxeon Solar Technologies,2022,Waste Generation,4
+183,png.total_waste_produced_2022,14501,Maxeon Solar Technologies,2022,Waste Generation,5
+184,png.hazardous_waste_2022,6597.7,Maxeon Solar Technologies,2022,Waste Generation,9
+185,png.hazardous_waste_percentage,45.5,Maxeon Solar Technologies,2022,Waste Generation,7
+186,png.non_hazardous_waste_percentage,54.5,Maxeon Solar Technologies,2022,Waste Generation,5
+187,png.increase_waste_compared_2020,22.9,Maxeon Solar Technologies,2022,Waste Generation,3
+188,png.waste_diverted_recycling_percentage,67.7,Maxeon Solar Technologies,2022,Waste Generation,7
+189,png.hazardous_waste_recycled_percentage,47.9,Maxeon Solar Technologies,2022,Waste Generation,5
+190,png.non_hazardous_waste_recycled_percentage,84.1,Maxeon Solar Technologies,2022,Waste Generation,8
+191,png.previous_recycling_rate_2020,80,Maxeon Solar Technologies,2022,Waste Generation,8
+192,png.waste_reduction_goal_2025,5,Maxeon Solar Technologies,2022,Waste Generation,6
+193,png.waste_reduction_goal_2030,20,Maxeon Solar Technologies,2022,Waste Generation,7
+194,png.reduction_in_corner_pieces_for_packaging,52,Maxeon Solar Technologies,2022,Waste Generation,7
+195,png.employees_participated,50,Maxeon Solar Technologies,2022,Development & Training,5
+196,Energy Consumption (MWh).2020,276044,Maxeon Solar Technologies,2022,Energy Consumption(GJ),5
+197,Energy Consumption (MWh).2021,240832,Maxeon Solar Technologies,2022,Energy Consumption(GJ),8
+198,Energy Consumption (MWh).2022,370347,Maxeon Solar Technologies,2022,Energy Consumption(GJ),4
+199,Energy Intensity (MWh used per MW produced).2020,254,Maxeon Solar Technologies,2022,Energy Consumption(GJ),7
+200,Energy Intensity (MWh used per MW produced).2021,268,Maxeon Solar Technologies,2022,Energy Consumption(GJ),7
+201,Energy Intensity (MWh used per MW produced).2022,175,Maxeon Solar Technologies,2022,Energy Consumption(GJ),3
+202,Fuel Consumption (MWh).2020,1170,Maxeon Solar Technologies,2022,Energy Consumption(GJ),6
+203,Fuel Consumption (MWh).2021,1795,Maxeon Solar Technologies,2022,Energy Consumption(GJ),7
+204,Fuel Consumption (MWh).2022,1109,Maxeon Solar Technologies,2022,Energy Consumption(GJ),4
+205,LPG Use (MWh).2022,397,Maxeon Solar Technologies,2022,Energy Consumption(GJ),6
+206,"Total Electricity Use (MWh) - Grid, PPA, Onsite.2020",274310,Maxeon Solar Technologies,2022,Energy Consumption(GJ),6
+207,"Total Electricity Use (MWh) - Grid, PPA, Onsite.2021",243440,Maxeon Solar Technologies,2022,Energy Consumption(GJ),7
+208,"Total Electricity Use (MWh) - Grid, PPA, Onsite.2022",305841,Maxeon Solar Technologies,2022,Energy Consumption(GJ),6
+209,Conventional Purchased Electricity – Grid (MWh).2020,266246,Maxeon Solar Technologies,2022,Energy Consumption(GJ),4
+210,Conventional Purchased Electricity – Grid (MWh).2021,238142,Maxeon Solar Technologies,2022,Energy Consumption(GJ),7
+211,Conventional Purchased Electricity – Grid (MWh).2022,292312,Maxeon Solar Technologies,2022,Energy Consumption(GJ),7
+212,Conventional Purchased Electricity – Grid (%).2020,97,Maxeon Solar Technologies,2022,Energy Consumption(GJ),7
+213,Conventional Purchased Electricity – Grid (%).2021,98,Maxeon Solar Technologies,2022,Energy Consumption(GJ),7
+214,Conventional Purchased Electricity – Grid (%).2022,95,Maxeon Solar Technologies,2022,Energy Consumption(GJ),2
+215,Scope 1 Emissions (tCO₂e).2020,399,Maxeon Solar Technologies,2022,Greenhouse Gas Emissions(“GHG”),7
+216,Scope 1 Emissions (tCO₂e).2021,580,Maxeon Solar Technologies,2022,Greenhouse Gas Emissions(“GHG”),3
+217,Scope 1 Emissions (tCO₂e).2022,328,Maxeon Solar Technologies,2022,Greenhouse Gas Emissions(“GHG”),4
+218,Scope 2 Emissions (tCO₂e).2020,173335,Maxeon Solar Technologies,2022,Greenhouse Gas Emissions(“GHG”),7
+219,Scope 2 Emissions (tCO₂e).2021,149282,Maxeon Solar Technologies,2022,Greenhouse Gas Emissions(“GHG”),7
+220,Scope 2 Emissions (tCO₂e).2022,239391,Maxeon Solar Technologies,2022,Greenhouse Gas Emissions(“GHG”),6
+221,Scope 3 Emissions (tCO₂e).2020,328,Maxeon Solar Technologies,2022,Greenhouse Gas Emissions(“GHG”),3
+222,Scope 3 Emissions (tCO₂e).2021,441,Maxeon Solar Technologies,2022,Greenhouse Gas Emissions(“GHG”),2
+223,Scope 3 Emissions (tCO₂e).2022,358,Maxeon Solar Technologies,2022,Greenhouse Gas Emissions(“GHG”),8
+224,Total Emissions (tCO₂e).2020,174062,Maxeon Solar Technologies,2022,Greenhouse Gas Emissions(“GHG”),4
+225,Total Emissions (tCO₂e).2021,150303,Maxeon Solar Technologies,2022,Greenhouse Gas Emissions(“GHG”),5
+226,Total Emissions (tCO₂e).2022,240077,Maxeon Solar Technologies,2022,Greenhouse Gas Emissions(“GHG”),5
+227,GHG Emissions Intensity [tCO₂e used per MW produced].2020,160,Maxeon Solar Technologies,2022,Greenhouse Gas Emissions(“GHG”),7
+228,GHG Emissions Intensity [tCO₂e used per MW produced].2021,167,Maxeon Solar Technologies,2022,Greenhouse Gas Emissions(“GHG”),7
+229,GHG Emissions Intensity [tCO₂e used per MW produced].2022,136,Maxeon Solar Technologies,2022,Greenhouse Gas Emissions(“GHG”),7
+230,Emissions avoided annually (tCO₂e).2020,10147576,Maxeon Solar Technologies,2022,Greenhouse Gas Emissions(“GHG”),8
+231,Emissions avoided annually (tCO₂e).2021,8413603,Maxeon Solar Technologies,2022,Greenhouse Gas Emissions(“GHG”),9
+232,Emissions avoided annually (tCO₂e).2022,16473076,Maxeon Solar Technologies,2022,Greenhouse Gas Emissions(“GHG”),9
+233,Total Water Withdrawn (m³).2020,4203076,Maxeon Solar Technologies,2022,Water Consumption,5
+234,Total Water Withdrawn (m³).2021,3486450,Maxeon Solar Technologies,2022,Water Consumption,4
+235,Total Water Withdrawn (m³).2022,4582824,Maxeon Solar Technologies,2022,Water Consumption,7
+236,Total Water Recycled (m³).2020,6445,Maxeon Solar Technologies,2022,Water Consumption,7
+237,Total Water Recycled (m³).2021,25689,Maxeon Solar Technologies,2022,Water Consumption,7
+238,Total Water Recycled (m³).2022,44110,Maxeon Solar Technologies,2022,Water Consumption,5
+239,Total Water Discharge Volume (m³).2020,4466105,Maxeon Solar Technologies,2022,Water Consumption,6
+240,Total Water Discharge Volume (m³).2021,3689724,Maxeon Solar Technologies,2022,Water Consumption,7
+241,Total Water Discharge Volume (m³).2022,4523336,Maxeon Solar Technologies,2022,Water Consumption,7
+242,Third-party water withdrawn (megalitres).2020,4203,Maxeon Solar Technologies,2022,Water Consumption,7
+243,Third-party water withdrawn (megalitres).2021,3486,Maxeon Solar Technologies,2022,Water Consumption,8
+244,Third-party water withdrawn (megalitres).2022,4583,Maxeon Solar Technologies,2022,Water Consumption,5
+245,Total water discharge to all areas (megalitres).2020,4466,Maxeon Solar Technologies,2022,Water Consumption,4
+246,Total water discharge to all areas (megalitres).2021,3690,Maxeon Solar Technologies,2022,Water Consumption,8
+247,Total water discharge to all areas (megalitres).2022,4523,Maxeon Solar Technologies,2022,Water Consumption,5
+248,Total water discharge to all areas with water stress (megalitres).2020,0,Maxeon Solar Technologies,2022,Water Consumption,5
+249,Total water discharge to all areas with water stress (megalitres).2021,0,Maxeon Solar Technologies,2022,Water Consumption,7
+250,Total water discharge to all areas with water stress (megalitres).2022,0,Maxeon Solar Technologies,2022,Water Consumption,5
+251,Total water consumption from all areas in megalitres.2020,4203,Maxeon Solar Technologies,2022,Water Consumption,5
+252,Total water consumption from all areas in megalitres.2021,3876,Maxeon Solar Technologies,2022,Water Consumption,4
+253,Total water consumption from all areas in megalitres.2022,4583,Maxeon Solar Technologies,2022,Water Consumption,7
+254,Total water consumption from all areas with water stress in megalitres.2020,0,Maxeon Solar Technologies,2022,Water Consumption,5
+255,Total water consumption from all areas with water stress in megalitres.2021,0,Maxeon Solar Technologies,2022,Water Consumption,5
+256,Total water consumption from all areas with water stress in megalitres.2022,0,Maxeon Solar Technologies,2022,Water Consumption,5
+257,Water Intensity [m³ used per MW produced].2020,3874,Maxeon Solar Technologies,2022,Water Consumption,7
+258,Water Intensity [m³ used per MW produced].2021,3876,Maxeon Solar Technologies,2022,Water Consumption,7
+259,Water Intensity [m³ used per MW produced].2022,2602,Maxeon Solar Technologies,2022,Water Consumption,7
+260,2020.Hazardous Waste Generation (tons),6125,Maxeon Solar Technologies,2022,Waste Generation,3
+261,2020.Amount of Hazardous Waste Recycled (tons),4341,Maxeon Solar Technologies,2022,Waste Generation,5
+262,2020.Percentage of Hazardous Waste Recycled (%),71,Maxeon Solar Technologies,2022,Waste Generation,7
+263,2020.Total weight of Hazardous Waste directed to disposal offsite (metric tons),1784,Maxeon Solar Technologies,2022,Waste Generation,4
+264,2020.Non-Hazardous Waste Generation (tons),5678,Maxeon Solar Technologies,2022,Waste Generation,5
+265,2020.Amount of Non-Hazardous Waste Recycled (tons),5108,Maxeon Solar Technologies,2022,Waste Generation,6
+266,2020.Percentage of Non-Hazardous Waste Recycled (%),90,Maxeon Solar Technologies,2022,Waste Generation,9
+267,2021.Hazardous Waste Generation (tons),4285,Maxeon Solar Technologies,2022,Waste Generation,4
+268,2021.Amount of Hazardous Waste Recycled (tons),2448,Maxeon Solar Technologies,2022,Waste Generation,8
+269,2021.Percentage of Hazardous Waste Recycled (%),57,Maxeon Solar Technologies,2022,Waste Generation,6
+270,2021.Total weight of Hazardous Waste directed to disposal offsite (metric tons),1837,Maxeon Solar Technologies,2022,Waste Generation,7
+271,2021.Non-Hazardous Waste Generation (tons),6478,Maxeon Solar Technologies,2022,Waste Generation,4
+272,2021.Amount of Non-Hazardous Waste Recycled (tons),5530,Maxeon Solar Technologies,2022,Waste Generation,8
+273,2021.Percentage of Non-Hazardous Waste Recycled (%),85,Maxeon Solar Technologies,2022,Waste Generation,7
+274,2022.Hazardous Waste Generation (tons),6598,Maxeon Solar Technologies,2022,Waste Generation,7
+275,2022.Amount of Hazardous Waste Recycled (tons),3163,Maxeon Solar Technologies,2022,Waste Generation,8
+276,2022.Percentage of Hazardous Waste Recycled (%),48,Maxeon Solar Technologies,2022,Waste Generation,7
+277,2022.Amount of Hazardous Waste Prepared for other recovery operations (tons),198,Maxeon Solar Technologies,2022,Waste Generation,5
+278,2022.Total weight of Hazardous Waste directed to disposal offsite (metric tons),3435,Maxeon Solar Technologies,2022,Waste Generation,3
+279,2022.Non-Hazardous Waste Generation (tons),7903,Maxeon Solar Technologies,2022,Waste Generation,4
+280,2022.Amount of Non-Hazardous Waste Recycled (tons),6649,Maxeon Solar Technologies,2022,Waste Generation,8
+281,2022.Percentage of Non-Hazardous Waste Recycled (%),84,Maxeon Solar Technologies,2022,Waste Generation,8
+282,NonHazardousWastePreparedForRecoveryOperations.2022,70,Maxeon Solar Technologies,2022,Waste Generation,7
+283,NonHazardousWastePreparedForRecoveryOperationsPercentage.2022,1,Maxeon Solar Technologies,2022,Waste Generation,3
+284,NonHazardousWasteDirectedToDisposalOnsite.2020,0,Maxeon Solar Technologies,2022,Waste Generation,10
+285,NonHazardousWasteDirectedToDisposalOnsite.2021,0,Maxeon Solar Technologies,2022,Waste Generation,10
+286,NonHazardousWasteDirectedToDisposalOnsite.2022,0,Maxeon Solar Technologies,2022,Waste Generation,10
+287,NonHazardousWasteDirectedToDisposalOffsite.2020,570,Maxeon Solar Technologies,2022,Waste Generation,6
+288,NonHazardousWasteDirectedToDisposalOffsite.2021,948,Maxeon Solar Technologies,2022,Waste Generation,4
+289,NonHazardousWasteDirectedToDisposalOffsite.2022,1254,Maxeon Solar Technologies,2022,Waste Generation,4
+290,EndOfLifeWasteTreatmentIncineration.2022,11,Maxeon Solar Technologies,2022,Waste Generation,7
+291,steps[2].step_number,3,Maxeon Solar Technologies,2022,Development & Training,3
+292,Recordable Work-Related Injuries.Total incidents in 2022,16,Maxeon Solar Technologies,2022,Occupational Health & Safety,4
+293,Total Recordable Incident Rate (TRIR).2022 TRIR per million manhours,1.14,Maxeon Solar Technologies,2022,Occupational Health & Safety,7
+294,Targets.TRIR reduction by 2030,10,Maxeon Solar Technologies,2022,Occupational Health & Safety,8
+295,GRI_410-1.Percentage_of_security_personnel_trained,100,Maxeon Solar Technologies,2022,Development & Training,8
+296,GRI_412.Total_hours_of_training,5262,Maxeon Solar Technologies,2022,Development & Training,7
+297,GRI_412.Percentage_of_employees_trained,100,Maxeon Solar Technologies,2022,Development & Training,9
+298,GRI_412.Significant_investment_agreements_with_human_rights_clauses,100,Maxeon Solar Technologies,2022,Alignment with Frameworks And Disclosure Practices,8
+299,2025.Career Conversations Target,70,Maxeon Solar Technologies,2022,Development & Training,7
+300,2030.Career Conversations Target,80,Maxeon Solar Technologies,2022,Development & Training,8
+301,Leadership Development Programme Completion.FY21,95,Maxeon Solar Technologies,2022,Development & Training,9
+302,Leadership Development Programme Completion.FY22,92.6,Maxeon Solar Technologies,2022,Development & Training,9
+303,Career and Development Discussion.FY21,80,Maxeon Solar Technologies,2022,Development & Training,8
+304,Career and Development Discussion.FY22,65,Maxeon Solar Technologies,2022,Development & Training,7
+305,leadership_development_programme_completion.2025,90,Maxeon Solar Technologies,2022,Development & Training,9
+306,leadership_development_programme_completion.2030,95,Maxeon Solar Technologies,2022,Development & Training,8
+307,career_and_development_discussions.2030,80,Maxeon Solar Technologies,2022,Development & Training,8
+308,png.Global_Training_Programs_Review_Cycle,2,Maxeon Solar Technologies,2022,Development & Training,7
+309,png.TimeZonesForDevelopmentSessions,2,Maxeon Solar Technologies,2022,Development & Training,9
+310,Americas.2021,1.66,Maxeon Solar Technologies,2022,Alignment with Frameworks And Disclosure Practices,4
+311,APAC.2020,2.7,Maxeon Solar Technologies,2022,Alignment with Frameworks And Disclosure Practices,7
+312,MY.2020,105.7,Maxeon Solar Technologies,2022,Alignment with Frameworks And Disclosure Practices,4
+313,TotalEmployeesWithLearningRecords.2020,4583,Maxeon Solar Technologies,2022,Development & Training,4
+314,TotalEmployeesWithLearningRecords.2021,3324,Maxeon Solar Technologies,2022,Development & Training,5
+315,TotalEmployeesWithLearningRecords.2022,5340,Maxeon Solar Technologies,2022,Development & Training,7
+316,AverageTrainingHoursPerEmployee.2020,136.5,Maxeon Solar Technologies,2022,Development & Training,7
+317,AverageTrainingHoursPerEmployee.2021,94.19,Maxeon Solar Technologies,2022,Development & Training,7
+318,AverageTrainingHoursPerEmployee.2022,140.57,Maxeon Solar Technologies,2022,Development & Training,7
+319,FY21.Male,2.1,Maxeon Solar Technologies,2022,Development & Training,2
+320,ExecutiveLeadershipTeam.Male,13.6,Maxeon Solar Technologies,2022,Management Diversity,7
+321,ProfessionalsManagers.Male,15.6,Maxeon Solar Technologies,2022,Management Diversity,7
+322,FrameworkForDevelopment.Exposure,20,Maxeon Solar Technologies,2022,Alignment with Frameworks And Disclosure Practices,7
+323,FrameworkForDevelopment.Education,10,Maxeon Solar Technologies,2022,Alignment with Frameworks And Disclosure Practices,8
+324,Malaysia.Permanent employees,1763,Maxeon Solar Technologies,2022,Board Composition,10
+325,long_term_target_volunteering_days.2025,5000,Maxeon Solar Technologies,2022,Development & Training,7
+326,long_term_target_volunteering_days.2030,7500,Maxeon Solar Technologies,2022,Development & Training,7
+327,executive.2020,10,Maxeon Solar Technologies,2022,Alignment with Frameworks And Disclosure Practices,7
+328,non_executive.2021,90,Maxeon Solar Technologies,2022,Board Composition,8
+329,non_executive.2022,90,Maxeon Solar Technologies,2022,Board Composition,9
+330,Male.2022,54,Maxeon Solar Technologies,2022,Management Diversity,5
+331,fatalities.2020,0,Maxeon Solar Technologies,2022,Occupational Health & Safety,10
+332,fatalities.2021,0,Maxeon Solar Technologies,2022,Occupational Health & Safety,10
+333,high_consequence_injuries.2021,0,Maxeon Solar Technologies,2022,Occupational Health & Safety,1
+334,high_consequence_injuries.2022,0,Maxeon Solar Technologies,2022,Occupational Health & Safety,1
+335,recordable_injuries.2020,8,Maxeon Solar Technologies,2022,Occupational Health & Safety,4
+336,recordable_injuries.2021,11,Maxeon Solar Technologies,2022,Occupational Health & Safety,3
+337,recordable_injuries.2022,15,Maxeon Solar Technologies,2022,Occupational Health & Safety,2
+338,recordable_ill_health.2020,0,Maxeon Solar Technologies,2022,Occupational Health & Safety,10
+339,recordable_ill_health.2021,0,Maxeon Solar Technologies,2022,Occupational Health & Safety,10
+340,recordable_ill_health.2022,2,Maxeon Solar Technologies,2022,Occupational Health & Safety,6
+341,fatalities.2021,0,Maxeon Solar Technologies,2022,Occupational Health & Safety,10
+342,high_consequence_injuries.2020,0,Maxeon Solar Technologies,2022,Occupational Health & Safety,10
+343,high_consequence_injuries.2021,0,Maxeon Solar Technologies,2022,Occupational Health & Safety,1
+344,high_consequence_injuries.2022,0,Maxeon Solar Technologies,2022,Occupational Health & Safety,1
+345,recordable_injuries.2020,0.63,Maxeon Solar Technologies,2022,Occupational Health & Safety,7
+346,recordable_injuries.2021,0.81,Maxeon Solar Technologies,2022,Occupational Health & Safety,7
+347,recordable_injuries.2022,1.14,Maxeon Solar Technologies,2022,Occupational Health & Safety,7
+348,employees_covered.2020,4609,Maxeon Solar Technologies,2022,Development & Training,5
+349,employees_covered.2021,4111,Maxeon Solar Technologies,2022,Development & Training,7
+350,employees_covered.2022,5564,Maxeon Solar Technologies,2022,Development & Training,8
+351,audited_or_certified.2021,4111,Maxeon Solar Technologies,2022,Assurance of Sustainability Report,5
+352,audited_or_certified.2022,5564,Maxeon Solar Technologies,2022,Assurance of Sustainability Report,1
+353,fatalities.2020,0,Maxeon Solar Technologies,2022,Occupational Health & Safety,10
+354,high_consequence_injuries.2020,0,Maxeon Solar Technologies,2022,Occupational Health & Safety,10
+355,high_consequence_injuries.2021,0,Maxeon Solar Technologies,2022,Occupational Health & Safety,1
+356,high_consequence_injuries.2022,0,Maxeon Solar Technologies,2022,Occupational Health & Safety,1
+357,recordable_injuries.2020,3,Maxeon Solar Technologies,2022,Occupational Health & Safety,8
+358,recordable_injuries.2021,4,Maxeon Solar Technologies,2022,Occupational Health & Safety,7
+359,recordable_injuries.2022,1,Maxeon Solar Technologies,2022,Occupational Health & Safety,3
+360,recordable_ill_health.2020,0,Maxeon Solar Technologies,2022,Occupational Health & Safety,10
+361,recordable_ill_health.2022,0,Maxeon Solar Technologies,2022,Occupational Health & Safety,10
+362,rate_of_fatalities.2020,0,Maxeon Solar Technologies,2022,Occupational Health & Safety,10
+363,rate_of_fatalities.2022,0,Maxeon Solar Technologies,2022,Occupational Health & Safety,10
+364,rate_of_high_consequence_injuries.2020,0,Maxeon Solar Technologies,2022,Occupational Health & Safety,10
+365,rate_of_high_consequence_injuries.2021,0,Maxeon Solar Technologies,2022,Occupational Health & Safety,10
+366,rate_of_high_consequence_injuries.2022,0,Maxeon Solar Technologies,2022,Occupational Health & Safety,10
+367,rate_of_recordable_injuries.2020,0,Maxeon Solar Technologies,2022,Occupational Health & Safety,10
+368,rate_of_recordable_injuries.2021,0,Maxeon Solar Technologies,2022,Occupational Health & Safety,10
+369,rate_of_recordable_injuries.2022,0.45,Maxeon Solar Technologies,2022,Occupational Health & Safety,6
+370,employees_covered_by_OHS.2020,100,Maxeon Solar Technologies,2022,Occupational Health & Safety,8
+371,employees_covered_by_OHS.2021,100,Maxeon Solar Technologies,2022,Occupational Health & Safety,7
+372,employees_covered_by_OHS.2022,100,Maxeon Solar Technologies,2022,Occupational Health & Safety,7
+373,employees_covered_by_OHS_certified.2020,100,Maxeon Solar Technologies,2022,Occupational Health & Safety,7
+374,employees_covered_by_OHS_certified.2021,100,Maxeon Solar Technologies,2022,Occupational Health & Safety,7
+375,employees_covered_by_OHS_certified.2022,100,Maxeon Solar Technologies,2022,Occupational Health & Safety,8
+376,Board.total_directors,10,Maxeon Solar Technologies,2022,Board Composition,8
+377,Board.shareholder_appointed_directors,6,Maxeon Solar Technologies,2022,Board Composition,8
+378,Board.independent_directors,3,Maxeon Solar Technologies,2022,Board Composition,5
+379,Board.chief_executive_officer,1,Maxeon Solar Technologies,2022,Board Composition,5
+380,GRI_2-9_Governance_structure_and_composition.Independent_directors,3,Maxeon Solar Technologies,2022,Board Composition,7
+381,GRI_2-9_Governance_structure_and_composition.Independent_directors_percentage,30,Maxeon Solar Technologies,2022,Board Composition,4
+382,GRI_2-9_Governance_structure_and_composition.Non_independent_directors,7,Maxeon Solar Technologies,2022,Board Composition,7
+383,GRI_2-9_Governance_structure_and_composition.Non_independent_directors_percentage,70,Maxeon Solar Technologies,2022,Board Composition,7
+384,GRI_2-9_Governance_structure_and_composition.Under_represented_individuals,0,Maxeon Solar Technologies,2022,Board Composition,1
+385,GRI_2-9_Governance_structure_and_composition.Significant_positions_and_commitments,10,Maxeon Solar Technologies,2022,Board Composition,8
+386,GRI_2-9_Governance_structure_and_composition.Significant_positions_and_commitments_percentage,100,Maxeon Solar Technologies,2022,Board Composition,7
+387,Confirmed incidents of corruption and actions taken.2020,0,Maxeon Solar Technologies,2022,Ethical Behaviour,10
+388,Confirmed incidents of corruption and actions taken.2021,0,Maxeon Solar Technologies,2022,Ethical Behaviour,10
+389,Confirmed incidents of corruption and actions taken.2022,0,Maxeon Solar Technologies,2022,Ethical Behaviour,10
+390,Confirmed incidents in which employees were dismissed or disciplined for corruption.2020,0,Maxeon Solar Technologies,2022,Ethical Behaviour,10
+391,Confirmed incidents in which employees were dismissed or disciplined for corruption.2021,0,Maxeon Solar Technologies,2022,Ethical Behaviour,10
+392,Confirmed incidents in which employees were dismissed or disciplined for corruption.2022,0,Maxeon Solar Technologies,2022,Ethical Behaviour,10
+393,Confirmed cases of bribery and actions taken.2020,0,Maxeon Solar Technologies,2022,Ethical Behaviour,10
+394,Confirmed cases of bribery and actions taken.2021,0,Maxeon Solar Technologies,2022,Ethical Behaviour,10
+395,Confirmed cases of bribery and actions taken.2022,0,Maxeon Solar Technologies,2022,Ethical Behaviour,10
+396,Confirmed incidents when contracts with business partners were terminated or not renewed due to violations related to corruption.2020,0,Maxeon Solar Technologies,2022,Ethical Behaviour,10
+397,Confirmed incidents when contracts with business partners were terminated or not renewed due to violations related to corruption.2021,0,Maxeon Solar Technologies,2022,Ethical Behaviour,10
+398,Confirmed incidents when contracts with business partners were terminated or not renewed due to violations related to corruption.2022,0,Maxeon Solar Technologies,2022,Ethical Behaviour,10
+399,Number of public legal cases regarding corruption brought against the organization or its employees during the reporting period.2020,0,Maxeon Solar Technologies,2022,Ethical Behaviour,10
+400,Number of public legal cases regarding corruption brought against the organization or its employees during the reporting period.2021,0,Maxeon Solar Technologies,2022,Ethical Behaviour,10
+401,Number of public legal cases regarding corruption brought against the organization or its employees during the reporting period.2022,0,Maxeon Solar Technologies,2022,Ethical Behaviour,10
+402,Operations assessed for risk related to corruption.Total number of operations,14,Maxeon Solar Technologies,2022,Ethical Behaviour,7
+403,Operations assessed for risk related to corruption.Total operations assessed for risks relating to corruption,14,Maxeon Solar Technologies,2022,Ethical Behaviour,7
+404,Total number of employees in each employee category.Executive leadership,7,Maxeon Solar Technologies,2022,Board Composition,7
+405,Total number of employees in each employee category.Professional/manager,476,Maxeon Solar Technologies,2022,Management Diversity,5
+406,Total number that the organisation’s anti-corruption policies and procedures have been communicated to.Executive leadership,7,Maxeon Solar Technologies,2022,Ethical Behaviour,7
+407,Total number of employees that received training and anti-corruption.Executive leadership,7,Maxeon Solar Technologies,2022,Development & Training,7
+408,Total number of employees that received training and anti-corruption.Professional/manager,476,Maxeon Solar Technologies,2022,Development & Training,7
+409,"Total number of employees that received training and anti-corruption.Technical, production and administrative",4570,Maxeon Solar Technologies,2022,Development & Training,8
+410,GRI 205-2.Total number of business partners that the organisation anti-corruption policies and procedures have been communicated to,5682,Maxeon Solar Technologies,2022,Ethical Behaviour,7
+411,Governance[0].id,10,st-engineering-sustainability-report-,2019,Board Composition,8
+412,People Excellence.Section,6,st-engineering-sustainability-report-,2019,Development & Training,6
+413,Total Workplace Safety & Health.Section,7,st-engineering-sustainability-report-,2019,Occupational Health & Safety,7
+414,GHG Emissions.ReductionPercentage,39,st-engineering-sustainability-report-,2019,Greenhouse Gas Emissions(“GHG”),7
+415,Training & Development.AverageTrainingHoursPerEmployee,28,st-engineering-sustainability-report-,2019,Development & Training,7
+416,Volunteerism.VolunteerManhours,9833,st-engineering-sustainability-report-,2019,Development & Training,8
+417,GreenhouseGasEmissionReduction.achievedReduction,39,st-engineering-sustainability-report-,2019,Greenhouse Gas Emissions(“GHG”),4
+418,GreenhouseGasEmissionReduction.targetReduction,36,st-engineering-sustainability-report-,2019,Greenhouse Gas Emissions(“GHG”),7
+419,EnergyConsumptionAndGHGEmissions.reductionTargetPercentage,15,st-engineering-sustainability-report-,2019,Greenhouse Gas Emissions(“GHG”),4
+420,WaterUsage.achievedReductionPercentage,14,st-engineering-sustainability-report-,2019,Water Consumption,6
+421,2019.value_added_per_employment_cost,1.52,st-engineering-sustainability-report-,2019,Economic Performance,8
+422,2019.value_added_per_employment_cost_2018,1.46,st-engineering-sustainability-report-,2019,Economic Performance,8
+423,2019.manhours_saved_financial_reconciliation_automation,4000,st-engineering-sustainability-report-,2019,Development & Training,6
+424,2019.employees_trained,4000,st-engineering-sustainability-report-,2019,Development & Training,7
+425,Shipping.Sulphur Cap,0.5,st-engineering-sustainability-report-,2019,Greenhouse Gas Emissions(“GHG”),5
+426,2019.economic_contributions,7400000000,st-engineering-sustainability-report-,2019,Economic Performance,7
+427,2019.employees_attended_courses,2500,st-engineering-sustainability-report-,2019,Development & Training,8
+428,certifications.ISO,9001,st-engineering-sustainability-report-,2019,ESG-related Certifications,8
+429,certifications.Safety Integrity Level,3,st-engineering-sustainability-report-,2019,ESG-related Certifications,7
+430,attendance.Safety Critical Systems Development Course,57,st-engineering-sustainability-report-,2019,Development & Training,6
+431,seminars.MINDEF System Safety Seminar,10,st-engineering-sustainability-report-,2019,Development & Training,8
+432,EmployeesByQualification.DegreeOrEquivalent,38,st-engineering-sustainability-report-,2019,Development & Training,4
+433,EmployeesByQualification.TradeCertificates,20,st-engineering-sustainability-report-,2019,Development & Training,3
+434,EmployeesByQualification.'OOrALevelsOrEquivalent,20,st-engineering-sustainability-report-,2019,Development & Training,4
+435,EmployeesByQualification.DiplomaOrEquivalent,19,st-engineering-sustainability-report-,2019,Development & Training,4
+436,EmployeesByAge.Below30,16,st-engineering-sustainability-report-,2019,Age-Based Diversity(existing employees by age group),3
+437,EmployeesByAge.40To50,26,st-engineering-sustainability-report-,2019,Age-Based Diversity(existing employees by age group),4
+438,EmployeesByAge.50To60,23,st-engineering-sustainability-report-,2019,Age-Based Diversity(existing employees by age group),5
+439,EmployeesByAge.Above60,9,st-engineering-sustainability-report-,2019,Age-Based Diversity(existing employees by age group),8
+440,png.AverageTrainingHoursPerEmployee,28.3,st-engineering-sustainability-report-,2019,Development & Training,7
+441,SupervisedWorkers.Male,88,st-engineering-sustainability-report-,2019,Development & Training,5
+442,AverageTrainingHours.Male,30.1,st-engineering-sustainability-report-,2019,Development & Training,8
+443,AverageTrainingHours.Female,21.5,st-engineering-sustainability-report-,2019,Development & Training,7
+444,png.seminar_attendees,130,st-engineering-sustainability-report-,2019,Development & Training,7
+445,png.trained_employees_in_singapore,24,st-engineering-sustainability-report-,2019,Development & Training,4
+446,AccidentCauses.HitOrCaughtBetweenObjects,38,st-engineering-sustainability-report-,2019,Occupational Health & Safety,4
+447,AccidentCauses.FallsFromHeight,15,st-engineering-sustainability-report-,2019,Occupational Health & Safety,7
+448,AccidentCauses.SlipsTripsAndFalls,15,st-engineering-sustainability-report-,2019,Occupational Health & Safety,5
+449,AccidentCauses.Cuts,10,st-engineering-sustainability-report-,2019,Occupational Health & Safety,7
+450,OccupationalHealthPerformanceIndicators.WorkplaceSafetyAndHealthActivitiesOrganized,151,st-engineering-sustainability-report-,2019,Occupational Health & Safety,7
+451,OccupationalHealthPerformanceIndicators.AtRiskStaffRespiratoryProtectionTraining,100,st-engineering-sustainability-report-,2019,Occupational Health & Safety,10
+452,OccupationalHealthPerformanceIndicators.AtRiskStaffAudiometricExamination,100,st-engineering-sustainability-report-,2019,Occupational Health & Safety,7
+453,OccupationalHealthPerformanceIndicators.NewAdvancedNoiseInducedDeafnessCases,0,st-engineering-sustainability-report-,2019,Occupational Health & Safety,10
+454,OccupationalHealthPerformanceIndicators.NewOccupationalDiseaseCasesExcludingNoiseInducedDeafness,0,st-engineering-sustainability-report-,2019,Occupational Health & Safety,10
+455,paper_printing_reduction.percentage,9,st-engineering-sustainability-report-,2019,Waste Generation,4
+456,paper_printing_reduction.to,57.7,st-engineering-sustainability-report-,2019,Waste Generation,7
+457,Charitable Gifts.Donated to President’s Challenge since 2000,7.7,st-engineering-sustainability-report-,2019,Development & Training,8
+458,Our Contributions.Employees’ time,16,st-engineering-sustainability-report-,2019,Development & Training,8
+459,Our Contributions.Management’s time,8,st-engineering-sustainability-report-,2019,Development & Training,8
+460,Issues Addressed.Economic development,33,st-engineering-sustainability-report-,2019,Economic Performance,3
+461,Participation Rate.Singapore employees in SHARE programme,76,st-engineering-sustainability-report-,2019,Development & Training,7
+462,project_silver_screen_beneficiaries.citizens_above_60,45000,st-engineering-sustainability-report-,2019,Age-Based Diversity (existing employees by age group),7
+463,png.internship_positions_for_technical_and_engineering_students_in_2019,1136,st-engineering-sustainability-report-,2019,Development & Training,7
+464,png.students_welcomed_as_interns_at_Assumption_Pathway_School,140,st-engineering-sustainability-report-,2019,Development & Training,7
+465,png.graduate_students_and_interns_benefited_from_projects_at_NTU_and_SUTD_since_2015_and_2016,46,st-engineering-sustainability-report-,2019,Development & Training,5
+466,png.training_courses_organized,2360,st-engineering-sustainability-report-,2019,Development & Training,7
+467,2017.Number of employees trained,3531,st-engineering-sustainability-report-,2019,Development & Training,6
+468,2017.Percentage of employees trained,23,st-engineering-sustainability-report-,2019,Development & Training,7
+469,2018.Number of employees trained,7683,st-engineering-sustainability-report-,2019,Development & Training,8
+470,2018.Percentage of employees trained,52,st-engineering-sustainability-report-,2019,Development & Training,7
+471,2019.Number of employees trained,7794,st-engineering-sustainability-report-,2019,Development & Training,8
+472,2019.Percentage of employees trained,52,st-engineering-sustainability-report-,2019,Development & Training,7
+473,2019.Total number of employees trained,9108,st-engineering-sustainability-report-,2019,Development & Training,7
+474,2019.Percentage of employees trained (total),43,st-engineering-sustainability-report-,2019,Development & Training,7
+475,png.About the Report,1,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,8
+476,png.Assurance & Verification,2,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,5
+477,png.Economic Performance & Productivity,24,ST-Engineering-Sustainability-Report-,2022,Economic Performance,7
+478,png.Total Workplace Safety & Health,58,ST-Engineering-Sustainability-Report-,2022,Occupational Health & Safety,7
+479,png.Ethical Business & Regulatory Compliance,68,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,7
+480,png.United Nations Global Compact (UNGC),78,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,8
+481,png.Sustainability Accounting Standards Board (SASB),78,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,8
+482,png.GHG_Emissions_Reduction,37,ST-Engineering-Sustainability-Report-,2022,Greenhouse Gas Emissions(“GHG”),4
+483,Accident_Rate.RFR,0.4,ST-Engineering-Sustainability-Report-,2022,Occupational Health & Safety,8
+484,Accident_Rate.RSR,23.9,ST-Engineering-Sustainability-Report-,2022,Occupational Health & Safety,2
+485,png.Learning_and_Development_Average_Training_Hours,22.5,ST-Engineering-Sustainability-Report-,2022,Development & Training,6
+486,png.Bribery_and_Corruption_Cases,0,ST-Engineering-Sustainability-Report-,2022,Ethical Behaviour,10
+487,People_Managers.Male_Percentage,15,ST-Engineering-Sustainability-Report-,2022,Management Diversity,2
+488,GHG_Emissions_Target.Reduction_Percentage,50,ST-Engineering-Sustainability-Report-,2022,Greenhouse Gas Emissions(“GHG”),8
+489,materiality_assessment.reviewed_according_to_GRI,2022,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,8
+490,png.UN_SDGs[3],12,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,6
+491,png.UN_SDGs[1],11,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,7
+492,CarbonPriceSGDPerTon.2050[1],160,ST-Engineering-Sustainability-Report-,2022,Greenhouse Gas Emissions(“GHG”),7
+493,intensity_reduction_target.percentage,36,ST-Engineering-Sustainability-Report-,2022,Greenhouse Gas Emissions(“GHG”),8
+494,carbon_emissions_reduction_commitment.percentage,50,ST-Engineering-Sustainability-Report-,2022,Greenhouse Gas Emissions(“GHG”),5
+495,absolute_GHG_emissions_reduction.percentage,37,ST-Engineering-Sustainability-Report-,2022,Greenhouse Gas Emissions(“GHG”),7
+496,Achievements_2022.total_economic_contribution,8747,ST-Engineering-Sustainability-Report-,2022,Economic Performance,6
+497,2023_Goals.planned_productivity_savings_increase,5,ST-Engineering-Sustainability-Report-,2022,Development & Training,7
+498,Group Economic Contribution.Bought-in material and services,5254,ST-Engineering-Sustainability-Report-,2022,Economic Performance,7
+499,"Group Economic Contribution.Employee wages, salaries and benefits",2591,ST-Engineering-Sustainability-Report-,2022,Economic Performance,8
+500,Group Economic Contribution.Dividends and interest paid,823,ST-Engineering-Sustainability-Report-,2022,Economic Performance,8
+501,Group Economic Contribution.Government taxes and levies,79,ST-Engineering-Sustainability-Report-,2022,Economic Performance,7
+502,Group Economic Contribution.Total,8747,ST-Engineering-Sustainability-Report-,2022,Economic Performance,7
+503,GHG_Emissions_Reduction_Target.Reduction_Percentage,50,ST-Engineering-Sustainability-Report-,2022,Greenhouse Gas Emissions(“GHG”),7
+504,png.Waste_Recycling_Rate,75,ST-Engineering-Sustainability-Report-,2022,Waste Generation,7
+505,png.Waste_Recycling_Maintenance_Target,50,ST-Engineering-Sustainability-Report-,2022,Waste Generation,7
+506,Energy Intensity.2022,149,ST-Engineering-Sustainability-Report-,2022,Energy Consumption(GJ),5
+507,GHG Emissions Intensity.2022,12,ST-Engineering-Sustainability-Report-,2022,Greenhouse Gas Emissions(“GHG”),7
+508,GHG Intensity Reduction Target.2014,16,ST-Engineering-Sustainability-Report-,2022,Greenhouse Gas Emissions(“GHG”),8
+509,GHG Intensity Reduction Target.2030,36,ST-Engineering-Sustainability-Report-,2022,Greenhouse Gas Emissions(“GHG”),7
+510,emissions_reduction.amount,80,ST-Engineering-Sustainability-Report-,2022,Greenhouse Gas Emissions(“GHG”),6
+511,water_consumption_intensity_2022.amount,65,ST-Engineering-Sustainability-Report-,2022,Water Consumption,7
+512,water_consumption_decrease_since_2015.percentage,65,ST-Engineering-Sustainability-Report-,2022,Water Consumption,7
+513,water_usage_intensity_target_reduction_2025.percentage,15,ST-Engineering-Sustainability-Report-,2022,Water Consumption,7
+514,water_consumed.2020,717000,ST-Engineering-Sustainability-Report-,2022,Water Consumption,7
+515,water_consumed.2021,638000,ST-Engineering-Sustainability-Report-,2022,Water Consumption,7
+516,water_consumed.2022,588000,ST-Engineering-Sustainability-Report-,2022,Water Consumption,5
+517,WasteRecycledPercentage.BlastingGritAndCement,52,ST-Engineering-Sustainability-Report-,2022,Waste Generation,6
+518,WasteRecycledPercentage.Metal,24,ST-Engineering-Sustainability-Report-,2022,Waste Generation,4
+519,WasteRecycledPercentage.WasteOil,18,ST-Engineering-Sustainability-Report-,2022,Waste Generation,7
+520,WasteRecycledPercentage.Wood,4,ST-Engineering-Sustainability-Report-,2022,Waste Generation,3
+521,WasteRecycledPercentage.Paper,0.6,ST-Engineering-Sustainability-Report-,2022,Waste Generation,6
+522,WasteRecycledPercentage.Plastic,0.5,ST-Engineering-Sustainability-Report-,2022,Waste Generation,2
+523,WasteRecycledPercentage.BatteriesAndEWaste,0.1,ST-Engineering-Sustainability-Report-,2022,Waste Generation,1
+524,WasteRecycledPercentage.Others,0.8,ST-Engineering-Sustainability-Report-,2022,Waste Generation,3
+525,SingaporeOperations2022.TotalWasteGeneratedTonnes,26900,ST-Engineering-Sustainability-Report-,2022,Waste Generation,7
+526,2022.employees_completed_course,11000,ST-Engineering-Sustainability-Report-,2022,Development & Training,7
+527,2022.engineering_seminar_participants,200,ST-Engineering-Sustainability-Report-,2022,Development & Training,7
+528,2022.Average Training per Employee,22.5,ST-Engineering-Sustainability-Report-,2022,Development & Training,8
+529,png.Employees Utilizing Digital Learning,10000,ST-Engineering-Sustainability-Report-,2022,Development & Training,5
+530,ByGender.MaleSupervisedWorkers,17,ST-Engineering-Sustainability-Report-,2022,Management Diversity,6
+531,ByAgeGroup.30AndBelow,26,ST-Engineering-Sustainability-Report-,2022,Development & Training,3
+532,Managers.Male,19,ST-Engineering-Sustainability-Report-,2022,Management Diversity,3
+533,ManagementProfile.MalePeopleManagers,15,ST-Engineering-Sustainability-Report-,2022,Management Diversity,8
+534,ManagementProfile.FemalePeopleManagers,14,ST-Engineering-Sustainability-Report-,2022,Management Diversity,7
+535,ByAgeGroup.30AndBelow,20,ST-Engineering-Sustainability-Report-,2022,Development & Training,6
+536,ByAgeGroup.30To40,16,ST-Engineering-Sustainability-Report-,2022,Age-Based Diversity(existing employees by age group),6
+537,ByAgeGroup.Above60,10,ST-Engineering-Sustainability-Report-,2022,Age-Based Diversity(existing employees by age group),7
+538,ByAgeGroup.30AndBelow,50,ST-Engineering-Sustainability-Report-,2022,Development & Training,7
+539,ByAgeGroup.30To40,24,ST-Engineering-Sustainability-Report-,2022,Age-Based Diversity(existing employees by age group),7
+540,ByAgeGroup.50To60,10,ST-Engineering-Sustainability-Report-,2022,Age-Based Diversity(existing employees by age group),5
+541,TrainingAndDevelopment.TotalTrainingHours,22.5,ST-Engineering-Sustainability-Report-,2022,Development & Training,3
+542,AverageTrainingPerEmployee.Male,24.8,ST-Engineering-Sustainability-Report-,2022,Development & Training,7
+543,AverageTrainingPerEmployee.Female,14.6,ST-Engineering-Sustainability-Report-,2022,Development & Training,7
+544,AverageTrainingPerEmployee.NonExecutive,24.6,ST-Engineering-Sustainability-Report-,2022,Development & Training,4
+545,AverageTrainingPerEmployee.Executive,22.6,ST-Engineering-Sustainability-Report-,2022,Development & Training,7
+546,AverageTrainingPerEmployee.Manager,16.2,ST-Engineering-Sustainability-Report-,2022,Development & Training,7
+547,National WSH Awards 2022.total_awards,10,ST-Engineering-Sustainability-Report-,2022,Occupational Health & Safety,7
+548,RecordableSeverityRate.2020,3.8,ST-Engineering-Sustainability-Report-,2022,Occupational Health & Safety,6
+549,RecordableSeverityRate.2021,4.7,ST-Engineering-Sustainability-Report-,2022,Occupational Health & Safety,6
+550,WorkRelatedInjuries.TotalCases,124,ST-Engineering-Sustainability-Report-,2022,Occupational Health & Safety,4
+551,Types.FallsFromHeight,8,ST-Engineering-Sustainability-Report-,2022,Occupational Health & Safety,7
+552,WorkRelatedIllHealth.TotalCases,2,ST-Engineering-Sustainability-Report-,2022,Occupational Health & Safety,9
+553,2022.students_placed_in_industry_experiential_programme,15,ST-Engineering-Sustainability-Report-,2022,Development & Training,7
+554,2022.duration_of_programme_in_weeks,2,ST-Engineering-Sustainability-Report-,2022,Development & Training,1
+555,sections[1].section_number,2,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,2
+556,GRI_2-8.Sustainability_Report_2022[0],56,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,7
+557,GRI_2-9.Sustainability_Report_2022[1],8,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,7
+558,GRI_2-9.Sustainability_Report_2022[2],9,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,8
+559,GRI_2-12.Sustainability_Report_2022[0],8,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,6
+560,GRI_2-12.Sustainability_Report_2022[1],9,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,7
+561,GRI_2-17.Sustainability_Report_2022[0],68,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,7
+562,GRI_2-23.Sustainability_Report_2022[0],10,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,8
+563,GRI_2-24.Sustainability_Report_2022[1],73,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,7
+564,GRI_2-25.Sustainability_Report_2022[0],54,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,7
+565,GRI_2-27.Sustainability_Report_2022[0],68,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,7
+566,Direct economic value generated and distributed.Page,27,ST-Engineering-Sustainability-Report-,2022,Economic Performance,7
+567,New suppliers that were screened using environmental criteria.Page,34,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,5
+568,Negative environmental impacts in the supply chain and actions taken.Page,34,ST-Engineering-Sustainability-Report-,2022,Waste Generation,7
+569,Energy consumption within the organisation.Page,38,ST-Engineering-Sustainability-Report-,2022,Energy Consumption(GJ),7
+570,GRI 403-2.pages[1],60,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,6
+571,GRI 403-3.pages[1],60,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,6
+572,GRI 403-3.pages[2],61,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,7
+573,GRI 403-6.pages[0],48,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,7
+574,GRI 403-6.pages[1],49,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,7
+575,GRI 403-7.pages[0],58,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,6
+576,GRI 403-7.pages[1],59,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,6
+577,GRI 403-7.pages[2],60,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,6
+578,GRI 403-7.pages[3],61,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,7
+579,GRI 403-8.pages[0],59,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,6
+580,GRI 403-9.pages[0],61,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,7
+581,GRI 3-3 (Corporate Community Contributions).pages[1],63,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,7
+582,GRI 3-3 (Corporate Community Contributions).pages[4],66,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,7
+583,GRI 413-1.pages[1],63,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,6
+584,GRI 413-1.pages[2],64,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,6
+585,GRI 413-1.pages[5],67,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,7
+586,GRI 413-2.pages[1],63,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,7
+587,GRI 413-2.pages[2],64,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,6
+588,GRI 413-2.pages[3],65,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,8
+589,GRI 413-2.pages[4],66,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,7
+590,GRI 413-2.pages[5],67,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,7
+591,GRI 3-3 (Ethical Business and Regulatory Compliance).pages[0],68,ST-Engineering-Sustainability-Report-,2022,Ethical Behaviour,7
+592,GRI 3-3 (Ethical Business and Regulatory Compliance).pages[1],69,ST-Engineering-Sustainability-Report-,2022,Ethical Behaviour,7
+593,GRI 3-3 (Ethical Business and Regulatory Compliance).pages[3],71,ST-Engineering-Sustainability-Report-,2022,Ethical Behaviour,7
+594,GRI 205-2.pages[0],69,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,7
+595,GRI 205-2.pages[1],70,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,7
+596,GRI 205-2.pages[2],71,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,7
+597,GRI 205-3.pages[0],68,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,8
+598,GRI 3-3 (Cybersecurity and Data Protection).pages[0],72,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,7
+599,GRI 3-3 (Cybersecurity and Data Protection).pages[1],73,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,7
+600,GRI 418-1.pages[1],73,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,7
+601,UNGC_Labour[0].Sustainability_Report_2022[0],10,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,7
+602,UNGC_Labour[1].Sustainability_Report_2022[0],10,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,8
+603,UNGC_Labour[2].Sustainability_Report_2022[0],10,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,7
+604,UNGC_Labour[3].Sustainability_Report_2022[0],10,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,7
+605,UNGC_Labour[3].Sustainability_Report_2022[2],54,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,7
+606,UNGC_Environment[0].Sustainability_Report_2022[0],11,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,8
+607,UNGC_Environment[0].Sustainability_Report_2022[1],18,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,7
+608,UNGC_Environment[0].Sustainability_Report_2022[2],19,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,7
+609,UNGC_Environment[0].Sustainability_Report_2022[3],20,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,7
+610,UNGC_Environment[0].Sustainability_Report_2022[4],21,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,7
+611,UNGC_Environment[0].Sustainability_Report_2022[5],22,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,9
+612,UNGC_Environment[0].Sustainability_Report_2022[7],36,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,8
+613,UNGC_Environment[0].Sustainability_Report_2022[8],37,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,7
+614,UNGC_Environment[0].Sustainability_Report_2022[11],40,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,7
+615,UNGC_Environment[0].Sustainability_Report_2022[12],41,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,7
+616,UNGC_Environment[1].Sustainability_Report_2022[0],36,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,7
+617,UNGC_Environment[1].Sustainability_Report_2022[2],38,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,8
+618,UNGC_Environment[2].Sustainability_Report_2022[0],18,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,7
+619,UNGC_Environment[2].Sustainability_Report_2022[1],19,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,8
+620,UNGC_Environment[2].Sustainability_Report_2022[3],21,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,7
+621,UNGC_Anti_Corruption[0].Sustainability_Report_2022[0],68,ST-Engineering-Sustainability-Report-,2022,Ethical Behaviour,7
+622,UNGC_Anti_Corruption[0].Sustainability_Report_2022[1],69,ST-Engineering-Sustainability-Report-,2022,Ethical Behaviour,7
+623,UNGC_Anti_Corruption[0].Sustainability_Report_2022[2],70,ST-Engineering-Sustainability-Report-,2022,Ethical Behaviour,7
+624,UNGC_Anti_Corruption[0].Sustainability_Report_2022[3],71,ST-Engineering-Sustainability-Report-,2022,Ethical Behaviour,7
+625,UNGC_Anti_Corruption[0].Annual_Report_2022[0],80,ST-Engineering-Sustainability-Report-,2022,Ethical Behaviour,8
+626,UNGC_Anti_Corruption[0].Annual_Report_2022[1],98,ST-Engineering-Sustainability-Report-,2022,Ethical Behaviour,8
+627,UNGC_Anti_Corruption[0].Annual_Report_2022[2],99,ST-Engineering-Sustainability-Report-,2022,Ethical Behaviour,8
+628,UNGC_Anti_Corruption[0].Annual_Report_2022[3],101,ST-Engineering-Sustainability-Report-,2022,Ethical Behaviour,9
+629,UNGC_Anti_Corruption[0].Annual_Report_2022[4],108,ST-Engineering-Sustainability-Report-,2022,Ethical Behaviour,7
+630,1.Sustainability_Report_2022[1],38,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,8
+631,1.Sustainability_Report_2022[2],39,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,6
+632,1.Sustainability_Report_2022[0],41,ST-Engineering-Sustainability-Report-,2022,Assurance of Sustainability Report,6
+633,2.pages[0],72,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,7
+634,1.pages[2],34,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,6
+635,1.pages[3],35,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,7
+636,1.pages[1],69,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,7
+637,3.pages[1],69,ST-Engineering-Sustainability-Report-,2022,Alignment with Frameworks And Disclosure Practices,7
+638,PageNumbersInContents.TotalWorkplaceSafetyAndHealth,35,ST-Engineering-Sustainability-Report-,2021,Occupational Health & Safety,4
+639,PageNumbersInContents.EconomicPerformance,46,ST-Engineering-Sustainability-Report-,2021,Economic Performance,8
+640,PageNumbersInContents.SustainabilityAccountingStandardsBoard,87,ST-Engineering-Sustainability-Report-,2021,Alignment with Frameworks And Disclosure Practices,7
+641,GHG_emissions_target.reduction_percentage,50,ST-Engineering-Sustainability-Report-,2021,Greenhouse Gas Emissions(“GHG”),7
+642,png.GHG_Emissions_Reduction,30,ST-Engineering-Sustainability-Report-,2021,Greenhouse Gas Emissions(“GHG”),3
+643,png.Economic_Contributions,7.2,ST-Engineering-Sustainability-Report-,2021,Economic Performance,7
+644,png.Average_Training_Hours_Per_Employee,21,ST-Engineering-Sustainability-Report-,2021,Development & Training,7
+645,png.Bribery_and_Corruption_Cases,0,ST-Engineering-Sustainability-Report-,2021,Ethical Behaviour,10
+646,certifications[0].ISO,14001,ST-Engineering-Sustainability-Report-,2021,ESG-related Certifications,7
+647,certifications[1].ISO,45001,ST-Engineering-Sustainability-Report-,2021,ESG-related Certifications,8
+648,certifications[2].ISO,9001,ST-Engineering-Sustainability-Report-,2021,ESG-related Certifications,7
+649,GHG_Emissions_Target.Reduction_Percentage,56,ST-Engineering-Sustainability-Report-,2021,Greenhouse Gas Emissions(“GHG”),6
+650,Energy_Consumption.2019,744,ST-Engineering-Sustainability-Report-,2021,Energy Consumption(GJ),3
+651,Energy_Consumption.2020,739,ST-Engineering-Sustainability-Report-,2021,Energy Consumption(GJ),7
+652,Energy_Consumption.2021,778,ST-Engineering-Sustainability-Report-,2021,Energy Consumption(GJ),3
+653,water_consumption_intensity_decrease.percentage,15,ST-Engineering-Sustainability-Report-,2021,Water Consumption,6
+654,waste_recycling.percentage,78,ST-Engineering-Sustainability-Report-,2021,Waste Generation,8
+655,waste_recycling.total_tonnes,5900,ST-Engineering-Sustainability-Report-,2021,Waste Generation,3
+656,water_consumption.2019,656,ST-Engineering-Sustainability-Report-,2021,Water Consumption,5
+657,water_consumption.2020,717,ST-Engineering-Sustainability-Report-,2021,Water Consumption,6
+658,water_consumption.2021,638,ST-Engineering-Sustainability-Report-,2021,Water Consumption,4
+659,waste_recycled_percentage.metal,73,ST-Engineering-Sustainability-Report-,2021,Waste Generation,6
+660,waste_recycled_percentage.wood,18,ST-Engineering-Sustainability-Report-,2021,Waste Generation,5
+661,waste_recycled_percentage.batteries,7,ST-Engineering-Sustainability-Report-,2021,Waste Generation,3
+662,waste_recycled_percentage.paper,2,ST-Engineering-Sustainability-Report-,2021,Waste Generation,2
+663,emissions_reduction_targets[0].percentage,56,ST-Engineering-Sustainability-Report-,2021,Greenhouse Gas Emissions(“GHG”),6
+664,emissions_reduction_targets[1].percentage,16,ST-Engineering-Sustainability-Report-,2021,Greenhouse Gas Emissions(“GHG”),4
+665,emissions_reduction_targets[2].percentage,36,ST-Engineering-Sustainability-Report-,2021,Greenhouse Gas Emissions(“GHG”),4
+666,png.water_usage_intensity_reduction_target,15,ST-Engineering-Sustainability-Report-,2021,Water Consumption,8
+667,png.LaptopsDonated,1000,ST-Engineering-Sustainability-Report-,2021,Development & Training,8
+668,png.EwasteRecycledMetricTons,1.5,ST-Engineering-Sustainability-Report-,2021,Waste Generation,2
+669,png.value_added_per_employment_cost,1.53,ST-Engineering-Sustainability-Report-,2021,Economic Performance,4
+670,png.annual_CO2_savings_tonnes,290000,ST-Engineering-Sustainability-Report-,2021,Greenhouse Gas Emissions(“GHG”),6
+671,png.Annual_productivity_savings_manhours,2000,ST-Engineering-Sustainability-Report-,2021,Economic Performance,4
+672,png.Estimated_emissions_avoidance_CO2_tons_annually,508000,ST-Engineering-Sustainability-Report-,2021,Greenhouse Gas Emissions(“GHG”),4
+673,png.Recovery_and_reuse_water_liters,2000000,ST-Engineering-Sustainability-Report-,2021,Water Consumption,5
+674,technology_seminar.attendees,400,ST-Engineering-Sustainability-Report-,2021,Development & Training,6
+675,png.employees_utilizing_digital_learning,6000,ST-Engineering-Sustainability-Report-,2021,Development & Training,7
+676,png.decommissioned_laptops_donated,1080,ST-Engineering-Sustainability-Report-,2021,Waste Generation,7
+677,By Geography.Singapore,63,ST-Engineering-Sustainability-Report-,2021,Alignment with Frameworks And Disclosure Practices,6
+678,By Qualification.Diploma or equivalent,18,ST-Engineering-Sustainability-Report-,2021,Development & Training,7
+679,By Age Group.30 and below,15,ST-Engineering-Sustainability-Report-,2021,Age-Based Diversity(existing employees by age group),3
+680,By Age Group.30+ to 40,26,ST-Engineering-Sustainability-Report-,2021,Age-Based Diversity(existing employees by age group),7
+681,By Age Group.40+ to 50,27,ST-Engineering-Sustainability-Report-,2021,Age-Based Diversity(existing employees by age group),7
+682,By Age Group.50+ to 60,23,ST-Engineering-Sustainability-Report-,2021,Age-Based Diversity(existing employees by age group),7
+683,By Age Group.Above 60,9,ST-Engineering-Sustainability-Report-,2021,Age-Based Diversity(existing employees by age group),7
+684,Employees.Male,79,ST-Engineering-Sustainability-Report-,2021,Management Diversity,7
+685,Supervised Workers.Male,85,ST-Engineering-Sustainability-Report-,2021,Management Diversity,7
+686,Average Training per Employee.Total,21,ST-Engineering-Sustainability-Report-,2021,Development & Training,5
+687,Average Training per Employee.Male,24,ST-Engineering-Sustainability-Report-,2021,Development & Training,5
+688,Average Training per Employee.Female,11,ST-Engineering-Sustainability-Report-,2021,Development & Training,7
+689,People Managers.Male,15,ST-Engineering-Sustainability-Report-,2021,Management Diversity,7
+690,png.employees,323,ST-Engineering-Sustainability-Report-,2021,Management Diversity,7
+691,png.Accident_Frequency_Rate_2021,1.1,ST-Engineering-Sustainability-Report-,2021,Occupational Health & Safety,8
+692,Falls_From_Height_Incidents_Decrease.From,21,ST-Engineering-Sustainability-Report-,2021,Occupational Health & Safety,7
+693,Falls_From_Height_Incidents_Decrease.To,12,ST-Engineering-Sustainability-Report-,2021,Occupational Health & Safety,6
+694,Occupational_Health_Performance_Indicators.Workplace_Safety_Health_Activities_Organised,112,ST-Engineering-Sustainability-Report-,2021,Occupational Health & Safety,7
+695,Occupational_Health_Performance_Indicators.Respiratory_Protection_Training_Attendance,100,ST-Engineering-Sustainability-Report-,2021,Occupational Health & Safety,10
+696,Occupational_Health_Performance_Indicators.New_Occupational_Disease_Cases,0,ST-Engineering-Sustainability-Report-,2021,Occupational Health & Safety,10
+697,Occupational_Health_Performance_Indicators.Audiometric_Examination_Attendance,100,ST-Engineering-Sustainability-Report-,2021,Occupational Health & Safety,10
+698,Occupational_Health_Performance_Indicators.New_Advanced_Noise_Induced_Deafness_Cases,0,ST-Engineering-Sustainability-Report-,2021,Occupational Health & Safety,10
+699,SafetyIncidentsBreakdown.CutsStabbedByObjects,15,ST-Engineering-Sustainability-Report-,2021,Occupational Health & Safety,7
+700,SafetyIncidentsBreakdown.StruckByObjects,13,ST-Engineering-Sustainability-Report-,2021,Occupational Health & Safety,7
+701,SafetyIncidentsBreakdown.FracturesSprainsBackPain,13,ST-Engineering-Sustainability-Report-,2021,Occupational Health & Safety,7
+702,SafetyIncidentsBreakdown.CaughtInBetweenObjects,13,ST-Engineering-Sustainability-Report-,2021,Occupational Health & Safety,7
+703,SafetyIncidentsBreakdown.FallsFromHeight,12,ST-Engineering-Sustainability-Report-,2021,Occupational Health & Safety,7
+704,SafetyIncidentsBreakdown.SlipsTripsAndFalls,12,ST-Engineering-Sustainability-Report-,2021,Occupational Health & Safety,7
+705,SafetyIncidentsBreakdown.MachineryInMotion,8,ST-Engineering-Sustainability-Report-,2021,Occupational Health & Safety,6
+706,SafetyIncidentsBreakdown.StruckAgainstObjects,8,ST-Engineering-Sustainability-Report-,2021,Occupational Health & Safety,8
+707,AccidentFrequencyRate.2019,0.7,ST-Engineering-Sustainability-Report-,2021,Occupational Health & Safety,8
+708,AccidentFrequencyRate.2020,0.8,ST-Engineering-Sustainability-Report-,2021,Occupational Health & Safety,9
+709,AccidentFrequencyRate.2021,1.1,ST-Engineering-Sustainability-Report-,2021,Occupational Health & Safety,9
+710,Halter_Marine_Safety_Achievements.Reduced_Lost_Time_Injuries_Percentage,95,ST-Engineering-Sustainability-Report-,2021,Occupational Health & Safety,8
+711,Halter_Marine_Safety_Achievements.Safety_Inspection_Score,8.6,ST-Engineering-Sustainability-Report-,2021,Occupational Health & Safety,9
+712,png.PageNumber,40,ST-Engineering-Sustainability-Report-,2021,Alignment with Frameworks And Disclosure Practices,4
+713,Group Economic Contribution (S$m).Bought-in material and services,4581,ST-Engineering-Sustainability-Report-,2021,Economic Performance,7
+714,"Group Economic Contribution (S$m).Employee wages, salaries and benefits",2122,ST-Engineering-Sustainability-Report-,2021,Economic Performance,8
+715,Group Economic Contribution (S$m).Dividends and interest paid,513,ST-Engineering-Sustainability-Report-,2021,Economic Performance,7
+716,Group Economic Contribution (S$m).Government taxes and levies,88,ST-Engineering-Sustainability-Report-,2021,Economic Performance,7
+717,Group Economic Contribution (S$m).Total,7224,ST-Engineering-Sustainability-Report-,2021,Economic Performance,8
+718,png.Total Economic Contributions,7200000000,ST-Engineering-Sustainability-Report-,2021,Economic Performance,3
+719,ntuc_education_and_training_fund.annual_contribution,250000,ST-Engineering-Sustainability-Report-,2021,Development & Training,7
+720,StayMasked distribution campaign.employees_supported,124,ST-Engineering-Sustainability-Report-,2021,Development & Training,7
+721,Engineering Good.decommissioned_laptops_donated,1069,ST-Engineering-Sustainability-Report-,2021,Development & Training,5
+722,Internships for STEM Talent.Number,1224,ST-Engineering-Sustainability-Report-,2021,Development & Training,7
+723,Shipbuilding Apprenticeship Programme.Apprentices,56,ST-Engineering-Sustainability-Report-,2021,Development & Training,6
+724,Shipbuilding Apprenticeship Programme.Since,2022,ST-Engineering-Sustainability-Report-,2021,Development & Training,7
+725,Industry Experiential Programme.Students,16,ST-Engineering-Sustainability-Report-,2021,Development & Training,8
+726,png.Bribery_Cases_2021,0,ST-Engineering-Sustainability-Report-,2021,Ethical Behaviour,10
+727,png.Corruption_Cases_2021,0,ST-Engineering-Sustainability-Report-,2021,Ethical Behaviour,10
+728,png.NonMonetary_Sanctions_Environmental_Health_Safety,0,ST-Engineering-Sustainability-Report-,2021,Occupational Health & Safety,5
+729,png.Singapore Code of Corporate Governance,2018,ST-Engineering-Sustainability-Report-,2021,Alignment with Frameworks And Disclosure Practices,6
+730,png.Board Committees,6,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+731,BoardMembersDetails.Vincent Chong Sy Feng[0],9,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+732,BoardMembersDetails.Vincent Chong Sy Feng[1],9,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+733,BoardMembersDetails.Vincent Chong Sy Feng[2],1,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+734,BoardMembersDetails.Vincent Chong Sy Feng[3],1,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+735,BoardMembersDetails.Vincent Chong Sy Feng[4],5,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+736,BoardMembersDetails.Vincent Chong Sy Feng[5],5,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+737,BoardMembersDetails.Vincent Chong Sy Feng[6],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+738,BoardMembersDetails.Vincent Chong Sy Feng[7],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+739,BoardMembersDetails.Vincent Chong Sy Feng[8],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+740,BoardMembersDetails.Vincent Chong Sy Feng[9],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,5
+741,BoardMembersDetails.Kwa Chong Seng[0],9,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+742,BoardMembersDetails.Kwa Chong Seng[1],9,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+743,BoardMembersDetails.Kwa Chong Seng[2],3,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+744,BoardMembersDetails.Kwa Chong Seng[3],3,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+745,BoardMembersDetails.Kwa Chong Seng[4],3,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+746,BoardMembersDetails.Kwa Chong Seng[5],3,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+747,BoardMembersDetails.Kwa Chong Seng[6],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+748,BoardMembersDetails.Kwa Chong Seng[7],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+749,BoardMembersDetails.Kwa Chong Seng[8],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+750,BoardMembersDetails.Kwa Chong Seng[9],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,3
+751,BoardMembersDetails.Kevin Kwok Khien[1],1,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+752,BoardMembersDetails.Kevin Kwok Khien[2],1,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+753,BoardMembersDetails.Kevin Kwok Khien[3],1,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+754,BoardMembersDetails.Leong Weng Keong Joseph[0],9,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+755,BoardMembersDetails.Leong Weng Keong Joseph[1],9,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+756,BoardMembersDetails.Leong Weng Keong Joseph[2],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,1
+757,BoardMembersDetails.Leong Weng Keong Joseph[3],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+758,BoardMembersDetails.Lim Ah Doo[0],8,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+759,BoardMembersDetails.Lim Ah Doo[1],9,ST-Engineering-Sustainability-Report-,2021,Board Composition,4
+760,BoardMembersDetails.Lim Ah Doo[2],4,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+761,BoardMembersDetails.Lim Ah Doo[3],5,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+762,BoardMembersDetails.Lim Ah Doo[4],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+763,BoardMembersDetails.Lim Ah Doo[5],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+764,BoardMembersDetails.Lim Ah Doo[6],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+765,BoardMembersDetails.Lim Ah Doo[7],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+766,BoardMembersDetails.Lim Chin Hu[0],9,ST-Engineering-Sustainability-Report-,2021,Board Composition,9
+767,BoardMembersDetails.Lim Chin Hu[1],9,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+768,BoardMembersDetails.Lim Chin Hu[2],3,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+769,BoardMembersDetails.Lim Chin Hu[3],3,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+770,BoardMembersDetails.Lim Chin Hu[4],3,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+771,BoardMembersDetails.Lim Chin Hu[5],3,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+772,BoardMembersDetails.Lim Chin Hu[7],1,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+773,BoardMembersDetails.Lim Chin Hu[8],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+774,BoardMembersDetails.Lim Chin Hu[9],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,9
+775,BoardMembersDetails.Lim Chin Hu[10],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+776,BoardMembersDetails.Lim Chin Hu[11],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+777,BoardMembersDetails.Lim Sim Seng[0],9,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+778,BoardMembersDetails.Lim Sim Seng[1],9,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+779,BoardMembersDetails.Lim Sim Seng[2],3,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+780,BoardMembersDetails.Lim Sim Seng[3],3,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+781,BoardMembersDetails.Lim Sim Seng[4],3,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+782,BoardMembersDetails.Lim Sim Seng[5],3,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+783,BoardMembersDetails.Lim Sim Seng[6],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+784,BoardMembersDetails.Lim Sim Seng[7],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+785,BoardMembersDetails.Lim Sim Seng[8],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+786,BoardMembersDetails.Lim Sim Seng[9],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,9
+787,BoardMembersDetails.Ng Bee Bee (May)[0],9,ST-Engineering-Sustainability-Report-,2021,Board Composition,3
+788,BoardMembersDetails.Ng Bee Bee (May)[2],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,4
+789,BoardMembersDetails.Ng Bee Bee (May)[3],3,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+790,BoardMembersDetails.Ng Bee Bee (May)[4],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,4
+791,BoardMembersDetails.Ng Bee Bee (May)[5],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+792,BoardMembersDetails.LG Ong Su Kiat Melvyn[0],8,ST-Engineering-Sustainability-Report-,2021,Board Composition,6
+793,BoardMembersDetails.LG Ong Su Kiat Melvyn[1],9,ST-Engineering-Sustainability-Report-,2021,Board Composition,6
+794,BoardMembersDetails.LG Ong Su Kiat Melvyn[2],4,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+795,BoardMembersDetails.LG Ong Su Kiat Melvyn[3],5,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+796,BoardMembersDetails.LG Ong Su Kiat Melvyn[4],1,ST-Engineering-Sustainability-Report-,2021,Board Composition,2
+797,BoardMembersDetails.LG Ong Su Kiat Melvyn[5],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+798,BoardMembersDetails.Quek See Tiat[0],9,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+799,BoardMembersDetails.Quek See Tiat[1],9,ST-Engineering-Sustainability-Report-,2021,Board Composition,9
+800,BoardMembersDetails.Quek See Tiat[2],5,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+801,BoardMembersDetails.Quek See Tiat[3],5,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+802,BoardMembersDetails.Quek See Tiat[4],5,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+803,BoardMembersDetails.Quek See Tiat[5],5,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+804,BoardMembersDetails.Quek See Tiat[6],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,9
+805,BoardMembersDetails.Quek See Tiat[7],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,9
+806,BoardMembersDetails.Song Su-Min[0],9,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+807,BoardMembersDetails.Song Su-Min[1],9,ST-Engineering-Sustainability-Report-,2021,Board Composition,6
+808,BoardMembersDetails.Song Su-Min[2],5,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+809,BoardMembersDetails.Song Su-Min[3],5,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+810,BoardMembersDetails.Song Su-Min[4],5,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+811,BoardMembersDetails.Song Su-Min[5],5,ST-Engineering-Sustainability-Report-,2021,Board Composition,9
+812,BoardMembersDetails.Song Su-Min[6],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,6
+813,BoardMembersDetails.Song Su-Min[7],2,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+814,BoardMembersDetails.Tan Peng Yam[0],4,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+815,BoardMembersDetails.Tan Peng Yam[1],4,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+816,BoardMembersDetails.Tan Peng Yam[2],1,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+817,BoardMembersDetails.Teo Ming Kian[0],1,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+818,BoardMembersDetails.Teo Ming Kian[1],1,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+819,BoardMembersDetails.Teo Ming Kian[2],1,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+820,BoardMembersDetails.Teo Ming Kian[3],1,ST-Engineering-Sustainability-Report-,2021,Board Composition,5
+821,BoardMembersDetails.Teo Ming Kian[4],1,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+822,BoardMembersDetails.Teo Ming Kian[5],1,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+823,BoardMembersDetails.Teo Ming Kian[6],1,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+824,BoardMembersDetails.Teo Ming Kian[7],1,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+825,BoardMembersDetails.COL Cai Dexian[0],1,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+826,BoardMembersDetails.COL Cai Dexian[1],1,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+827,BoardMembersDetails.COL Xu Youfeng[0],3,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+828,BoardMembersDetails.COL Xu Youfeng[1],8,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+829,NumberOfMeetingsHeldInFY2021.Board,9,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+830,NumberOfMeetingsHeldInFY2021.AC,5,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+831,NumberOfMeetingsHeldInFY2021.ERCC,3,ST-Engineering-Sustainability-Report-,2021,Board Composition,5
+832,NumberOfMeetingsHeldInFY2021.RD&T,1,ST-Engineering-Sustainability-Report-,2021,Development & Training,1
+833,NumberOfMeetingsHeldInFY2021.RSC,5,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+834,png.total_directors,13,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+835,png.alternate_directors,1,ST-Engineering-Sustainability-Report-,2021,Board Composition,6
+836,png.independent_non_executive_directors,9,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+837,png.non_independent_non_executive_directors,3,ST-Engineering-Sustainability-Report-,2021,Board Composition,6
+838,png.male_directors,11,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+839,png.non_executive_directors,12,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+840,png.independent_non_executive_directors_within_non_executive,9,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+841,png.2020_Share_Plans,True,ST-Engineering-Sustainability-Report-,2021,Development & Training,7
+842,PrivateSectorFY2021.BoardBasicRetainerFee,75000,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+843,AuditCommittee.Chairman,52000,ST-Engineering-Sustainability-Report-,2021,Board Composition,8
+844,OtherCommittees.Member,14000,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+845,AttendanceFees.PerBoardCommitteeMeeting,5000,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+846,AttendanceFees.PerBoardCommitteeMeetingAlternate,2500,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+847,PublicSectorNEDFeesFY2021.DeputyChairman_ChairmanExecutiveCommittee_ChairmanAuditCommittee,33750,ST-Engineering-Sustainability-Report-,2021,Board Composition,4
+848,PublicSectorNEDFeesFY2021.MemberExecutiveCommittee_MemberAuditCommittee_ChairmanOtherBoardCommittees,22500,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+849,"Between $2,250,000 and $2,500,000[1].Variable cash-based incentives",41,ST-Engineering-Sustainability-Report-,2021,Development & Training,5
+850,"Between $1,750,000 and $2,000,000[0].Salary",25,ST-Engineering-Sustainability-Report-,2021,Economic Performance,3
+851,Risk and Sustainability Committee.Meetings in 2021,5,ST-Engineering-Sustainability-Report-,2021,Board Composition,7
+852,png.Fees_Paid_External_Auditors_2021,4.5,ST-Engineering-Sustainability-Report-,2021,Assurance of Sustainability Report,7
+853,102-16.pages[0],7,ST-Engineering-Sustainability-Report-,2021,Alignment with Frameworks And Disclosure Practices,7
+854,102-18.pages[0],6,ST-Engineering-Sustainability-Report-,2021,Alignment with Frameworks And Disclosure Practices,8
+855,102-40.pages[0],10,ST-Engineering-Sustainability-Report-,2021,Alignment with Frameworks And Disclosure Practices,8
+856,102-55.pages[0],81,ST-Engineering-Sustainability-Report-,2021,Alignment with Frameworks And Disclosure Practices,7
+857,102-55.pages[1],82,ST-Engineering-Sustainability-Report-,2021,Alignment with Frameworks And Disclosure Practices,7
+858,102-55.pages[2],83,ST-Engineering-Sustainability-Report-,2021,Alignment with Frameworks And Disclosure Practices,8
+859,30_and_below.New_Hire,43,ST-Engineering-Sustainability-Report-,2021,Age-Based Diversity(existing employees by age group),4
+860,30+_to_40.New_Hire,18,ST-Engineering-Sustainability-Report-,2021,Age-Based Diversity (existing employees by age group),7
+861,30+_to_40.Turnover,18,ST-Engineering-Sustainability-Report-,2021,Age-Based Diversity (existing employees by age group),5
+862,40+_to_50.New_Hire,12,ST-Engineering-Sustainability-Report-,2021,Age-Based Diversity (existing employees by age group),8
+863,40+_to_50.Turnover,12,ST-Engineering-Sustainability-Report-,2021,Age-Based Diversity(existing employees by age group),2
+864,50+_to_60.New_Hire,8,ST-Engineering-Sustainability-Report-,2021,Age-Based Diversity(existing employees by age group),7
+865,50+_to_60.Turnover,7,ST-Engineering-Sustainability-Report-,2021,Age-Based Diversity(existing employees by age group),6
+866,Above_60.New_Hire,5,ST-Engineering-Sustainability-Report-,2021,Age-Based Diversity(existing employees by age group),7
+867,Employee_Category.Manager,11,ST-Engineering-Sustainability-Report-,2021,Management Diversity,8
+868,Employee_Category.Non-executive,29,ST-Engineering-Sustainability-Report-,2021,Development & Training,7
+869,Labour[0].Sustainability Report 2021 Pages[0],67,ST-Engineering-Sustainability-Report-,2021,Assurance of Sustainability Report,7
+870,Labour[0].Sustainability Report 2021 Pages[1],33,ST-Engineering-Sustainability-Report-,2021,Assurance of Sustainability Report,7
+871,Labour[2].Sustainability Report 2021 Page,67,ST-Engineering-Sustainability-Report-,2021,Assurance of Sustainability Report,7
+872,Labour[3].Sustainability Report 2021 Pages[0],67,ST-Engineering-Sustainability-Report-,2021,Assurance of Sustainability Report,7
+873,Environment[0].Sustainability Report 2021 Pages[1],13,ST-Engineering-Sustainability-Report-,2021,Assurance of Sustainability Report,7
+874,Environment[0].Sustainability Report 2021 Pages[2],14,ST-Engineering-Sustainability-Report-,2021,Assurance of Sustainability Report,7
+875,Environment[0].Sustainability Report 2021 Pages[3],15,ST-Engineering-Sustainability-Report-,2021,Alignment with Frameworks And Disclosure Practices,7
+876,Environment[0].Sustainability Report 2021 Pages[4],16,ST-Engineering-Sustainability-Report-,2021,Assurance of Sustainability Report,6
+877,Environment[0].Sustainability Report 2021 Pages[5],17,ST-Engineering-Sustainability-Report-,2021,Alignment with Frameworks And Disclosure Practices,7
+878,Environment[0].Sustainability Report 2021 Pages[6],18,ST-Engineering-Sustainability-Report-,2021,Assurance of Sustainability Report,7
+879,Environment[1].Sustainability Report 2021 Pages[0],68,ST-Engineering-Sustainability-Report-,2021,Alignment with Frameworks And Disclosure Practices,7
+880,Environment[1].Sustainability Report 2021 Pages[1],13,ST-Engineering-Sustainability-Report-,2021,Assurance of Sustainability Report,7
+881,Environment[1].Sustainability Report 2021 Pages[2],14,ST-Engineering-Sustainability-Report-,2021,Alignment with Frameworks And Disclosure Practices,7
+882,Environment[1].Sustainability Report 2021 Pages[3],15,ST-Engineering-Sustainability-Report-,2021,Assurance of Sustainability Report,8
+883,Environment[1].Sustainability Report 2021 Pages[4],16,ST-Engineering-Sustainability-Report-,2021,Assurance of Sustainability Report,8
+884,Environment[1].Sustainability Report 2021 Pages[5],17,ST-Engineering-Sustainability-Report-,2021,Alignment with Frameworks And Disclosure Practices,7
+885,Environment[1].Sustainability Report 2021 Pages[6],18,ST-Engineering-Sustainability-Report-,2021,Assurance of Sustainability Report,8
+886,Environment[2].Sustainability Report 2021 Pages[1],13,ST-Engineering-Sustainability-Report-,2021,Alignment with Frameworks And Disclosure Practices,7
+887,Environment[2].Sustainability Report 2021 Pages[7],23,ST-Engineering-Sustainability-Report-,2021,Assurance of Sustainability Report,8
+888,Environment[2].Sustainability Report 2021 Pages[9],25,ST-Engineering-Sustainability-Report-,2021,Assurance of Sustainability Report,7
+889,Environment[2].Sustainability Report 2021 Pages[10],26,ST-Engineering-Sustainability-Report-,2021,Assurance of Sustainability Report,5
+890,Anti-Corruption[0].Principle,10,ST-Engineering-Sustainability-Report-,2021,Ethical Behaviour,9
+891,Anti-Corruption[0].Sustainability Report 2021 Pages[0],67,ST-Engineering-Sustainability-Report-,2021,Ethical Behaviour,7
+892,Anti-Corruption[0].Sustainability Report 2021 Pages[1],53,ST-Engineering-Sustainability-Report-,2021,Ethical Behaviour,5
+893,Anti-Corruption[0].Sustainability Report 2021 Pages[2],54,ST-Engineering-Sustainability-Report-,2021,Ethical Behaviour,7
+894,Anti-Corruption[0].Sustainability Report 2021 Pages[3],77,ST-Engineering-Sustainability-Report-,2021,Ethical Behaviour,8
+895,Anti-Corruption[0].Sustainability Report 2021 Pages[4],78,ST-Engineering-Sustainability-Report-,2021,Ethical Behaviour,8
