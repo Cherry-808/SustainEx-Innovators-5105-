@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  frontend:
+    build: 
+      context: "E:/Files/NUS/DSS/DSS 5105/SustainEx Innovaters/SustainEx-Innovators-5105-/ESG report analyses front-end"
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    volumes:
+      - "E:/Files/NUS/DSS/DSS 5105/SustainEx Innovaters/SustainEx-Innovators-5105-/ESG report analyses front-end:/app"
+      - /app/node_modules
+    depends_on:
+      - backend
+    environment:
+      - REACT_APP_API_URL=http://localhost:5000
+
+  backend:
+    build: 
+      context: "E:/Files/NUS/DSS/DSS 5105/Project/Back_end"
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"
+    volumes:
+      - "E:/Files/NUS/DSS/DSS 5105/Project/Back_end:/app"
+    environment:
+      - FLASK_ENV=development
+      - FLASK_APP=app.py
+
+networks:
+  default:
+    name: esg-network
