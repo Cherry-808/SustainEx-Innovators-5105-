@@ -8,3 +8,4 @@ B_Group/ESG_invest.py：generating personalized ESG investment strategies based 
 B_Group/financial_esg_analysis.ipynb:quantify the financial impact of ESG performance on company valuation and risk profile,Analyze the correlation between ESG performance and financial metrics.  
 B_Group/esg_forecast.ipynb:Use Random Forest Regressor to predict future ESG Performance.  
 ![image](https://github.com/user-attachments/assets/2628417a-7f09-40fc-941f-26e7aec66e80)
+Reference：https://arxiv.org/html/2312.17264v1
