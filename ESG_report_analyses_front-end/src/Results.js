@@ -125,6 +125,18 @@ function Results() {
   <div>
   <FinalSummary />
   </div>
+
+  <div>
+      <h1>Personalized ESG Investment Strategies</h1>
+      <iframe
+        src="http://localhost:8501"
+        title="Streamlit App"
+        width="800"
+        height="600"
+        style={{ border: "none" }}
+      ></iframe>
+    </div>
+
         </div>
       </div>
     </div>

@@ -3,6 +3,8 @@ import numpy as np
 import pandas as pd
 import scipy.optimize as sco
 import matplotlib.pyplot as plt
+import os
+os.environ["STREAMLIT_SERVER_PORT"] = "8501"
 
 # Sample stock returns data
 np.random.seed(42)
@@ -91,5 +93,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
 
 

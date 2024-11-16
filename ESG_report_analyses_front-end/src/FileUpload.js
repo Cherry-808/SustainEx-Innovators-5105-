@@ -84,7 +84,7 @@ function FileUpload() {
     <div className="file-upload-container">
       <div className="file-upload-content">
         <div className="project-introduction">
-          <h1 className="project-title">Automated ESG Data Extraction and Performance Analysis Project</h1>
+          <h1 className="project-title">Automated ESG Data Extraction and Performance Analysis</h1>
           <p className="project-description">
             Environmental, Social, and Governance (ESG) reporting has become increasingly crucial for businesses and investors. 
             However, the process of extracting relevant ESG information from unstructured reports is often time-consuming and 
@@ -96,8 +96,7 @@ function FileUpload() {
             unstructured reports and provides a comprehensive analysis of ESG performance within selected industries. 
             By leveraging advanced natural language processing (NLP) techniques and data analysis, the project seeks to 
             streamline the ESG data extraction process, improve data quality, and offer valuable insights into corporate 
-            sustainability practices.
-          </p>
+            sustainability practices.</p>
         </div>
 
         <div className="upload-section">
