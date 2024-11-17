@@ -1,0 +1,112 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #c1e4c2;
+  padding: 20px;
+}
+
+.card {
+  background-color: #c1e4c2;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  max-width: 1000px;
+  width: 80%;
+}
+
+.title {
+  font-size: 24px;
+  margin-bottom: 10px;
+  text-align: center;
+  color: #333;
+}
+
+.description {
+  font-size: 16px;
+  margin-bottom: 20px;
+  text-align: center;
+  color: #555;
+}
+
+.contact-info {
+  margin-bottom: 20px;
+}
+
+.section-title {
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: #444;
+}
+
+.info-card {
+  padding: 10px;
+  border-radius: 8px;
+  background-color: #fff;
+  margin-bottom: 8px;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.info-card:hover {
+  transform: scale(1.05); /* 放大效果 */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* 增加阴影 */
+}
+
+.thank-you-message {
+  text-align: center;
+  color: green;
+}
+
+
+.label {
+  margin-bottom: 5px;
+  font-size: 14px;
+  color: #555;
+}
+
+.input,
+.textarea {
+  width: 150%; /* 输入框和文本框宽度占满父容器 */
+  max-width: 600px; /* 最大宽度 */
+  padding: 15px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+  box-sizing: border-box; /* 确保内边距不会影响总宽度 */
+}
+
+.textarea {
+  min-height: 100px; /* 提高消息文本框的高度 */
+}
+
+.form-group {
+  width: 100%; /* 表单组宽度 */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center; /* 确保输入框居中 */
+}
+
+.button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #45a049; /* 鼠标悬停时颜色变化 */
+}

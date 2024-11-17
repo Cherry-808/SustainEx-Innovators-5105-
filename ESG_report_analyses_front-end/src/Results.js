@@ -118,7 +118,17 @@ function Results() {
       <h1 className="small-title">Want to know more about the report?</h1>
       <p></p>We will apply AI models and text analytics to extract information from your uploaded corporate ESG reports related to <b>Human Capital Development, Innovation Management, Occupational Health & Safety, Climate Strategy, Human Rights, Environmental Policy & Management Systems, Employees Gender & Age Diversity, Operational Eco-Efficiency, Low Carbon Strategy, Water Related, and other ESG issues. Rights, Environmental Policy & Management Systems, Employee Gender & Age Diversity, Operational Eco-Efficiency, Low Carbon Strategy, Water Related Risks, Business Ethics, Corporate Governance, Green House Gas Emissions, Supply Chain Management, Waste Generation, Labour Practice Indicators. Average Training Hours Per Employee</b> and other key content related to 17 dimensions.
       <p></p>Note: If you are interested in the above, please press the button below to start the analysis. Please be patient as the model takes a long time to run. Thank you for your understanding.
-    </header>
+      <p>
+          Click to see an example:{" "}
+          <a
+            href="https://drive.google.com/file/d/1EwnrMfMNNiFAZPtTZhzuW3IeGnKnbSR5/view?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            View Example Report
+          </a>
+        </p>
+         </header>
   </div>
 
   {/* 新增这个组件 */}
@@ -126,16 +136,6 @@ function Results() {
   <FinalSummary />
   </div>
 
-  <div>
-      <h1>Personalized ESG Investment Strategies</h1>
-      <iframe
-        src="http://localhost:8501"
-        title="Streamlit App"
-        width="800"
-        height="600"
-        style={{ border: "none" }}
-      ></iframe>
-    </div>
 
         </div>
       </div>

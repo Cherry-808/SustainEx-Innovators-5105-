@@ -1,21 +1,52 @@
-import React, { useState } from 'react';
-import axios from 'axios';
-import { Link } from 'react-router-dom';
+import React, { useState } from "react";
+import axios from "axios";
+import { Link } from "react-router-dom";
 import { FaUpload } from "react-icons/fa";
-import ProcessControl from './ProcessControl';  // 新增这行
+import { ScrollMenu } from "react-horizontal-scrolling-menu";
+import "react-horizontal-scrolling-menu/dist/styles.css"; // 引入样式
+import "./FileUpload.css"; // 自定义样式
+import ProcessControl from "./ProcessControl";
 
 function FileUpload() {
   const [file, setFile] = useState(null);
   const [uploadStatus, setUploadStatus] = useState(null);
   const [isLoading, setIsLoading] = useState(false);
-  const [errorMessage, setErrorMessage] = useState('');
+  const [errorMessage, setErrorMessage] = useState("");
 
-  const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:5000';
+  const API_URL = process.env.REACT_APP_API_URL || "http://localhost:5000";
+
+  const companies = [
+    {
+      name: "Sembcorp Industries",
+      website: "https://www.sembcorp.com",
+      description: "Leading sustainable solutions provider in Singapore.",
+    },
+    {
+      name: "First Solar",
+      website: "https://www.firstsolar.com",
+      description: "One of the largest solar panel manufacturers globally.",
+    },
+    {
+      name: "Vestas",
+      website: "https://www.vestas.com",
+      description: "A world leader in wind turbine manufacturing.",
+    },
+    {
+      name: "SunPower Corporation",
+      website: "https://us.sunpower.com",
+      description: "Global innovator in solar energy solutions.",
+    },
+    {
+      name: "Keppel Corporation",
+      website: "https://www.kepcorp.com",
+      description: "Singapore sustainable energy and urbanization company.",
+    },
+  ];
 
   const onFileChange = (event) => {
     const selectedFile = event.target.files[0];
-    setErrorMessage('');
-    
+    setErrorMessage("");
+
     if (!selectedFile) {
       return;
     }
@@ -25,7 +56,7 @@ function FileUpload() {
       return;
     }
 
-    if (selectedFile.size > 10 * 1024 * 1024) {  // 10MB limit
+    if (selectedFile.size > 10 * 1024 * 1024) {
       setErrorMessage("File size exceeds 10MB limit.");
       return;
     }
@@ -41,10 +72,9 @@ function FileUpload() {
     }
 
     setIsLoading(true);
-    setErrorMessage('');
+    setErrorMessage("");
     const formData = new FormData();
     formData.append("file", file);
-
 
     try {
       const response = await axios.post(`${API_URL}/upload_pdf`, formData, {
@@ -62,17 +92,14 @@ function FileUpload() {
       if (response.status === 200) {
         setUploadStatus("File uploaded successfully! Analysis is in progress...");
         console.log("Response from server:", response.data);
-      } 
+      }
     } catch (error) {
       console.error("Error uploading file:", error);
       if (error.response) {
-        // Server responded with error
         setErrorMessage(error.response.data.error || "Server error occurred");
       } else if (error.request) {
-        // Request made but no response
         setErrorMessage("Could not connect to server. Please check if the server is running.");
       } else {
-        // Error in request setup
         setErrorMessage("Error preparing upload. Please try again.");
       }
     } finally {
@@ -81,30 +108,37 @@ function FileUpload() {
   };
 
   return (
-    <div className="file-upload-container">
-      <div className="file-upload-content">
-        <div className="project-introduction">
-          <h1 className="project-title">Automated ESG Data Extraction and Performance Analysis</h1>
-          <p className="project-description">
-            Environmental, Social, and Governance (ESG) reporting has become increasingly crucial for businesses and investors. 
-            However, the process of extracting relevant ESG information from unstructured reports is often time-consuming and 
-            labor-intensive. Additionally, evaluating ESG performance across companies and industries remains challenging due 
-            to the lack of standardized, easily comparable data.
-          </p>
-          <p className="project-description">
-            This project aims to develop an innovative system that automates the extraction of ESG information from 
-            unstructured reports and provides a comprehensive analysis of ESG performance within selected industries. 
-            By leveraging advanced natural language processing (NLP) techniques and data analysis, the project seeks to 
-            streamline the ESG data extraction process, improve data quality, and offer valuable insights into corporate 
-            sustainability practices.</p>
-        </div>
+    
+      <div className="file-upload-container">
+        <div className="file-upload-content">
+          {/* 水平滚动部分 */}
+          <div className="horizontal-scroll-section">
+            <h2 className="carousel-title">Top Renewable Energy Companies</h2>
+            <div className="auto-scroll-wrapper">
+              {companies.map((company, index) => (
+                <div className="scroll-card" key={index}>
+                  <h3 className="scroll-company">{company.name}</h3>
+                  <p className="scroll-description">{company.description}</p>
+                  <a
+                    href={company.website}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="scroll-link"
+                  >
+                    Visit Website
+                  </a>
+                </div>
+              ))}
+            </div>
+          </div>
+  
 
+        {/* 文件上传部分 */}
         <div className="upload-section">
           <h2 className="upload-title">Upload Your Report</h2>
           <p className="upload-instructions">Please upload a PDF file. Maximum size: 10MB.</p>
-          
-        <div className="button-group">
-          <label htmlFor="file" className="upload-btn">
+          <div className="button-group">
+            <label htmlFor="file" className="upload-btn">
               <FaUpload style={{ marginRight: "0.5rem" }} /> Select File
             </label>
             <input
@@ -115,139 +149,28 @@ function FileUpload() {
               accept=".pdf"
               disabled={isLoading}
             />
-          
+            <button
+              className="upload-btn"
+              onClick={onFileUpload}
+              disabled={!file || isLoading}
+            >
+              <FaUpload style={{ marginRight: "0.5rem" }} />
+              {isLoading ? "Uploading..." : "Upload!"}
+            </button>
+          </div>
 
-            <button 
-             className="upload-btn" 
-             onClick={onFileUpload}
-             disabled={!file || isLoading}
-        >
-             <FaUpload style={{ marginRight: "0.5rem" }} />
-             {isLoading ? 'Uploading...' : 'Upload!'}
-        </button>
+          <ProcessControl />
+
+          {errorMessage && <p className="error-message">{errorMessage}</p>}
+          {uploadStatus && <p className="upload-status">{uploadStatus}</p>}
         </div>
-   
-        
-            {/* 新增这个组件 */}
-        <ProcessControl />
-        
-        {errorMessage && <p className="error-message">{errorMessage}</p>}
-        {uploadStatus && <p className="upload-status">{uploadStatus}</p>}
-        </div>
-      
+
         <div className="results-link">
-          <Link to="/results" className="analysis-button">Go to Analysis Results</Link>
+          <Link to="/results" className="analysis-button">
+            Go to Analysis Results
+          </Link>
         </div>
-   
-    </div>
-      <style jsx>{`
-        .file-upload-container {
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          min-height: calc(100vh - 60px);
-          padding: 20px;
-        }
-
-        .file-upload-content {
-          display: flex;
-          flex-direction: column;
-          align-items: center;
-          gap: 30px;
-          max-width: 800px;
-          width: 100%;
-          text-align: center;
-        }
-
-        .project-introduction {
-          text-align: left;
-          width: 100%;
-          margin-bottom: 20px;
-        }
-
-        .project-title {
-          font-size: 1.8rem;
-          color: #2e7d32;
-          margin-bottom: 20px;
-          text-align: center;
-        }
-
-        .project-description {
-          font-size: 1rem;
-          line-height: 1.6;
-          color: #555;
-          margin-bottom: 15px;
-          text-align: justify;
-        }
-
-        .upload-section {
-          width: 100%;
-          padding: 30px;
-          border-radius: 8px;
-          background-color: #f8f8f8;
-          margin-top: 20px;
-        }
-
-        .upload-title {
-          font-size: 1.5rem;
-          color: #333;
-          margin-bottom: 15px;
-        }
-
-        .upload-instructions {
-          color: #666;
-          margin: 10px 0 20px;
-        }
-
-        .button-group {
-          display: flex;
-          gap: 15px;
-          justify-content: center;
-          margin: 20px 0;
-        }
-
-        .upload-btn {
-          background-color: #4CAF50;
-          color: white;
-          padding: 10px 20px;
-          border: none;
-          border-radius: 5px;
-          cursor: pointer;
-          display: flex;
-          align-items: center;
-          font-size: 1rem;
-          transition: background-color 0.3s;
-        }
-
-        .upload-btn:hover {
-          background-color: #45a049;
-        }
-
-        .file-input {
-          display: none;
-        }
-
-        .upload-status {
-          color: #666;
-          margin: 10px 0;
-        }
-
-        .analysis-button {
-          display: inline-block;
-          padding: 10px 20px;
-          border: 2px solid #4CAF50;
-          border-radius: 5px;
-          color: #4CAF50;
-          text-decoration: none;
-          transition: all 0.3s;
-          margin-top: 10px;
-        }
-
-        .analysis-button:hover {
-          background-color: #4CAF50;
-          color: white;
-        }
-      `}</style>
+      </div>
     </div>
   );
 }
